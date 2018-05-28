@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526998868090.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "628D0E2E",
+    "lastKnownWriteTime" : 4294967302,
+    "last_content_update" : 1526998868090,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5E7A6F9C",
+        "caption" : "realist_dataset",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=realist_dataset&cache_key=5E7A6F9C",
+        "displayedObservations" : 18,
+        "environment" : "",
+        "object" : "realist_dataset",
+        "preview" : 0,
+        "totalObservations" : 18,
+        "variables" : 2
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

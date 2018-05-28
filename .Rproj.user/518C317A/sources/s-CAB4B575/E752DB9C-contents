@@ -1,0 +1,104 @@
+---
+title: "Opinnäytetöiden aihemallinnus"
+date: "24 May 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(tidytext)
+library(here)
+library(stringr)
+library(stm)
+
+```
+
+```{r load-prepare-data, include=FALSE, echo = FALSE}
+project_dir <- here::here()
+
+stopwords <- base::readLines(paste0(project_dir,'/data/stopwords.txt'))
+constructivist_dataset <- readr::read_csv2(paste0(project_dir,'/processed_data/constructivist-dataset.csv'))
+realist_dataset <- readr::read_csv2(paste0(project_dir,'/processed_data/critical-realist-dataset.csv'))
+combined_data <- base::rbind(constructivist_dataset, realist_dataset)
+
+constructivist_documents <- readLines(paste0(project_dir,'/processed_data/constructivist-documents.txt'))
+realist_documents <- readLines(paste0(project_dir,'/processed_data/critical-realist-documents.txt'))
+
+combined_documents <- c(constructivist_documents, realist_documents)
+
+processed <- stm::textProcessor(
+  combined_data$document,
+  metadata = combined_data,
+  stem = FALSE,
+  customstopwords = stopwords)
+
+out <- stm::prepDocuments(
+  processed$documents,
+  processed$vocab,
+  processed$meta,
+  lower.thresh = 3)
+
+```
+
+```{r estimating-model-spectral, eval = TRUE, echo = FALSE, message=FALSE}
+final_model_fit <- suppressPackageStartupMessages(stm::stm(
+  documents = out$documents,
+  vocab = out$vocab,
+  K = 10,
+  prevalence =~ epistemology,
+  max.em.its = 75,
+  data = out$meta,
+  init.type = "Spectral"))
+```
+
+
+
+```{r estimate-effect, echo = FALSE}
+prep <- stm::estimateEffect(
+  1:10 ~ epistemology, final_model_fit, meta = out$meta, uncertainty = "Global")
+```
+
+```{r top-topics, fig.height=5, fig.width=8, echo=FALSE}
+graphics::plot(final_model_fit, type = "summary", xlim = c(0, .3))
+```
+
+```{r covariate-comparison, echo=FALSE, fig.height=10, fig.width=15}
+graphics::plot(prep, covariate = "epistemology", topics = c(1:10),model = final_model_fit, method = "difference", cov.value1 = "critical-realism",cov.value2 = "constructivist",xlim = c(-0.7,0.7))
+par(mai=c(1.02,2.2,0.82,2.2))
+```
+
+## Listaus dokumenteista joissa aihe esiintyy
+
+Listauksen numero vastaa aiheen (topic) numeroa. Aihe voi esiintyä myös muissa kuin listaukseen valituissa kuudessa dokumentissa aihetta kohti.
+
+```{r document-names}
+document_names <- list()
+for (i in 1:10) {
+  document_names[[i]]<-findThoughts(final_model_fit, texts = combined_documents,n = 6, topics = i)$docs[[1]]
+}
+print(document_names)
+```
+
+## Vertailumuuttuja ja aiheen esiintyvyys
+
+Kun aineisto on näin pieni, p-lukuihin ei kannattane juuri luottaa.
+
+```{r}
+summary(prep)
+```
+
+```{r document-wordclouds}
+for (i in 1:10) {
+  cloud(final_model_fit, topic = i, scale = c(2,.25),)
+  title(paste0("Sanapilvi aihe ",i))
+}
+```
+
+# Aiheiden laadukkuus (semantic coherence & exlusivity)
+
+
+```{r topic-quality}
+topicQuality(final_model_fit,documents=out$documents)
+```
+
