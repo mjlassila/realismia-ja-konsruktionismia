@@ -1,3 +1,0 @@
-"0","for (i in 1:10) {"
-"0","  cloud(final_model_fit, topic = i, scale = c(2,.25))"
-"0","}"
