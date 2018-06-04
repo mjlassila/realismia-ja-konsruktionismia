@@ -1,0 +1,624 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_11"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Aaltonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M-L</forename><surname>Järviö</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Luoma</surname></persName>
+		</author>
+		<title level="m">Terveyskeskusten tehokkuutta ja tuottavuutta selvittävät tekijät</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Valtion taloudellinen tutkimuskeskus</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Keuruun-Multian terveyskeskuksen poliklinikan osastonhoitaja</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Annala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haastattelu</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<date type="published" when="2010-06" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Ashorn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tutkijapuheenvuoroja terveydenhuollossa. Stakes. Gummerus</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Institute on Medicine Staff Committee on the Consequences on Uninsurance Board on Health Care Services Staff</title>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>National Academies Press</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Care Without Coverage: Too Little, Too Late</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J &amp;amp;</forename><surname>Eskola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Suoranta</surname></persName>
+		</author>
+		<title level="m">Johdatus laadulliseen tutkimukseen</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Fawcett</surname></persName>
+		</author>
+		<title level="m">Hoitotyön käsitteellistien mallien analyysi ja arviointi</title>
+		<meeting><address><addrLine>Juva</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Tiedon arkeologia (L árcheologie du savoir</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Foucault</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1969" />
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Mitä sosiaalinen konstruktionismi on? (The social Construction of What? 1999)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Hacking</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+			<pubPlace>Tallinna</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hannula</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Teoksessa Syrjäläinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Eronen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V-M</forename><surname>Värri</surname></persName>
+		</author>
+		<title level="m">Avauksia laadullisen tutkimuksen analyysiin</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Helsingin Sanomat nettiversio 27.10.2010. STT, Puolet lääkäreistä kertoo joskus tinkineensä hoidosta rahan takia</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Hoidon hinta ja tasa-arvo terveydenhuollon eettisenä haasteena</title>
+	</analytic>
+	<monogr>
+		<title level="j">ETENE julkaisuja</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Asiakkaiden tyytyväisyys sairaankuljetukseen KeskiSuomen aluepelastuslaitoksen alueella. Opinnäytetyö</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Huttu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kukkurainen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Jyväskylän ammattikorkeakoulu, hoitotyön koulutusohjelma</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Hyyppä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H-L</forename><surname>Liikanen</surname></persName>
+		</author>
+		<title level="m">Kulttuuri ja terveys</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Laadulliset tutkimusmenetelmät hoitotieteessä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Janhonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nikkonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<publisher>WSOY</publisher>
+			<pubPlace>Juva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Jansson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Paikkatietoanalyyseistä kuntatutkimuksessa</title>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Junnila</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Toimiiko terveydenhuoltoalue? Tutkimus Mäntän seudun terveydenhuoltoalueen perustamisen taustoista ja vaikutuksista</title>
+		<imprint>
+			<publisher>Vaajakoski</publisher>
+			<date type="published" when="2008" />
+			<biblScope unit="volume">178</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Suolatut säkeet: Suomen ja suomalaisuuden diskursiivinen muotoutuminen 1699-luvulta Topeliukseen. 2. elektroninen painos</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Kannisto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Suolatut säkeet</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Karisto</surname></persName>
+		</author>
+		<title level="m">Satumaa-suomalaiseläkeläiset Espanjan aurinkorannikolla</title>
+		<imprint>
+			<publisher>Helsinki</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Keskimäki</surname></persName>
+		</author>
+		<title level="m">Raha ratkaisee sittenkin. (Tuominen, E) Suomen lääkärilehti 44</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Koivusalo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Ollila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>&amp;amp;alanko</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Kansalaisesta kuluttajaksi. Hakapaino</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Koskela</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Teoksessa Syrjäläinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Eronen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Värri</surname></persName>
+		</author>
+		<title level="m">Avauksia laadullisen tutkimuksen analyysiin</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kristoffersen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Norvedt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E-A</forename><surname>Saug</surname></persName>
+		</author>
+		<title level="m">Hoitotyön perusteet</title>
+		<imprint>
+			<publisher>Tanska</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kytö</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tuorila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Väliniemi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Terveyskeskuspalvelujen laatu ja saavutettavuus</title>
+		<imprint>
+			<date type="published" when="2008" />
+			<biblScope unit="volume">8</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Leino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kähärä</surname></persName>
+		</author>
+		<title level="m">Yksilövastuisen hoitotyön periaatteiden toteutuminen potilaiden arvioimana. Opinnäytetyö. Jyväskylän ammattikorkeakoulu, hoitotyön koulutusohjelma</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kansallinen terveysrahasto, Kelan mahti kasvaisi-Kansaneläkelaitos haluaisi ottaa vastuulleen terveydenhuollon kehittämisen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Martinmäki</surname></persName>
+		</author>
+		<idno>18.10.2010</idno>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Tutkimuksen tekemisen perusteet ihmistieteissä. Opiskelijalaitos. Gummerus, 3. uudistettu painos, Vaajakoski. Mielenterveysbarometri</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Metsämuuronen</surname></persName>
+		</author>
+		<ptr target="http://www.mtkl.fi/?x752385=872750.Viitattu26.10" />
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Mielenterveyden keskusliitto</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Rose</surname></persName>
+		</author>
+		<title level="m">Miten meitä hallitaan</title>
+		<meeting><address><addrLine>Vastapaino, Tampere</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">L (toim) 1992. Kvalitatiivisen aineiston analyysi ja tulkinta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Mäkelä</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Gaudeamus. Helsinki</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Terveyspalvelusetelien hyvinvointi-ja kustannusvaikutukset jonotetuissa toimenpiteissä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Mälkönen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Seppälä</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Valtion taloudellinen tutkimuskeskus. Tutkimuksia</title>
+		<imprint>
+			<biblScope unit="volume">149</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Paatola</surname></persName>
+		</author>
+		<title level="m">Keski-Suomen keskussairaalan vs.hankintapäällikkö. Puhelinhaastattelu 15.09</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M &amp;amp;</forename><surname>Pelkonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M-L</forename><surname>Perälä</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Hoitotyön laadunvarmistuksen perusteet</title>
+		<imprint>
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Priorisointi terveydenhuollossa-mitä maksaa, kuka maksaa. Talentum</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O-P</forename><surname>Ryynänen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kukkonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Myllykangas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lammintakanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kinnunen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Saaranen-Kauppinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Puusniekka</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.fsd.uta.fi/menetelmaopetus/&gt;.(Viitattu06.11" />
+	</analytic>
+	<monogr>
+		<title level="j">KvaliMOTV-Menetelmäopetuksen tietovaranto Tampere : Yhteiskuntatieteellinen tietoarkisto</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Voimaantumisteorian perusteiden hahmottelua</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Siitonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+			<publisher>Oulun yliopisto, Kasvatustieteiden tiedekunta</publisher>
+		</imprint>
+	</monogr>
+<note type="report_type">Väitöskirja</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Rinnakkainen tehokkuuden mittausmalli</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Syrjänen</surname></persName>
+		</author>
+		<ptr target="http://www.energiamarkkinavirasto.fi/files/MikkoSyrjanen_20060329.pdf.Viitattu27.10" />
+	</analytic>
+	<monogr>
+		<title level="m">Gaia Consulting Oy</title>
+		<imprint>
+			<date type="published" when="2006" />
+			<biblScope unit="volume">29</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Konsumerismi, potilaiden ja kuluttajien aktiivinen toiminta sekä erityisesti lääkäreiden kokemukset ja näkemykset potilaista kuluttajina</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Toiviainen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Väitöskirja. Helsingin yliopisto, lääketieteellinen tiedekunta. Stakes. Tutkimuksia</title>
+		<imprint>
+			<biblScope unit="volume">160</biblScope>
+			<date type="published" when="2007" />
+			<publisher>Vaajakoski</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Tuominen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Raha ratkaisee sittenkin. Suomen Lääkärilehti</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Töttö</surname></persName>
+		</author>
+		<title level="m">Syvällistä ja pinnallista. Teoria, empiria ja kausaalisuus sosiaalitutkimuksessa</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

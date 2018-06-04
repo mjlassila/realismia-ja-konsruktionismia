@@ -1,0 +1,450 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_8"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Aalberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Veikko-Siimes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Martti</surname></persName>
+		</author>
+		<title level="m">Lapsesta aikuiseksi</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="70" to="73" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Erik</forename><surname>Allardt</surname></persName>
+		</author>
+		<title level="m">Hyvinvoinnin ulottuvuuksia</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY</publisher>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Asevelvollisuuslaki 1438/2007. Annettu Helsingissä 28.12</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari-Suoranta</forename><surname>Eskola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juha</forename></persName>
+		</author>
+		<title level="m">Johdatus laadulliseen tutkimukseen</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Daniel</forename><forename type="middle">M</forename><surname>Haybron</surname></persName>
+		</author>
+		<title level="m">The pursuit of unhappiness-The elusive psychology of wellbeing</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Daniel</forename><forename type="middle">M</forename><surname>Haybron</surname></persName>
+		</author>
+		<title level="m">Happiness-A very short introduction</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Mieli ja terveys</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Heikkinen-Peltonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marja</forename><forename type="middle">-</forename><surname>Riitta-Innamaa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marjut</forename><surname>Virta</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>Edita Publishing Oy</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ulla</forename><forename type="middle">-</forename><surname>Härkönen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Karhu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Raisa-Konkka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Jyrki-Mikkola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tuula-Roivas</surname></persName>
+		</author>
+		<title level="m">Hyvinvointi ja toimintakyky-yksikön opinnäytetyöohje</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Metropolia Ammattikorkeakoulu</publisher>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Laki naisten vapaaehtoisesta palveluksesta 194/1995. Annettu Helsingissä 17.2.1995. Laki puolustusvoimista 551/2007</title>
+	</analytic>
+	<monogr>
+		<title level="j">Annettu Helsingissä</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Varusmiespalvelus ja mielenterveys</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tanja</forename><forename type="middle">-</forename><surname>Laukkala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Henriksson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Matti</forename><surname>Markus-Ponteva</surname></persName>
+		</author>
+		<idno>13-14/13</idno>
+		<ptr target="&lt;http://www.potilaanlaakarilehti.fi/site/assets/files/6748/sll132013-1028.pdf&gt;.Luettu19.11" />
+	</analytic>
+	<monogr>
+		<title level="j">Suomen lääkärilehti</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="1028" to="1029" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Miksi palvelus keskeytyy?-Keskeyttäjien kokemuksia puolustusvoimien koulutuskulttuurista</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hanna</forename><surname>Liitola</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.doria.fi/bitstream/handle/10024/97517/E4394_LiitolaHK_EUK66.pdf?sequence=2&gt;" />
+	</analytic>
+	<monogr>
+		<title level="j">Tutkielma. Maanpuolustuskorkeakoulu. Maasotalinja. Esiupseerikurssi. Saatavilla sähköisesti osoitteessa</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Onnentaidot-kohti hyvää elämää. 1-5. painos</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Antti-Aarnisalo</forename><surname>Mattila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pekka</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>Duodecim</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Metropolia</forename><surname>Ammattikorkeakoulu</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.metropolia.fi/fileadmin/user_upload/M.fi-2015/MCreO/HyTo_Kirjallisen_ty%C3%B6n_ohjeet.pdf&gt;.Luettu9.4.2016" />
+		<title level="m">Kirjallisen työn ohjeet. Oppimistehtävien kirjoittaminen Hyvinvointi ja toimintakyky-korkeakouluyksiköissä</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Hukassa-Keitä ovat syrjäytyneet nuoret? Elinkeinoelämän valtuuskunta (EVA) analyysi, no. 19</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pekka</forename><surname>Myrskylä</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.eva.fi/wp-content/uploads/2012/02/Syrjaytyminen.pdf&gt;.Luettu20.11.2015" />
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Ihmisen toiminnallisuus ja hyvinvointi sosiaalityön teoreettisen ymmärryksen perustana</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pauli</forename><surname>Niemelä</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityö ja teoria</title>
+		<editor>Mäntysaari, Mikko-Pohjola, Anneli-Pösö, Tarja</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="209" to="236" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Varusmiespalveluksen keskeytymisen ennakointi. Seurantatutkimus strukturoidun varusmieshaastattelun ja varusmiesseulan ennusarvosta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kai</forename><surname>Parkkola</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+			<publisher>Väitöskirja. Turun yliopisto ja Suomen lääkintäupseeriliitto</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kriittinen realismi sosiaalityössätiedontuotannosta emansipaatioon</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Elina-Tapola-Haapala</forename><surname>Pekkarinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityö ja teoria</title>
+		<editor>Mäntysaari, Mikko-Pohjola, AnneliPösö, Tarja</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="183" to="205" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Eettisesti kestävä sosiaalitutkimus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anneli</forename><surname>Pohjola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lapin yliopiston yhteiskuntatieteellisiä julkaisuja C. Työpapereita</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="132" to="142" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note>Rovaniemi: Lapin yliopisto. 5</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Puolustusvoimat N.D</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Varusmiestoimikunnat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Puolustusvoimat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Verkkodokumentti</surname></persName>
+		</author>
+		<ptr target="&lt;http://puolustusvoimat.fi/web/varusmiestoimikunnat/etusivu&gt;.Luettu9.4.2016.Puolustusvoimientehtävät2013.Puolustusvoimat.Verkkodokumentti.Päivitetty7.10.2013.&lt;http://www.puolustusvoimat.fi&gt;.Luettu20.11.2015" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Pääesikunnan viestintäosasto</title>
+		<ptr target="&lt;http://vuosikertomus.puolustusvoimat.fi/PV_VSK_2014_www_20.3.2015.pdf&gt;Luettu9.4.2016" />
+	</analytic>
+	<monogr>
+		<title level="j">Puolustusvoimien vuosikertomus</title>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>Puolustusvoimat</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Real World Research. A Resource for Users of Social Research Methods in Applied Settings</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Robson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>Wiley</publisher>
+			<biblScope unit="volume">194</biblScope>
+			<biblScope unit="page" from="465" to="513" />
+			<pubPlace>West Sussex</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Third edition</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Determinants of Military Adjustment and Attrition During Finnish Conscript Service (Varusmiespalvelukseen sopeutumisen ja palveluksen keskeyttämisen ennustekijät)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mikael</forename><surname>Salo</surname></persName>
+		</author>
+		<ptr target="&lt;http://tampub.uta.fi/bitstream/handle/10024/67908/978-951-44-7470-5.pdf?sequence=1&gt;.Luettu21.11.2015" />
+	</analytic>
+	<monogr>
+		<title level="j">Tampereen yliopisto ja Maanpuolustuskorkeakoulu. Kasvatustieteiden tiedekunta. Saatavilla sähköisesti osoitteessa</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+<note type="report_type">Väitöskirja</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kari</forename><surname>Salonen</surname></persName>
+		</author>
+		<ptr target="&lt;http://julkaisut.turkuamk.fi/isbn9789522163738.pdf&gt;.Luettu19.11" />
+		<title level="m">Näkökulmia tutkimukselliseen ja toiminnalliseen opinnäytetyöhön. Opas opiskelijoille, opettajille ja TKI-henkilöstölle. Puheenvuoroja 72. Turun ammattikorkeakoulu. Saatavilla sähköisesti osoitteessa</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Pääesikunnan johtava sosiaalipäällikkö</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kari</forename><surname>Seppänen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note>Kirjallinen tiedonanto sähköpostitse 16.2.2016. Tekijöiden hallussa</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Siviilipalveluslaki</surname></persName>
+		</author>
+		<idno>1446/2007. Annettu Helsingissä 28.12</idno>
+		<ptr target="&lt;http://puolustusvoimat.fi/documents/1948673/2258487/PEVIESTOS-SKK2015.pdf/bafdd566-cf69-4cb8-b985-40f3f24e439c&gt;.Luettu3.4.2016" />
+		<title level="m">Sotilaan käsikirja 2015</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eija-Appelqvist-Schmidlechner</forename><surname>Stengård</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kaija-Upanne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Maila-Parkkola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Markus</forename><surname>Kaihenriksson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Time Out! Aikalisä! Elämä raiteilleen. Varusmies-ja siviili</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

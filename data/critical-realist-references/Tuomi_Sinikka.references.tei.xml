@@ -1,0 +1,315 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_15"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lapsen minäkäsitys ja itsetunto</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Aalberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Siimes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kallio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kanninen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Kauppinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Paavilainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Salo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Debating emerging adulthood</title>
+		<editor>Edita Anttila, R., Eronen, S.,</editor>
+		<meeting><address><addrLine>Jyväskylä; Helsinki; Helsinki; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University press</publisher>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+	<note>Lapsesta aikuiseksi</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Eskola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Suoranta</surname></persName>
+		</author>
+		<title level="m">Johdatus laadulliseen tutkimukseen</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gummerus Oy</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Lastensuojelun jälkihuolto nuorten itsenäistymistä tukemassa. AMK-opinnäytetyö</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hakoniemi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>Seinäjoen ammattikorkeakoulu</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Harmaala</surname></persName>
+		</author>
+		<title level="m">Asumisharjoittelu, laitosnuoren ensimmäinen askel kohti itsenäisyyttä. AMK-opinnäytetyö. Helsingin Diakonia-ammattikorkeakoulu</title>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lastensuojelun tilastot, asiakkaat ja palvelut</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Heino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lastensuojelun ytimissä</title>
+		<editor>L.Martikainen</editor>
+		<meeting><address><addrLine>Helsinki; Helsinki; Helsinki; Juva</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bookwell Oy</publisher>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+	<note>Arviointi työvälineenä</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kuvaja</surname></persName>
+		</author>
+		<title level="m">Vapauteen heitetyt. Pro gradu-tutkielma</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>Helsingin yliopisto: valtiotieteellinen tiedekunta</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Siirtymät sijaishuollossa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Känkänen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lastensuojelun ytimissä</title>
+		<editor>Unigrafia Laaksonen, S.</editor>
+		<meeting><address><addrLine>Helsinki; Saarijärvi</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gummerus Oy</publisher>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Minä, me ja muut sosiaalisissa verkostoissa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Laine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Apua, mitä mä teen</title>
+		<meeting><address><addrLine>Helsinki; Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Helppimesta ry</publisher>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Siirtymä kohti aikuisuutta. Pro gradu-tutkielma. Tampereen yliopisto: Yhteiskunta-ja kulttuuritieteiden yksikkö</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Lehtinen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Martikainen</surname></persName>
+		</author>
+		<title level="m">Minä nuori nainen</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Unipress Mokkila, K. 2011. Nuoren itsenäistymisprosessi. AMK-opinnäytetyö. Satakunnan ammattikorkeakoulu</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mäntynen</surname></persName>
+		</author>
+		<title level="m">Itsenäistymisopas nuorten tuettuun asumisyksikköön. AMKopinnäytetyö. Satakunnan ammattikorkeakoulu</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Peura-Kapanen</surname></persName>
+		</author>
+		<ptr target="http://www.tilastokeskus.fi" />
+		<title level="m">Nuorten itsenäistyminen edellyttää talousosaamista. </title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Räntilä</surname></persName>
+		</author>
+		<title level="m">Nuoren itsenäistymisprosessi lastensuojelun laitoshuollossa. AMKopinnäytetyö. Hämeen ammattikorkeakoulu</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Lastenkotilapsikin tarvitsee taskurahaa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Räty</surname></persName>
+		</author>
+		<ptr target="http://www.noste.fi" />
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Lapsen asema sijaishuollossa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Saastamoinen</surname></persName>
+		</author>
+		<ptr target="https://www.stat.fi" />
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="volume">26</biblScope>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Timonen-Kallio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Manner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Berglund</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hukkanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Caulfield-Cow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sarajärvi</surname></persName>
+		</author>
+		<title level="m">Laadullinen tutkimus ja sisällönanalyysi</title>
+		<meeting><address><addrLine>Turku; Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+	<note>Itsenäisen elämän ABC</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Itsenäistyminen elämänvaiheena-osallistava vertaistutkimus sijaishuollosta itsenäistyvien nuorien hyvinvoinnista</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Törrönen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Vauhkonen</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Vertaistutkimus. SOS-Lapsikylä ry</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Gummerus Kirjapaino Oy Varsinais-Suomen lastensuojelukuntayhtymän www-sivut</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Laatukriteerit</forename><surname>Valtakunnalliset Sijaishuollon</surname></persName>
+		</author>
+		<ptr target="http://www.vslk.fi" />
+	</analytic>
+	<monogr>
+		<title level="j">Sijaishuollon neuvottelukunnan julkaisuja</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

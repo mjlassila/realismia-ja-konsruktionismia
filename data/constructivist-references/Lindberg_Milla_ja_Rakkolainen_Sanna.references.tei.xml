@@ -1,0 +1,1237 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_3"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+				<ptr target="http://www.finlex.fi/fi/sopimukset/sopsteksti/1991/19910060" />
+		<title level="m">Finlex 2015a. 60/1991. Asetus lapsen oikeuksia koskevan yleissopimuksen voimaansaattamisesta sekä yleissopimuksen eräiden määräysten hyväksymisestä annetun lain voimaantulosta. Viitattu 20.10.2015 www.finlex.fi › Valtiosopimukset › Valtiosopimukset › 1991 › 60</title>
+		<imprint>
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Finlex 2015b</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Varhaiskasvatuslaki</surname></persName>
+		</author>
+		<ptr target="https://www.finlex.fi/fi/laki/ajantasa/1973/19730036" />
+		<title level="m">Viitattu 23.10.2015 www.finlex.fi › Lainsäädäntö › Ajantasainen lainsäädäntö</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Osallisuutta edistävän suunnittelun tasot</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Fonsén</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Heikka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Elo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Heikka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Fonsén</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Elo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Leinonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Osallisuuden pedagogiikkaa varhaiskasvatuksessa</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Suomen Varhaiskasvatus</publisher>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="80" to="95" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>From</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M-L</forename><surname>Koppinen</surname></persName>
+		</author>
+		<title level="m">Menossa mukana. Tukea tarvitsevan lapsen ja nuoren toiminnallinen osallistuminen</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-Kustannus</publisher>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Yhteisöllisyys päivähoidossa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Haapamäki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Haapamäki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kaipio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Keskinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Uusitalo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kuoksa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Yhteisö</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>Kirjayhtymä</publisher>
+			<biblScope unit="page" from="13" to="47" />
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Haapaniemi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Raina</surname></persName>
+		</author>
+		<title level="m">Rakenna oppiva ryhmä. Pedagogisen viihtymisen käsikirja</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-Kustannus</publisher>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Heikka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Hujala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Turja</surname></persName>
+		</author>
+		<title level="m">Arvioinnista opiksi. Havainnointi, arviointi ja suunnittelu varhaispedagogiikassa</title>
+		<meeting><address><addrLine>Vantaa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Printel</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lapset ryhmässä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Helenius</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pedagogiikan palikat. Johdatus varhaiskasvatukseen ja-kehitykseen</title>
+		<editor>Helenius, A. &amp; Korhonen, R</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY Oppimateriaalit Oy</publisher>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="57" to="68" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hellström</surname></persName>
+		</author>
+		<title level="m">Sata sanaa kasvatuksesta</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Aikuinen ja lapsi vuorovaikutusta rakentamassa. Diskurssianalyyttinen tutkimus päivähoidon arjesta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Holkeri-Rinkinen</surname></persName>
+		</author>
+		<ptr target="https://tampub.uta.fi/bitstream/handle/10024/66472/978-951-44-7692-1.pdf?sequence=1" />
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Tampereen yliopisto</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+<note type="report_type">Väitöskirja</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Hujala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A-M</forename><surname>Puroila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Parrila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Nivala</surname></persName>
+		</author>
+		<title level="m">Päivähoidosta varhaiskasvatukseen</title>
+		<meeting><address><addrLine>Vantaa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edufin</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lasten vuorovaikutus ja leikki yhteisöllisyyden rakentajana</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ikonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kasvatusvuorovaikutus</title>
+		<editor>Karila, K.</editor>
+		<editor>Alasuutari, M.</editor>
+		<editor>Hännikäinen, M.</editor>
+		<editor>Nummenmaa, A.R. &amp; Rasku-Puttonen, H.</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="149" to="165" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Jantunen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Rönnberg</surname></persName>
+		</author>
+		<title level="m">Anna Lapsen leikkiä</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Atena</publisher>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Mitä yhteisöllisyys on?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kaipio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Haapamäki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kaipio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Keskinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Uusitalo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kuoksa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Yhteisö</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>Kirjayhtymä</publisher>
+			<biblScope unit="page" from="11" to="12" />
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kalliala</surname></persName>
+		</author>
+		<title level="m">Kato mua! Kohtaako aikuinen lapsen päiväkodissa?</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus Helsinki University Press</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Karlsson</surname></persName>
+		</author>
+		<title level="m">Saduttamalla lasten kulttuuriin. Verkostotyön tuloksia Kuperkeikkakyydissä</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Stakes</publisher>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Karlsson</surname></persName>
+		</author>
+		<title level="m">Lapsille puheenvuoro: ammattikäytännön perinteet murroksessa</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oy Edita Ab</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+<note type="report_type">Väitöskirja</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">MLL:n osallisuusverkostolaiset &amp; Karlsson, L. Yhdessä lasten kanssa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Karlsson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Stenius</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Seikkailu osallisuuteen. Viitattu 16</title>
+		<imprint>
+			<date type="published" when="2005" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+	<note>Osallisuus yhdessä lasten kanssa</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Karlsson</surname></persName>
+		</author>
+		<title level="m">Sadutus. Avain osallisuuden toimintakulttuuriin</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-Kustannus</publisher>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Yhteinen osallisuus varhaiskasvatuksen pedagogiikassa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Kataja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Heikka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Fonsén</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Elo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Leinonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Osallisuuden pedagogiikkaa varhaiskasvatuksessa</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Suomen Varhaiskasvatus</publisher>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="46" to="79" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lasten osallisuus perustoiminnoissa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kettukangas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Härkönen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Heikka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Fonsén</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Elo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Leinonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Osallisuuden pedagogiikkaa varhaiskasvatuksessa</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Suomen Varhaiskasvatus</publisher>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="96" to="114" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lapsilähtöinen varhaiskasvatus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kinos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Puheenvuoroja lapsista ja varhaiskasvatuksesta</title>
+		<editor>Hujala, E.</editor>
+		<meeting><address><addrLine>Oulu</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001" />
+			<biblScope unit="page" from="1" to="57" />
+		</imprint>
+	</monogr>
+	<note>Varhaiskasvatus 90 Oy</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kohti lapsilähtöisen varhaiskasvatuksen teoriaa. Kasvatus. Suomen kasvatustieteellinen aikakauskirja 33</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kinos</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="119" to="132" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kakaduu-ja lintubongaus-sanataideprojekti lapsilähtöisen pedagogiikan toteuttajina erityiskoulussa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kinos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kinos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Niemelä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A-K</forename><surname>Selinummi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pienet oppimassa. Kasvatuksellisia näkökulmia varhaiskasvatukseen ja esiopetukseen</title>
+		<editor>Korhonen, R.</editor>
+		<editor>Rönkkö, M-L. &amp; Aerila, J.</editor>
+		<meeting><address><addrLine>Turku</addrLine></address></meeting>
+		<imprint>
+			<publisher>Turun yliopiston opettajankoulutuslaitos</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="202" to="216" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Koivula</surname></persName>
+		</author>
+		<ptr target="https://jyx.jyu.fi/dspace/bitstream/han-dle/123456789/23627/9789513938925.pdf?sequ" />
+	</analytic>
+	<monogr>
+		<title level="m">Lasten yhteisöllisyys ja yhteisöllinen oppiminen päiväkodissa</title>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="volume">29</biblScope>
+		</imprint>
+	</monogr>
+<note type="report_type">Väitöskirja. Jyväskylä</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Yhteisöllisyyden rakentuminen päiväkodin arjessa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Koivula</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pienten piirissä: Yhteisöllisyyden merkitys lasten hyvinvoinnille</title>
+		<editor>Marjanen, P.</editor>
+		<editor>Marttila, M. &amp; Varsa, M.</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-Kustannus</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="19" to="46" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P-L</forename><surname>Koivunen</surname></persName>
+		</author>
+		<title level="m">Hyvä päivähoito. Työkaluja arkeen</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-Kustannus</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Children&apos;s participation in school and community: European perspectives</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Kränzl-Nagl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Zartler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Handbook of Children and Young People´s Participation. Perspectives from theory and practice</title>
+		<editor>Percy-Smith, B. &amp; Thomas, N.</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="164" to="173" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Päiväkodin arki lapsen kokemana</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kyrölampi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lapsen arki ja vuorovaikutus varhaiskasvatuksessa</title>
+		<editor>Alila, K. &amp; Parrila, S.</editor>
+		<meeting><address><addrLine>Oulu</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ediva</publisher>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="22" to="38" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">The realization of children´s participation rights: critical reflections</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Lansdown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Handbook of Children and Young People´s Participation. Perspectives from theory and practice</title>
+		<editor>Teoksessa Percy-Smith, B. &amp; Thomas, N.</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="11" to="23" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A-R</forename><surname>Lehtinen</surname></persName>
+		</author>
+		<title level="m">Lasten kesken. Lapset toimijoina päiväkodissa</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Jyväskylän Yliopisto</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+<note type="report_type">Väitöskirja</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Pedagogisia näkökulmia lasten osallisuuden tukemiseen varhaiskasvatuksessa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Leinonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Osallisuuden pedagogiikkaa varhaiskasvatuksessa</title>
+		<editor>Heikka, J.</editor>
+		<editor>Fonsén, E. &amp; Elo, J. &amp; Leinonen, J.</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Suomen Varhaiskasvatus</publisher>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="16" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lapsen ja kasvattajan välinen vuorovaikutus päiväkodissa-mahdollisuuksia ja toimintaehtoja</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lundán</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lapsen arki ja vuorovaikutus varhaiskasvatuksessa. Katsaus varhaiskasvatuksen väitöskirjoihin vuosilta</title>
+		<editor>Alila, K. &amp; Parrila, S.</editor>
+		<meeting><address><addrLine>Oulu</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ediva</publisher>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="107" to="123" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Turun Amk:N Opinnäytetyö | Milla</forename><surname>Lindberg</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Sanna Rakkolainen</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Varhaiskasvatuslaki</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mahkonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+			<publisher>Edita</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Vertaissuhteet ja yhteisöllisyys</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Marjanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ahonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Majoinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pienten piirissä: Yhteisöllisyyden merkitys lasten hyvinvoinnille</title>
+		<editor>Marjanen, P.</editor>
+		<editor>Marttila, M. &amp; Varsa, M.</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-Kustannus</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="47" to="74" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Marjanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Marttila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Varsa</surname></persName>
+		</author>
+		<title level="m">Pienten piirissä: Yhteisöllisyyden merkitys lasten hyvinvoinnille</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-Kustannus</publisher>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Mikkola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Nivalainen</surname></persName>
+		</author>
+		<title level="m">Lapselle hyvä päivä tänään. Näkökulmia 2010-luvun varhaiskasvatukseen</title>
+		<meeting><address><addrLine>Vantaa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pedatieto</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lapsen kasvu ihmisyyteen ja yhteisöllisyyteen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mäkelä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Jantunen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lapsilähtöinen esiopetus. 1. painos</title>
+		<editor>Jantunen, T. &amp; Lahtela, R.</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi</publisher>
+			<date type="published" when="2011" />
+			<biblScope unit="page" from="70" to="80" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="http://www.pelastakaalapset.fi/toiminta/vaikuttamistyo/osallisuus/" />
+		<title level="m">Pelastakaa lapset 2015. Osallisuus. Viitattu 16.10.2015 www.pelastakaalapset.fi &gt; Toiminta &gt; Vaikuttamistyö &gt; Osallisuus</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">A Handbook of Children and Young People´s Participation. Perspectives from theory and practice</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Percy-Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Thomas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>Routledge</publisher>
+			<biblScope unit="page" from="356" to="366" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Varhaiskasvatuksen oppimisympäristö on lapsen arkea</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Raittila</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lapsen arki ja vuorovaikutus varhaiskasvatuksessa. Katsaus varhaiskasvatuksen väitöskirjoihin vuosilta 2006-2010</title>
+		<editor>Alila, K. &amp; Parrila, S.</editor>
+		<meeting><address><addrLine>Oulu</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ediva</publisher>
+			<date type="published" when="2011" />
+			<biblScope unit="page" from="57" to="68" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Päiväkodin arki lasten kertomana</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Roos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Heikka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Fonsén</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Elo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Leinonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Osallisuuden pedagogiikkaa varhaiskasvatuksessa</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Suomen Varhaiskasvatus</publisher>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="41" to="45" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Roos</surname></persName>
+		</author>
+		<title level="m">Lapsen kerrontaa päiväkotiarjesta</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tampere University Press</publisher>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+<note type="report_type">Väitöskirja</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Salonen</surname></persName>
+		</author>
+		<ptr target="http://julkaisut.turkuamk.fi/isbn9789522163738.pdf" />
+		<title level="m">Näkökulmia tutkimukselliseen ja toiminnalliseen opinnäytetyöhön. Opas opiskelijoille, opettajille ja TKI-henkilöstölle</title>
+		<meeting><address><addrLine>Turku</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+	<note>Turun ammattikorkeakoulu. Viitattu 15</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Shier</surname></persName>
+		</author>
+		<title level="m">Pathways to Participation: openings, opportunities, obligations. Children and Society</title>
+		<imprint>
+			<date type="published" when="2001" />
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="107" to="117" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Pathways to Participation Revisited: Nicaragua Perspective</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Shier</surname></persName>
+		</author>
+		<ptr target="http://www.harryshier.net/docs/Shier-Pathways_to_Participation_Revisited_NZ2006.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Viitattu</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Participation in Practice: Making it Meaningful, Effective and Sustainable</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Sinclair</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Children and Society</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="106" to="118" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Säljö</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oppimiskäytännöt. Sosiokulttuurinen näkökulma</title>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>WSOY</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="http://www.talentia.fi/files/558/Etiikkaopas_2013_net.pdf" />
+		<title level="m">Talentia 2013. Arki, arvot, elämä, etiikka. Sosiaalialan ammattilaisen eettiset ohjeet</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="https://www.thl.fi/fi/web/lastensuojelun-kasi-kirja/tyoprosessi/lasten-osallisuus" />
+		<title level="m">Terveyden ja hyvinvoinnin laitos 2015a. Osallisuus. Viitattu 16.10.2015 www.thl.fi &gt; Lastensuojelun käsikirja &gt; Työprosessi &gt; Lasten osallisuus</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="https://www.thl.fi/fi/web/hyvinvointi-ja-terveyserot/eriarvoisuus/hyvinvointi/osallisuus" />
+		<title level="m">Terveyden ja hyvinvoinnin laitos 2015b. Osallisuus. Viitattu 16.10.2015 www.thl.fi &gt; Hyvinvointija terveyserot &gt; Eriarvoisuus &gt; Hyvinvointi &gt; Osallisuus</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lapset laadun määrittäjinä ja arvioijina</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Turja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Arvioidaan yhdessä. Näkökulmia arviointiin varhaiskasvatuksessa</title>
+		<editor>Kupila, P.</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi</publisher>
+			<date type="published" when="2004" />
+			<biblScope unit="page" from="9" to="29" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lasten osallisuus kasvatustyön suunnittelussa ja kehittämisessä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Turja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Erilainen oppija. Yhteiseen kouluun</title>
+		<editor>Ikonen, O. &amp; Virtanen, P.</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-Kustannus</publisher>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="167" to="196" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lapset osallisina-kohti uutta varhaiskasvatuskulttuuria</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Turja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Suuntana laadukas varhaiskasvatus. Professori Eeva Hujalan matkassa</title>
+		<editor>Turja, L. &amp; Fonsén, E.</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Suomen Varhaiskasvatus ry</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="30" to="47" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lasten osallisuus varhaiskasvatuksessa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Turja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Varhaiskasvatuksen käsikirja. 2. painos</title>
+		<editor>Hujala, E. &amp; Turja, L.</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-Kustannus</publisher>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="41" to="53" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Turtiainen</surname></persName>
+		</author>
+		<title level="m">Miten kuulla lasta? Esimerkkinä päiväkotilasten ja koululaisten haastattelut. Tutkimus</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Helsingin kaupungin tietokeskus</publisher>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Oppiminen tiedon rakentamisena. Konstruktivistisen oppimiskäsityksen perusteita. 1.-4. painos</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Tynjälä</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>Tammi</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="https://www.unicef.fi/lapsen-oikeudet/sopimus-kokonaisuu-dessaan/" />
+		<title level="m">Yleissopimus lapsen oikeuksista. Viitattu 23.10.2015 www.unicef.fi &gt; Lapsen oikeudet &gt; Sopimus kokonaisuudessaan</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Yhteisöllinen oppiminen ja toimintatapa päivähoidossa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Uusitalo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Haapamäki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kaipio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Keskinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Uusitalo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kuoksa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Yhteisö</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>Kirjayhtymä</publisher>
+			<biblScope unit="page" from="50" to="92" />
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="https://www.julkari.fi/bitstream/handle/10024/77129/Varhaiskasvatussuunnitelmanperus-teet.pdf?sequence=1" />
+		<title level="m">Vanhempainliitto 2015. Osallisuus. Viitattu 16.10.2015 www.vanhempainliitto.fi &gt; Vanhempaintoiminta &gt; Osallisuus</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Verkanappulat 2015a. Viitattu 23.10.2015 www.verkanappulat.fi</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Viittala</surname></persName>
+		</author>
+		<title level="m">Lasten yhteinen varhaiskasvatus. Erityisestä moninaisuuteen</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Suomen Varhaiskasvatus</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Vilkka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Airaksinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Toiminnallinen opinnäytetyö</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Haluaisin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">.</forename><surname>Päiväkodissa Olisi Enemmän</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Haluaisin, että päiväkodissa olisi vähemmän… 6. Toivoisin, että päiväkodin aikuiset… Liite</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Turun Amk:N Opinnäytetyö | Milla</forename><surname>Lindberg &amp;amp; Sanna Rakkolainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Haastattelukysymykset</surname></persName>
+		</author>
+		<title level="m">Mistä tykkäät päiväkodissa? 2. Mikä on tyhmintä päiväkodissa?/Mistä asiasta et tykkää päiväkodissa? 3. Mikä on lempipuuhasi päiväkodissa? 4. Mitä haluaisit tehdä päiväkodissa?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Mitä et haluaisi tehdä päiväkodissa? 6. Mitä toivoisit, että aikuiset tekisivät (kanssasi/lasten kanssa)? 7. Kerro jotain päiväkodistasi</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Haluatko kertoa jotain vielä muuta? Liite 4</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Turun Amk:N Opinnäytetyö | Milla</forename><surname>Lindberg</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Sanna Rakkolainen</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

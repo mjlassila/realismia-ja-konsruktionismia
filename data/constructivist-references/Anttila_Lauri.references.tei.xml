@@ -1,0 +1,677 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_18"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Perheväkivallan perhekeskeinen hoito. Teoksessa Perhe terapiassa-vuoropuhelua vuosituhannen vaihtuessa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jukka</forename><surname>Antikainen</surname></persName>
+		</author>
+		<editor>Aaltonen, Jukka Rinne, Raili</editor>
+		<imprint>
+			<date type="published" when="1999" />
+			<publisher>Suomen Mielenterveysseuran Koulutuskeskus. Gummerus. Jyväskylä</publisher>
+			<biblScope unit="page" from="194" to="217" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ensi-Ja</forename><surname>Turvakotienliitto</surname></persName>
+		</author>
+		<ptr target="www.ensijaturvakotienliitto.fi" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Blind Alleys in Social Psychology-A Search for Ways Out</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Antti</forename><surname>Eskola</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988" />
+		</imprint>
+		<respStmt>
+			<orgName>University ofTampere</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Eläytymismenetelmän käytöstä sosiaalitutkimuksessa-esimerkkinä korkeakoulututkimus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari</forename><surname>Eskola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tampereen yliopisto. Työraportteja B</title>
+		<imprint>
+			<biblScope unit="page">35</biblScope>
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Tuottaako eläytymismenetelmä ainoastaan stereotypioita?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari-Eskola</forename><surname>Eskola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ihmistieteiden metodologiaa etsimässä</title>
+		<editor>Eskola, Mäkelä &amp; Suoranta</editor>
+		<meeting><address><addrLine>Kati</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari</forename><surname>Eskola</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998" />
+			<publisher>Eläytymismenetelmä sosiaalitutkimuksen tiedonhankintamenetelmänä. Tampereen yliopisto</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari-Mäkelä</forename><surname>Eskola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Juha (toim.) 1995: Ihmistieteiden 1990-luvun metodologiaa etsimässä: keskustelua kasvatus-ja sosiaalitieteiden 1990luvun metodologiasta</title>
+		<meeting><address><addrLine>Rovaniemi</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lapin yliopisto</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari-Suoranta</forename><surname>Eskola</surname></persName>
+		</author>
+		<title level="m">Juha 1998: Johdatus laadulliseen tutkimukseen</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Inkeri</forename><surname>Eskonen</surname></persName>
+		</author>
+		<title level="m">Perheväkivalta lasten kertomana. Tampereen yliopiston sosiaalipolitiikan ja sosiaalityön laitoksen väitöskirja</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Aune 2006: Parisuhdeväkivalta naisen ja miehen kokemana</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Flink</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Tampereen yliopistopaino</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ben-Ahola</forename><surname>Furman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Tapani 1992: Väkivaltakierteen katkaiseminen-uhri, tekijä ja verkosto</title>
+		<imprint>
+			<date type="published" when="1992" />
+			<biblScope unit="volume">108</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lasten pahoinpitelyn ja laiminlyönnin vaikutukset aivoihinkirjallisuuskatsaus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Danya</forename><surname>Glaser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Varhaiset ihmissuhteet ja niiden häiriintyminen</title>
+		<editor>Sinkkonen, Jari-Kalland, Mirjam</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY</publisher>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Airi</forename><surname>Hautamäki</surname></persName>
+		</author>
+		<title level="m">Kiintymyssuhdeteoria-teoria yksilön kiin(nit)tymisestä tärkeisiin toisiin ihmisiin, kiintymys suhteen katkoksista ja merkityksestä kehitykselle</title>
+		<editor>Sinkkonen, Jari-Kalland, Mirjam</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY</publisher>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note>Varhaiset ihmissuhteet ja niiden häiriintyminen</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hautamäki</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<publisher>Perheväkivalta-Käännekohta miehen elämässä. Gummerus</publisher>
+			<pubPlace>Jari; Jyväskylä</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kun rakkaudessa lyödään-systeeminen ja feministinen näkökulma parisuhdeväkivaltaan</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ann-Mari</forename><surname>Hintikka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Perhe terapiassa vuoropuhelua vuosituhannen vaihtuessa</title>
+		<editor>Aaltonen, Jukka-Rinne, Raili</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Suomen Mielenterveysseuran Koulutuskeskus. Gummerus</publisher>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Huhtalo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pekka-Kuhanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Jarkko-Pyykkö</surname></persName>
+		</author>
+		<title level="m">Eero 2003: Kotona turvassa-katkaise väkivallan kierre</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>SMS-Tuotanto Oy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Husso Marita 2003: Parisuhdeväkivalta. Lyötyjen aika ja tila</title>
+		<imprint>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kanssaihmisen kanssa-verkostoterapiassa verkosto terapiassa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ikonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marjo</forename><surname>Maikki-Ruismäki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Perhe terapiassa. Vuoropuhelua vuosituhannen vaihtuessa</title>
+		<editor>Aaltonen, Jukka-Rinne, Raili</editor>
+		<imprint>
+			<publisher>Jyväskylä Gummerus</publisher>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jaana</forename><surname>Jaatinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Terapeuttinen keskustelutodellisuus. Diskurssianalyyttinen tutkimus alkoholiongelmien sosiaaliterapeuttisesta hoidosta</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1996" />
+			<biblScope unit="volume">72</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kaitue</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sanna-Noponen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tanja-Slåen</surname></persName>
+		</author>
+		<title level="m">Anne 2007: Yleistä muttei yksityistäoikeudelliset keinot lähisuhdeväkivallasta selviytymiseen</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Suvi</forename><surname>Keskinen</surname></persName>
+		</author>
+		<title level="m">Perheammattilaiset ja väkivaltatyön ristiriidat. Sukupuoli, valta ja kielelliset käytännöt</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tampereen Yliopistopaino Oy-Juvenes Print</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Kirkon tilastollinen vuosikirja</title>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Kirkkohallitus. Vammalan kirjapaino</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Ulos ansasta-apua perheväkivaltatilanteisiin</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Koski</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+			<publisher>Kirjayhtymä</publisher>
+			<pubPlace>Helena; Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Naisten tekemä väkivalta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Emmi</forename><surname>Lattu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lapin yliopistokustannus. Rovaniemi. Juvenes Print. Tampere</title>
+		<editor>Paljastettu intiimi. Sukupuolistuneen väkivallan dynamiikka. Näre, Sari-Ronkainen, Suvi</editor>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lastensuojelulaki</surname></persName>
+		</author>
+		<ptr target="www.finlex.fi/fi/laki/ajantasa/2007/20070417" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anja</forename><forename type="middle">-</forename><surname>Lehtonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Perttu</surname></persName>
+		</author>
+		<title level="m">Sirkka 1999: Naisiin kohdistuva väkivalta</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kirjayhtymä</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Maria</surname></persName>
+		</author>
+		<ptr target="www.maria-akatemia.fi/html/tehtavamme/demeter/sisalto.html" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">2008: Paljastettu intiimi. Sukupuolistuneen väkivallan dynamiikka. Lapin yliopistokustannus. Rovaniemi. Juvenes Print</title>
+		<editor>Näre, Sari-Ronkainen, Suvi</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Väkivaltainen parisuhde, asiakkuus ja muutos. Prosessinarviointi parisuhdeväkivallasta ja turvakotien selviytymistä tukevasta asiakastyöstä. Ensija turvakotien liiton julkaisu 28</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leo</forename><surname>Nyqvist</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<pubPlace>Turku</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Auli</forename><surname>Ojuri</surname></persName>
+		</author>
+		<title level="m">2001: Hukasta kukkaan.-naisen tie väkivallasta selviytymiseen</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Perheväkivallan varjossa-väkivallalle altistumisen vaikutuksista</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mikko</forename><surname>Oranen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Perheväkivallan varjossa. Raportti lapsikeskeisen työn kehittämisestä</title>
+		<editor>Oranen, Mikko</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001" />
+			<biblScope unit="page">30</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Perhe-Ja</forename><surname>Lähisuhdeväkivalta</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Karisto Oy</publisher>
+			<biblScope unit="page">35</biblScope>
+			<pubPlace>Hämeenlinna</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Minna</forename><forename type="middle">-</forename><surname>Piispa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Heiskanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Markku-Kääriäinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Naisiin kohdistunut väkivalta. Oikeuspoliittinen tutkimuslaitos ja HEUNI</title>
+		<meeting><address><addrLine>Reino; Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">2002: Naisiin kohdistuva pari-ja lähisuhdeväkivalta. Naisiin kohdistuvan väkivallan ehkäisyprojekti 19982002: käsikirja perus-ja täydennyskoulutukseen. Stakes. Sosiaali-ja terveysministeriö</title>
+		<editor>Rautava, Marie-Perttu, Sirkku</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Ronkainen Suvi 1999: Subjektius, häpeä ja syyllisyys parisuhdeväkivallanelementteinä</title>
+		<author>
+			<orgName type="collaboration">SKS</orgName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Tunteiden sosioligiaa. I Elämyksiä ja läheisyyttä</title>
+		<editor>Näre Sari</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ronkainen</forename><surname>Suvi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Itkua ikä kaikki? Kirjoituksia naisesta, vallasta ja väkivallasta</title>
+		<editor>Aapo Satu, Koivunen Anu, Rossi Leena-Maija, Saarikangas Kirsi</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>TammerPaino Oy</publisher>
+			<date type="published" when="2002" />
+			<biblScope unit="volume">898</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ronkainen</forename><surname>Suvi</surname></persName>
+		</author>
+		<title level="m">Väkivalta-Seuraamukset ja haavoittuvuus. Terttu Utriaisen juhlakirja. Lohiniva-Kerkelä Mirva</title>
+		<meeting><address><addrLine>Helsinki; Hämeenlinna</addrLine></address></meeting>
+		<imprint>
+			<publisher>Karisto</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note>Talentum</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kvalitatiiviset tutkimustavat suomalaisessa kasvatustieteessä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pirjo</forename><surname>Savolainen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aikakauskirja kasvatus</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">5-6</biblScope>
+			<biblScope unit="page" from="451" to="458" />
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ry</forename><surname>Sosiaalidemokraattiset Opiskelijat</surname></persName>
+		</author>
+		<ptr target="www.sonk.fi/politiikka/ohjelmat/feministinen-manifesti" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juha</forename><surname>Suoranta</surname></persName>
+		</author>
+		<title level="m">Tekstit, murrokset ja muutos: kolme näkökulmaa laadullisen tutkimuksen metodologiaan. Lapin yliopisto</title>
+		<meeting><address><addrLine>Rovaniemi</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Säävälä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hannu-Pohjoisvirta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Riitta-Keinänen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Eero-Salonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Mies varikolle-Apua lähisuhdeväkivaltaan. Kalevaprint Oy. Oulu</publisher>
+			<pubPlace>Santtu</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hannele</forename><surname>Törrönen</surname></persName>
+		</author>
+		<title level="m">Vaiettu naiseus-Ajatuksia naisen väkivallan tunnistamisesta, nimeämisestä ja hoitamisesta. Ensi-ja turvakotienliiton raportti 10</title>
+		<meeting><address><addrLine>Hämeenlinna</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kariston kirjapaino Oy</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">vantaa.fi/i perusdokumentti.asp?path=1;220;4720</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Vantaa</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">4740</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Väkivaltaisten miesten hoitomallia suunnitelleen työryhmän raportti 1998: Vantaan kaupunki</title>
+	</analytic>
+	<monogr>
+		<title level="j">Sosiaali-ja teveydenhuollon toimialan julkaisuja C</title>
+		<imprint>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Reflections of a Feminist Family Violence Researcher</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kersti</forename><surname>Yllö</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Gender, Families and Close Relationships</title>
+		<editor>Donna, Sollie-Leigh, Leslie</editor>
+		<meeting><address><addrLine>London, New Delhi</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

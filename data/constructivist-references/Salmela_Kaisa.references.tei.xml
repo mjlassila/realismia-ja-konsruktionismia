@@ -1,0 +1,1013 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Päivi</forename><surname>Aho</surname></persName>
+		</author>
+		<title level="m">Haasteet ja asiantuntijuus sosiaalialan työssä</title>
+		<meeting><address><addrLine>Porvoo</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY</publisher>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Luokan sosiaalisen rakenteen muuttaminen osallistumiskokemuksilla ja positiivisella vahvistamisella</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sirkku</forename><surname>Aho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Liedon työrauhakokeiluprojekti: Raportti</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">65</biblScope>
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+	<note>Turun yliopiston kasvatustieteiden laitos</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kasvatussosiologia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ari</forename><surname>Antikainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Rinne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Risto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leena</forename><surname>Koski</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<publisher>Bookwell Oy</publisher>
+			<pubPlace>Juva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kun työrauha horjuu: kotitalousopettajien käsityksiä työrauhahäiriöistä ja niiden taustatekijöistä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Aino</forename><surname>Belt</surname></persName>
+		</author>
+		<ptr target="http://herkules.oulu.fi/isbn9789526202372/isbn9789526202372.pdf" />
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+<note type="report_type">Väitöskirja</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Piilo-opetussuunnitelma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Donald</forename><surname>Broady</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+			<publisher>Gummerus Kirjapaino Oy</publisher>
+			<pubPlace>Jyväskylä</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Uusi laki selkeyttää koulujen pelisääntöjä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Silja</forename><surname>Eisto</surname></persName>
+		</author>
+		<ptr target="http://utain.uta.fi/uutiset/uusi-laki-sel-keytt%C3%A4%C3%A4-koulujen-pelis%C3%A4%C3%A4nt%C3%B6j%C3%A4Hakupäivä13.2.2014" />
+	</analytic>
+	<monogr>
+		<title level="j">Utain. Tampereen yliopiston toimittajakoulutuksen viikkolehti</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Miksi häiritset minua (2.osa)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Matti</forename><forename type="middle">&amp;amp;</forename><surname>Erätuuli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arja</forename><surname>Puurula</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Opettajan näkökulma työrauhahäiriöihin yläasteella. Tutkimuksia 106. Helsingin yliopiston opettajankoulutuslaitos</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Yliopistopaino</publisher>
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Miksi häiritset minua. Työrauhahäiriöistä ja niiden syistä yläasteella oppilaiden kokemana.. Tutkimuksia 81. Helsingin yliopiston opettajankoulutuslaitos</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Matti</forename><forename type="middle">&amp;amp;</forename><surname>Erätuuli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arja</forename><surname>Puurula</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990" />
+			<publisher>Yliopistopaino</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari</forename><forename type="middle">&amp;amp;</forename><surname>Eskola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juha</forename><surname>Suoranta</surname></persName>
+		</author>
+		<title level="m">Johdatus laadulliseen tutkimukseen</title>
+		<imprint>
+			<publisher>Gummerus kirjapaino Oy</publisher>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari</forename><forename type="middle">&amp;amp;</forename><surname>Eskola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juha</forename><surname>Suoranta</surname></persName>
+		</author>
+		<title level="m">Johdatus laadulliseen tutkimukseen</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gummerus kirjapaino Oy</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">EDC 610-Classroom Management and Discipline</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">William</forename><forename type="middle">;</forename><surname>Glasser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joe</forename><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Chad</forename><surname>Jubela</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mike</forename><surname>Scanlan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dr. Margaret Rintamaa. glasserproject.wikispaces.com/.../Glasser+Presentation.p Hakupäivä</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<date type="published" when="1998" />
+		</imprint>
+		<respStmt>
+			<orgName>University of Kentucky-Spring</orgName>
+		</respStmt>
+	</monogr>
+	<note>Classroom Management Model</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kvalitatiiviset kenttätyömenetelmät</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Martti</forename><surname>Grönfors</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985" />
+			<publisher>WSOY</publisher>
+			<pubPlace>Juva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Matti</forename><surname>Haikonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Konflikteista aiheutuva stressi ja siitä selviytyminen opettajan työssä</title>
+		<imprint>
+			<date type="published" when="1999" />
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Comprehensive classroom management. Creating Positive Learning Environments</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">F</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">S</forename><surname>Jones</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Allyn and Bacon</publisher>
+			<pubPlace>Boston</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Ilon pedagogiikka. Kohti nykyaikaista koulua</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juha</forename><surname>Juurikkala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tutkiva opettaja</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hanna</forename><surname>Järventausta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Moisala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Markku</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sari</forename><surname>Toivakka</surname></persName>
+		</author>
+		<title level="m">Tutkimalla oppii. Tutkimuksen teko-opas</title>
+		<meeting><address><addrLine>Porvoo</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY</publisher>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Reijo</forename><forename type="middle">A</forename><surname>Kauppila</surname></persName>
+		</author>
+		<title level="m">Ihmisen tapa oppia. Johdatus sosiokonstruktiiviseen oppimiskäsitykseen</title>
+		<meeting><address><addrLine>Juva</addrLine></address></meeting>
+		<imprint>
+			<publisher>WS Bookwell Oy</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Reijo</forename><forename type="middle">A</forename><surname>Kauppila</surname></persName>
+		</author>
+		<title level="m">Vuorovaikutus ja sosiaaliset taidot</title>
+		<meeting><address><addrLine>Keuruu</addrLine></address></meeting>
+		<imprint>
+			<publisher>Otavan Kirjapaino Oy</publisher>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kiiski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tiina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Närhi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Vesa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Satu</forename><surname>Peitso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Työrauha kaikille. Toimintamalli työrauhaongelmien vähentämiseksi</title>
+		<meeting><address><addrLine>Eura</addrLine></address></meeting>
+		<imprint>
+			<publisher>Euraprint</publisher>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sotkamon sivistysjohtaja</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mika</forename><surname>Kilpeläinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Haastattelu johtajuudesta 14.10.2014 ja puhelinhaastattelu Sotkamon kuraattorin ja psykologin vakansseista 10</title>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="volume">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kivimäki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hanne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Luopa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pauliina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Nipuli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Suvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Viikki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Suvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Jokela</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Jukka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Laukkarinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Essi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Paananen</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Reija 2013. Kouluterveyskysely. Terveyden ja hyvinvoinnin laitos. Sotkamon kuntaraportti</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Mitä laki sanoo työrauhasta?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nina</forename><surname>Lahtinen</surname></persName>
+		</author>
+		<ptr target="http://sool-fi-bin.di-recto.fi/@Bin/c96bd60ad35bf43f92263c14add5b234/1426230185/applica-tion/pdf/386939/sool%20ty%C3%B6rauha.pdfHakupäivä15.3.2015" />
+	</analytic>
+	<monogr>
+		<title level="j">OAJ. Kehittämispäällikkö</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Oppilaan oikeudet ja vanhempien vastuu</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Niina</forename><surname>Lahtinen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>Bookwell Oy</publisher>
+			<pubPlace>Juva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Principles of Classroom Management: A Professional Decision-Making Model</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><forename type="middle">&amp;amp;</forename><surname>Levin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><forename type="middle">F</forename><surname>Nolan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note>Sixth edition</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kasvatustieteen pro gradu-tutkielma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hilma</forename><forename type="middle">&amp;amp;</forename><surname>Lindqvist</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Minna-Liisa</forename><surname>Niemenlehto</surname></persName>
+		</author>
+		<ptr target="https://jyx.jyu.fi/dspace/bitstream/handle/123456789/10329/hilmalin.pdf?se-quence=1Hakupäivä28.2.2015" />
+	</analytic>
+	<monogr>
+		<title level="m">Työrauhaa etsimässä. Kokeneiden luokanopettajien käsityksiä työrauhasta ja sen häiriöistä</title>
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tapio</forename><surname>Malinen</surname></persName>
+		</author>
+		<title level="m">Tavoitteena työrauha. Suomennos teoksesta Changing problem behavior in schools by Molnar</title>
+		<meeting><address><addrLine>Barbara; Juva</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY</publisher>
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Inhimillinen tekijä. Opettaja eettisenä ajattelijana ja toimijana</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Timo</forename><surname>Martikainen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joensuun yliopiston kasvatustieteellisiä julkaisuja. N:o</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Sotkamon neuvolatyön, koulu-ja opiskelija terveydenhuollon päällikkö. Puhelinhaastattelu Sote-asioista ja psykiatrisen sairaanhoitajan (miekkari) vakanssista 12.11</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Maila</forename><surname>Moilanen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Changing problem behavior in schools. Printed in the United States of America</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alex</forename><forename type="middle">&amp;amp;</forename><surname>Molnar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Barbara</forename><surname>Lindquist</surname></persName>
+		</author>
+		<ptr target="https://books.google.fi/books?id=rzdTjDt_-" />
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mikko</forename><forename type="middle">&amp;amp;</forename><surname>Niittymäki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joonas</forename><surname>Riihimäki</surname></persName>
+		</author>
+		<ptr target="https://tampub.uta.fi/bitstream/handle/10024/94026/gradu01458.pdf?.Haku-päivä10.4.2015" />
+		<title level="m">Työrauha opettajan tärkein työkalu?-Luokanopettajaopiskelijoiden näkemyksiä luokanhallinnasta ja työrauhasta</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Laadullisten aineistojen litterointi, kääntäminen ja validiteetti</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pirjo</forename><surname>Nikander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Haastattelun analyysi</title>
+		<editor>Ruusuvuori, Johanna, Nikander, Pirjo &amp; Hyvärinen, Matti</editor>
+		<meeting><address><addrLine>Tallinna</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tallinna Raamatutrükikoda</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="432" to="445" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Koulukuraattorina nuoren maailmassa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Elina</forename><surname>Nivala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalipedagoginen sosiaalityö koulussa</title>
+		<editor>Leena Kurki, Elina Nivala &amp; Pirkko Sipilä-Lähdekorpi</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hakapaino Oy</publisher>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="101" to="164" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<ptr target="http://www.oph.fi/koulutus_ja_tutkinnot/pe-rusopetusHakupäivä18.4" />
+	</analytic>
+	<monogr>
+		<title level="j">Opetushallitus</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Opinnäytetyön Toimeksiantajan Palaute</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lankinen</surname></persName>
+		</author>
+		<title level="m">Riitta 2015. Sotkamon perusopetus</title>
+		<imprint/>
+	</monogr>
+	<note>22.4.2015</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Koulua on käytävä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Petri</forename><surname>Paju</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Etnografinen tutkimus koululuokasta sosiaalisena tilana</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hakapaino</publisher>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">JOS OLISIN KOULUKURAATTORI…&quot;-Yhdeksäsluokkalaisten näkemyksiä koulun sosiaalityöstä. Jyväskylän yliopisto. Sosiaalityön pro gradu-tutkielma. Sosiaalityön maisteriohjelma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Puotinen</surname></persName>
+		</author>
+		<ptr target="https://jyx.jyu.fi/dspace/bitstream/han-dle/123456789/18389/URN_NBN_fi_jyu-200805071440.pdf?sequence=1Ha-ettu18.4.15" />
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>Kokkolan yliopistokeskus Chydenius</publisher>
+			<pubPlace>Sanna</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kouluntyörauha kasvatussosiologisena ongelmana</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arja</forename><surname>Puurula</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Helsingin yliopisto: opettajankoulutuslaitos. Tutkimuksia</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Etnografinen tutkimus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Puuronen</forename><surname>Vesa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Polkuja soveltavaan yhteiskuntatieteelliseen tutkimukseen</title>
+		<editor>Viinamäki Leena &amp; Saari Erkki</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kustan-nusosakeyhtiö Tammi</publisher>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="101" to="120" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">The World of Finnish Local and Regional Authorities. Education, culture and well-being</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Susanna</forename><surname>Rautio</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Miktor</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Käytännön arvioinnin perusteet. Opas evaluaation tekijöille ja tilaajille</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Colin</forename><surname>Robson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<publisher>Tammer-Paino Oy</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Litteroijan muistilista</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Johanna</forename><surname>Ruusuvuori</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Haastattelun analyysi</title>
+		<editor>Ruusuvuori, Johanna, Nikander, Pirjo &amp; Hyvärinen, Matti</editor>
+		<meeting><address><addrLine>Tallinna</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tallinna Raamatutrükikoda</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="424" to="431" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kimmo</forename><forename type="middle">&amp;amp;</forename><surname>Saaristo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kimmo</forename><surname>Jokinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sosiologia</title>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>WSOY</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Koululuokan työrauhahäiriöiden ehkäiseminen, käsittely ja korjaaminen: tutkimus koululuokan hallintaa käsittelevistä oppisisällöistä kahdessa amerikkalaisessa oppikirjassa sekä niihin perustuvan kokonaismallin kehittelyä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Petri</forename><surname>Salo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>Joensuun yliopisto</publisher>
+			<pubPlace>Joensuu</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Rakenna hyvä luokkahenki</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Reijo</forename><forename type="middle">&amp;amp;</forename><surname>Salovaara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Taija</forename><surname>Honkonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>Bookwell Oy</publisher>
+			<pubPlace>Porvoo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Työrauha luokkaan</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Timo</forename><surname>Saloviita</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>WS Bookwell Oy</publisher>
+			<pubPlace>Juva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Timo</forename><surname>Saloviita</surname></persName>
+		</author>
+		<title level="m">Luokka haltuun! Parhaat keinot toimivaan opetukseen</title>
+		<meeting><address><addrLine>Juva</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bookwell Oy</publisher>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Hyväksytty sivistystoimen lautakunnassa 14.6.2004. Voimassa 1.8.2004 alkaen. Muutokset hyväksytty 16.6.2011. Muutokset voimassa 1.8</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sotkamon Kunnan Esi-Ja Perusopetuksen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Opetussuunnitelma</surname></persName>
+		</author>
+		<ptr target="http://pp.sotkamo.fi/data/documents/PERUSOPETUKSEN_OPETUSSUUNNI-TELMA_010811.pdfHakupäivä15.1.2015" />
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Järjestyssääntöaineisto</forename><surname>Sotkamon Kunnan</surname></persName>
+		</author>
+		<ptr target="http://www.sotkamo.fi/index_kontinjoenkoulu.asp?pid=208" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">?pid=269; Soidinvaaran koulu</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Naapurinvaaran Koulu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Järjestyssäännöt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Paperiversio</surname></persName>
+		</author>
+		<ptr target="http://www.sotkamo.fi/in-dex_salmelankoulu.asp" />
+	</analytic>
+	<monogr>
+		<title level="m">Leivolan koulu</title>
+		<imprint/>
+	</monogr>
+	<note>Järjestyssäännöt. Paperiversio. Vuokatin koulu. Järjestyssäännöt. Paperiversio</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Pitäen sisällään taloussuunnitelman vuosille 2015-2016</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sotkamon Kunnan Talousarvio Vuodelle</surname></persName>
+		</author>
+		<idno>12.2013 ja KV 23.12</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pöytäkirja KH 9</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Sotkamon sivistystoimen lautakunnan pöytäkirja § 60. 11.9.2014. Koulujen (perusopetus ja lukio) ja päiväkotien (esiopetus) lukuvuoden 2014-2015 työsuunnitelmien hyväksyminen</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leena</forename><surname>Syrjälä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ahonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sirkka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Syrjäläinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Eija</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Seppo</forename><surname>Saari</surname></persName>
+		</author>
+		<title level="m">Laadullisen tutkimuksen tapoja</title>
+		<meeting><address><addrLine>Rauma</addrLine></address></meeting>
+		<imprint>
+			<publisher>West-Point Oy</publisher>
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Talentian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Opiskeluhuollosta</surname></persName>
+		</author>
+		<ptr target="http://www.talentia.fi/files/3582/Talentian_linjaukset_opiskeluhuollosta.pdfHaku-päivä15" />
+		<title level="m">Kuraattori ja vastaava kuraattori</title>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="volume">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="https://www.thl.fi/fi/web/lastensuojelun-kasikirja/ajan-kohtaista?p_p_state=maximized&amp;p_p_mode=view&amp;save-LastPath=0&amp;_58_struts_action=%2Flogin%2Flogin&amp;p_p_id=58&amp;p_p_lifecy-cle=0&amp;_58_redirect=%2Fen%2Fweb%2Flastensuojelun-kasikirja%2Ftyopro-sessi%2Fehkaiseva-lastensuojelu%2Fesimerkkeja-ehkaisevan-lastensuojelun-toimintamuodoista%2Foppilashuolto-ja-koulun-sosiaalityo" />
+		<title level="m">Terveyden ja hyvinvoinnin laitos, 2015. Opiskeluhuolto ja koulun sosiaalityöLastensuojelun käsikirja</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Laadullinen tutkimus ja sisällönanalyysi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jouni</forename><forename type="middle">&amp;amp;</forename><surname>Tuomi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anneli</forename><surname>Sarajärvi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<publisher>Hansaprint Oy</publisher>
+			<pubPlace>Vantaa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Työrauha ohjelma, joka ei maksa penniäkään</title>
+	</analytic>
+	<monogr>
+		<title level="j">Opettaja</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="32" to="33" />
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leena</forename><surname>Viinamäki</surname></persName>
+		</author>
+		<title level="m">Lapin amk. Sosionomi (YAMK). Teema IVa: Kehittämistyö ja-hanke vaikuttajana</title>
+		<imprint>
+			<publisher>Luennot</publisher>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Tutki ja havainnoi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hanna</forename><surname>Vilkka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Gummerus Kirjapaino Oy</publisher>
+			<pubPlace>Vaajakoski</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">LIITTEET LIITE 1. Taulukko 3. Tyyppien vertailua Ahon (1979) luokitteluun</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hanna</forename><surname>Vilkka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tammi</title>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note>Tutki ja kehitä</note>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

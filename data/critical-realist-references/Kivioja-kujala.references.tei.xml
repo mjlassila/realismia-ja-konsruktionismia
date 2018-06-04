@@ -1,0 +1,492 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_20"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">The Family Assessment-Assessment of family competence, strengths and difficulties</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Bentovim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Bingley Miller</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<publisher>Published by Pavilion Publishing</publisher>
+			<pubPlace>Brighton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Making Sense of Life&apos;s Changes</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Bridges</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996" />
+			<publisher>Nicholas Brealey Publishing. Lontoo</publisher>
+		</imprint>
+	</monogr>
+	<note>Transitions</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Dahler-Larsen</surname></persName>
+		</author>
+		<title level="m">Vaikuttavuuden arviointi. Hyvät käytännöt. Menetelmä-käsikirja. Stakes</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Heino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Keitä ovat lastensuojelun uudet asiakkaat? Tutkimus lapsista ja perheistä tilastolukujen takana</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="volume">30</biblScope>
+		</imprint>
+	</monogr>
+	<note>STAKES</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lastensuojelun avohuolto ja perhetyö: kehitys, nykytila, haasteet ja kehittämisehdotukset</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Heino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Selvitys lastensuojelun kehittämistyölle</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008" />
+			<biblScope unit="volume">9</biblScope>
+		</imprint>
+	</monogr>
+	<note>STAKES</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hirsjärvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hurme</surname></persName>
+		</author>
+		<title level="m">Tutkimushaastattelu</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hirsjärvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Remes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sajavaara</surname></persName>
+		</author>
+		<title level="m">Tutki ja kirjoita. 13</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Järvinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lankinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Taajamo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Veistilä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Virolainen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>Perheen parhaaksi-Perhetyön arkea. Bookwell Oy</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kehittämistutkimus opinnäytetyönä. taitto ja paino: Tampereen Yliopistopaino Oy-Juvenes Print</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kananen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jyväskylän ammattikorkeakoulun julkaisuja-sarja. Toim. Risto Heikkinen</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kankkunen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kivimäki</surname></persName>
+		</author>
+		<title level="m">Asiakaslähtöinen kuntouttavan perhetyön malli. Lastensuojelun avohuollon tukitoimi laitoksessa. Opinnäytetyö, Sosiaalialan koulutusohjelma</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>Mikkelin ammattikorkeakoulu</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Laakso</surname></persName>
+		</author>
+		<title level="m">Lapsen etu, oikeudet ja näkökulma moraalisina kannanottoina</title>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="25" to="42" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Kiistanalainen perhe, moraalinen järkeily ja sosiaalityö</title>
+		<editor>Forsberg, H. &amp; Autonen-Vaaraniemi, L.</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Raudasmäen Sosiaalipalvelut Oy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Laatukäsikirja</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vanhempien kokemuksia vanhemmuuden tukemisesta Nuorten Ystävien perhekuntoutuksessa. Opinnäytetyö, Sosiaalialan koulutusohjelma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Luolavirta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Moilanen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>Oulun seudun ammattikorkeakoulu</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Internet-lähde</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Meklin</surname></persName>
+		</author>
+		<ptr target="http://tampub.uta.fi/bitstream/handle/10024/65646/tulos_normi_tilivelvollisuus_2001.pdf?sequence=1" />
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Valtiontalouden perusteet. 4. uudistetut painos (1.painos 1991). Hallinnon kehittämiskeskus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Meklin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>Edita Prima Oy</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mäkelä</surname></persName>
+		</author>
+		<title level="m">Dialoginen työmenetelmä. Lastensuojelun verkostopalaverikäytännön analyysi. Pro gradu-tutkielma. Sosiaalityö</title>
+		<imprint>
+			<publisher>Jyväskylän yliopisto, Kokkolan yliopistokeskus Chydenius</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Internet-lähde</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Paasio</surname></persName>
+		</author>
+		<ptr target="http://www.mv.helsinki.fi/home/hsimola/Laadunarv%20pol%20vaikutukset%20ss66_80%2006.pdf" />
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Realistic Evaluation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Pawson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Tilley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<publisher>Sage Publications</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Penninkangas</surname></persName>
+		</author>
+		<title level="m">Lastensuojelu osana lapsuutta. Asiakkaiden näkemyksiä lastensuojelun avohuollon tukitoimien vaikuttavuudesta. Pro gradu-tutkielma. Sosiaalityö</title>
+		<imprint>
+			<publisher>Kokkolan yliopistokeskus Chydenius</publisher>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Perhekuntoutuksen arviointi ja tuloksellisuus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Pärnä</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Voimaannuttavat suhteet perhekuntoutuksessa. Mannerheimin Lastensuojeluliiton Lasten ja Nuorten Kuntoutussäätiö</title>
+		<editor>Törrönen, M. &amp; Pärnä, K.</editor>
+		<meeting><address><addrLine>Porvoo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bookwell Oy</publisher>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Pösö</surname></persName>
+		</author>
+		<title level="m">Lapsen etu, oikeudet ja näkökulma moraalisina kannanottoina</title>
+		<editor>Forsberg, H. &amp; Autonen-Vaaraniemi, L.</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="75" to="94" />
+		</imprint>
+	</monogr>
+	<note>Kiistanalainen perhe, moraalinen järkeily ja sosiaalityö</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Perhearviointiopas-Perheen voimavarojen, vahvuuksien ja vaikeuksien arviointimenetelmä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Rinne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Suomen Mielenterveysseura r.y. Psykoterapiataitojen Instituutti</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Lastensuojelupalvelujen onnistumisen arviointi. Lassohanke</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Rousu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Holma</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>Suomen Kuntaliitto. Kirjapaino Oma OY</publisher>
+			<pubPlace>Jyväskylä</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Lastensuojelun tuloksellisuuden arviointi organisaatiossa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Rousu</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Rönkkö</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>&amp;amp; Rytkönen</surname></persName>
+		</author>
+		<title level="m">Monisäikeinen perhetyö</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOYpro Oy</publisher>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vaikuttavuuden arviointi lastensuojelun sosiaalityön avohuollossa. Lastensuojelun Tieto-hanke</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Suhonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Sosiaalipalvelujen vaikuttavuuden arvioinnista. Hallinnon tutkimus. 1</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sinkkonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="18" to="34" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Pakosta mahdollisuus. Arviointitutkimus Lausteen perhekuntoutuskeskuksen perheiden arviointi-ja kuntoutuspalveluista</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Tuokkola</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Sosiaalikehitys Oy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Vilkka</surname></persName>
+		</author>
+		<title level="m">Tutki ja kehitä</title>
+		<meeting><address><addrLine>Keuruu</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi</publisher>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Väisänen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Niemelä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Suua</surname></persName>
+		</author>
+		<title level="m">Sanat työssä. Vuorovaikutus ammattitaitona</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kirjapaja</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

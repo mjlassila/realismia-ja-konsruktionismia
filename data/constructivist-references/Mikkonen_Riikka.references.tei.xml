@@ -1,0 +1,299 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_15"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Transparent: love, family, and living the T with transgender teenagers</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Beam</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>Harcourt</publisher>
+			<pubPlace>Orlando, FL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Bending Gender, Ending Gender: Theoretical Foundations for Social Work Practice with the Transgender Community</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Burdge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Julkaisussa Social Work</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="243" to="250" />
+			<date type="published" when="2007" />
+			<publisher>NASW</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Butler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Gaudeamus</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Hacking</surname></persName>
+		</author>
+		<title level="m">Mitä sosiaalinen konstruktionismi on?</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Sateenkaariperheet ja hyvinvointi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Jämsä</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>PS-kustannus</publisher>
+			<pubPlace>Juva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">International Federation of Social Workers</title>
+		<idno>30.04</idno>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note>Global definition of social work</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kirjallisuuskatsaukset-huomio systemaattiseen kirjallisuuskatsaukseen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Johansson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Systemaattinen kirjallisuuskatsaus ja sen tekeminen</title>
+		<editor>Johansson, K., Axelin, A., Stolt, M., &amp; Ääri, R.</editor>
+		<meeting><address><addrLine>Turku</addrLine></address></meeting>
+		<imprint>
+			<publisher>Digipaino</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Laki sosiaalihuollon asiakkaan asemasta 22</title>
+		<idno>9.2000/812. Viitattu 25.04</idno>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Gender Identity Disorder, the Gender Binary, and Transgender Oppression: Implications for Ethical Social Work</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Markman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Smith College Studies in Social Work</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="314" to="327" />
+			<date type="published" when="2011" />
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Questioning Gender and Sexuality Binaries: What Queer Theorists, Transgendered Individuals, and Sex Researchers Can Teach Social Work</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Mcphail</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Julkaisussa Journal of Gay &amp; Lesbian Social Services</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2004" />
+			<publisher>The Haworth Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Morrow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Work Practice With Gay</title>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Transgender Adolescents. Julkaisussa Families in Society: The Journal of Contemporary Social Services</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Rastas</surname></persName>
+		</author>
+		<title level="m">Oikeus oman identiteetin mukaiseen elämään? Sosiaali-ja terveyshallitus: raportteja 55</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Valtion painatuskeskus</publisher>
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Raunio</surname></persName>
+		</author>
+		<title level="m">Olennainen sosiaalityössä</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus Helsinki University Press</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Sosiaalialan korkeakoulutettujen ammattijärjestö Talentia ry 2013. Arki, arvot, elämä ja etiikka-sosiaalialan ammattilaisen eettisen ohjeet</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Talentian Ammattieettinen lautakunta</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Www.Transtukipiste.Fi &amp;gt; Tietoa Sukupuolesta Transtukipiste</surname></persName>
+		</author>
+		<idno>20.04.2016</idno>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Www.Transtukipiste.Fi &amp;gt; Tietoa Sukupuolesta &amp;gt; Hlbtiq-Sanasto Transtukipiste</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">www.transtukipiste.fi &gt; tietoa sukupuolesta &gt; sukupuolen korjaushoito Suomessa</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Turun</forename><surname>Ammattikorkeakoulu</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;gt;</forename><surname>Soleops</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Opetussuunnitelmat</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Sukupuolen ja seksuaalisuuden kohtaaminen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Vilkka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>PSkustannus</publisher>
+			<pubPlace>Juva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,592 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_19"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Instructing individuals to deliver discrete-trials teaching to children with autism spectrum disorders: A review</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Arnal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Fazzio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Thomson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">T</forename><surname>Yu</surname></persName>
+		</author>
+		<ptr target="http://www.researchgate.net" />
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Early and intensive behavioral intervention for autism: A survey of clinical practices</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Almason</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Carr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Petursdottir</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Love</surname></persName>
+		</author>
+		<ptr target="http://www.re-searchgate.net" />
+	</analytic>
+	<monogr>
+		<title level="j">Research in Autism Spectrum Disorders</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="421" to="428" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Andersson</surname></persName>
+		</author>
+		<title level="m">Sosiaaliset kuvatarinat, sarjakuvitettu keskustelu</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Haukkarannan koulu</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="http://autismisaa-tio.wordpress.com/" />
+		<title level="m">Autismisäätiön www-sivut 2015 a. </title>
+		<imprint>
+			<date type="published" when="2015" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Autismisäätiön Www-Sivut</surname></persName>
+		</author>
+		<ptr target="http://www.autismisaa-tio.fi/haastavakayttaytyminen/materiaalipankki/" />
+		<imprint>
+			<date type="published" when="2015" />
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="http://www.autismiliitto.fi/au-tismin_kirjo" />
+		<title level="m">Autismiliiton www-sivut 2015 a. </title>
+		<imprint>
+			<date type="published" when="2015" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="http://www.autismiliitto.fi/fi-les/234/varhainen_vuorovaikutus.pdf" />
+		<title level="m">Autismiliiton www-sivut 2015 b. </title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Anttila</surname></persName>
+		</author>
+		<title level="m">Realistinen evaluaatio ja tuloksellinen kehittämistyö</title>
+		<meeting><address><addrLine>Hamina</addrLine></address></meeting>
+		<imprint>
+			<publisher>Akatiimi</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Time to give up on a single explanation for autism</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Happè</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ronald</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Plomin</surname></persName>
+		</author>
+		<ptr target="http://www.nature.com/neuro/jour-nal/v9/n10/full/nn1770.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature neuroscience</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note></note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Haverinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kujanpää</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Norvapalo</surname></persName>
+		</author>
+		<title level="m">Koritehtävät: Toiminnan ohjauksen, omatoimisuuden ja oppimisen tueksi</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Haukkarannan koulu, Autistien palvelukeskus</publisher>
+			<date type="published" when="2001" />
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Heikura-Pulkkinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kujanpää</surname></persName>
+		</author>
+		<title level="m">Sosiaaliset kuvatarinat</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Haukkarannan koulu, Autistien palvelukeskus</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Huttunen</surname></persName>
+		</author>
+		<ptr target="http://www.terveyskirjasto.fi/ter-veyskirjasto/tk.koti?p_artikkeli=dlk00355" />
+	</analytic>
+	<monogr>
+		<title level="j">Autismi. </title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Huotari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E-L</forename><surname>Tamski</surname></persName>
+		</author>
+		<title level="m">Tammenterhon tarinoita, kirja valmennuksesta</title>
+		<meeting><address><addrLine>Mikkeli</addrLine></address></meeting>
+		<imprint>
+			<publisher>Eeva-Liisa Tamsk</publisher>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kujanpää</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Väinölä</surname></persName>
+		</author>
+		<title level="m">Haukkarannan koulu</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Autistien palvelukeskus</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>Koritehtävät 1. 3. korjattu p</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Haaste-hankkeen julkaisuja 1/2012</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Korventaival</surname></persName>
+		</author>
+		<ptr target="http://www.autismisaatio.fi/haastavakayttaytyminen/materiaalipankki/" />
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Kupias</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Salo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>Talentum</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Autististen lasten ja nuorten hoito ja kuntoutus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Koskentausta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Suomen Lääkärilehti</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="587" to="579" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mapa-Finland</forename></persName>
+		</author>
+		<ptr target="http://www.mapafinland.fi/toiminta" />
+		<imprint>
+			<date type="published" when="2015" />
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Mayer-Johnson</surname></persName>
+		</author>
+		<ptr target="http://www.mayer-johnson.com/what-is-boardmaker" />
+		<imprint>
+			<date type="published" when="2015" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Mäkinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Raatikainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rahikka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Saarnio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ammattina sosionomi</title>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>WSOYpro</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mäntysaari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pohjola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Pösö</surname></persName>
+		</author>
+		<title level="m">Sosiaalityö ja teoria</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Moilanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M-L</forename><surname>Mattila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Loukusa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kielinen</surname></persName>
+		</author>
+		<ptr target="Viitattu5.11.2015.www.duodecimlehti.fi" />
+	</analytic>
+	<monogr>
+		<title level="m">Autismikirjon häiriöt lapsilla ja nuorilla</title>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="53" to="62" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Oppimis-ja ohjauskeskus Onerva</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Norvapalo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Autismikirjon asiantuntija koulutus luento</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Pawson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tilley</surname></persName>
+		</author>
+		<ptr target="http://www.pecsusa.com/pecs.php" />
+	</analytic>
+	<monogr>
+		<title level="j">Realist Evaluation. </title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>pyramid educational consultants TM. </note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kehittämistutkimus opetusalalla</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Pernaa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kehittämistutkimus opetusalalla</title>
+		<editor>J. Pernaa</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="7" to="8" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ratkes Www-Sivusto</surname></persName>
+		</author>
+		<ptr target="http://www.ratkes.fi/tietoa-ratkaisukeskei-syydestae" />
+	</analytic>
+	<monogr>
+		<title level="j"></title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Autismin kirjon häiriöt: Diagnostiikka ja hoito, Hoidon organisointi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Reiman-Möttönen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>Potilaiden osallistuminen. Arviointiseloste 2/2014. </note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Rostila</surname></persName>
+		</author>
+		<title level="m">Tavoitelähtöinen sosiaalityö: voimavarakeskeisen ongelmaratkaisun perusteet</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Jyväskylän yliopisto</publisher>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Sajaniemi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Avellan</surname></persName>
+		</author>
+		<title level="m">Lasten neurologinen kuntoutus</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>PJK Test House</publisher>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Luennot, neuropsykiatrinen valmentaja-koulutus, SAMK täydennyskoulutus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Sihvonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<pubPlace>Pori</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Aikuisen Asperger-potilaan neuropsykiatrinen valmennus yksilökuntoutuksena</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Sihvonen</surname></persName>
+		</author>
+		<idno>118-25. </idno>
+		<ptr target="http://www.duode-cimlehti.fi" />
+	</analytic>
+	<monogr>
+		<title level="j">Duodecim</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E-L</forename><surname>Tamski</surname></persName>
+		</author>
+		<title level="m">Neuropsykologinen valmennus, koulutusluento 9</title>
+		<meeting><address><addrLine>Pori</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<ptr target="Terveydenjahyvin-voinninlaitos.Viitattu5.11.2015.www.thl.fi" />
+	</analytic>
+	<monogr>
+		<title level="j">Tautiluokitus ICD</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Toiminta-Ja</forename><surname>Taloussuunnitelma</surname></persName>
+		</author>
+		<ptr target="http://www.satshp.fi/tietoa-meista/tilastot-ja-raportitVerneriwww-sivusto,Viitattu9.11.2015.www.verneri.fi" />
+		<imprint>
+			<date type="published" when="2015" />
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

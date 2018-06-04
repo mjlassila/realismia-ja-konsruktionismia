@@ -1,0 +1,973 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_19"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kuka lasta kasvattaa? Vanhemmuuden ja yhteiskunnallisen kasvatuksen suhde vanhempien puheissa</title>
+	</analytic>
+	<monogr>
+		<title level="m">Alasuutari 2003</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Preventive Services for Adolescents: Exploring the process of Change</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Biehal</forename><surname>Nina</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Social Work</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="444" to="461" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Uusperheiden voimavarat ja lasten hyvinvointi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mari</forename><surname>Broberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Väestöntutkimuslaitoksen julkaisusarja D</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<date type="published" when="2010" />
+			<publisher>Väestöliitto</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Cacciatore</forename><surname>Raisa</surname></persName>
+		</author>
+		<title level="m">Aggression portaat-opetusmateriaali kouluille</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Opetushallitus</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eräranta</forename><surname>Kirsi</surname></persName>
+		</author>
+		<title level="m">Olevasta tekijäksi? Psykososiaalinen tieto isän määrittäjänä. Teoksessa Vuori Jaana &amp; Nätkin Ritva</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="83" to="105" />
+		</imprint>
+	</monogr>
+	<note>Perhetyön tieto</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eskola</forename><surname>Jari &amp;amp; Suoranta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Juha</surname></persName>
+		</author>
+		<title level="m">Johdatus laadulliseen tutkimukseen</title>
+		<meeting><address><addrLine>Rovaniemi</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lapin yliopisto</publisher>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">From childhood to adult age: 18-year longitudinal re sults and prediction of the course of mental disorders in the community</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Fichter Manfred</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kohlboeck</forename><surname>Gabriele</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Quadflieg</forename><surname>Norbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Psychiatry &amp; Psyhciatric Epidemology</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="792" to="803" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>Wyschkon Anne &amp; Esser Günter</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Hyvinvoinnin tekijät ja uhat lapsuudessa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Forssén</forename><surname>Katja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Laine</forename><surname>Kaarina &amp;amp; Tähtinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Juhani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Marginaalit ja sosiaalityö</title>
+		<editor>Juhila Kirsi, Forsberg Hannele &amp; Roivainen Irene</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Jyväskylän yliopisto</publisher>
+			<date type="published" when="2002" />
+			<biblScope unit="page" from="81" to="106" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Mental Health in Middle Adolescent</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fröjd</forename><surname>Sari</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>Tampereen yliopisto</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gleitman</forename><surname>Henry</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Reisberg</forename><surname>Daniel &amp;amp; Gross</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology. Seventh edition</title>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>W.W.Norton &amp; Company</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Realistinen arviointi lapsiperheiden vanhempainryhmistä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Haaranen</forename><surname>Ari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Muu tokset perheiden terveydessä ja vaikuttavuutta edistävät toiminnat. Väitöskirjatutkimus</title>
+		<meeting><address><addrLine>Kuopio</addrLine></address></meeting>
+		<imprint>
+			<publisher>Itä-Suomen yliopisto</publisher>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Perhepolitiikka ja jaettu vanhemmuus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hakovirta</forename><surname>Mia Ja Rantalaiho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Minna</forename></persName>
+		</author>
+		<idno>vo-projekti. 36−60</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Ero, vanhemmuus ja tukeminen</title>
+		<editor>Kääriäinen, A. &amp; Pölkki, P. &amp; Hämäläinen, J.</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lastensuojelun keskusliitto</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Helminen</forename><surname>Jarkko</surname></persName>
+		</author>
+		<title level="m">Lastensuojelulaki. Luentomateriaali. Luennolla Diakoniaammattikorkeakoulussa 25.10.2012. Diakonia-ammattikorkeakoulu</title>
+		<imprint>
+			<publisher>Materiaalikansio</publisher>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hirsijärvi</forename><surname>Sirkka &amp;amp; Hurme</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Helena</surname></persName>
+		</author>
+		<title level="m">Tutkimushaastattelu. Teemahaastattelun teoria ja käytäntö</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Remes Pirkko ja Sajavaara Paula</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hirsijärvi</forename><surname>Sirkka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Tutki ja kirjoita</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kustannusosakeyhtiö Tammi</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jallinoja</forename><surname>Riitta</surname></persName>
+		</author>
+		<title level="m">Perheen vastaisku. Familistista käännettä jäljittämässä</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jantunen</forename><surname>Eila</surname></persName>
+		</author>
+		<title level="m">Osalliseksi tuleminen. Masentuneiden vertaistukea jäsentävä substantiivinen teoria</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Diakonia-ammattikorkeakoulu</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jokinen</forename><surname>Arja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juhila</forename><surname>Kirsi &amp;amp; Suoninen Eero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Diskurssianalyysi</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kataja</forename><surname>Kati</surname></persName>
+		</author>
+		<title level="m">Lapsuuden rajoilla. Normaalin ja poikkeavuuden määrittyminen huostaanottoasiakirjoissa. Väitöskirjatutkimus. Turku: Ruse, koulutussosiologian tutkimuskeskus</title>
+		<imprint>
+			<publisher>Turun yliopisto</publisher>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kekkonen</forename><surname>Marjatta</surname></persName>
+		</author>
+		<title level="m">Kasvatuskumppanuus puheena. Varhaiskasvattajat, vanhemmat ja lapset päivähoidon diskursiivisilla näyttämöillä. Väitöskirja tutkimus</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tampereen yliopisto</publisher>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Keltikangas-Järvinen</forename><surname>Liisa</surname></persName>
+		</author>
+		<title level="m">Sosiaalisuus ja sosiaaliset taidot</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY</publisher>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vanhemmuus arjessa: neu vottelua, hässäköintiä ja hassuttelua. Perhe-elämän paletti. Vanhempana ja puolisona vaihtelevassa arjessa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kivijärvi</forename><surname>Saila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rönkä</forename><surname>Anna Ja Hyväluoma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Johanna</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>PS-Kustannus</publisher>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page">68</biblScope>
+			<pubPlace>Jyväskylä</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Perhe tuli työelämään</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kivimäki</forename><surname>Riikka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Perhe murroksessa. Kriittisen perhetutkimuksen jäljillä</title>
+		<editor>Forsberg Hannele &amp; Nätkin Ritva</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus</publisher>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="186" to="201" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Käyrillä? Vanhempien tulkintoja lapsistaan ja vanhemmuudestaan suhteessa lasten pituus ja painonormeihin</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kokkonen</forename><surname>Riikka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="page">2</biblScope>
+			<pubPlace>Yhteiskuntapolitiikka</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Vertaistoiminta-kokemuksellista vuorovaikutusta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Laimio Anne &amp;amp; Karnell</forename><surname>Sonja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Vertaistoiminta kannattaa</title>
+		<editor>Laatikainen Tanja</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Asumispalvelusäätiö ASPA</publisher>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mahkonen</forename><surname>Sami</surname></persName>
+		</author>
+		<title level="m">Lastensuojelu ja laki</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edita</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Malinen</forename><surname>Kaisa</surname></persName>
+		</author>
+		<title level="m">Parisuhde pikkulapsiperheessä Väitöskirjatutkimus</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Jyväskylän yliopisto</publisher>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Hyvinvointivaltion lupaukset, kohtuuttomat tapaukset ja sosiaalityö</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Metteri</forename><surname>Anna</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>Tampereen yliopisto</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Vertaistuki osana sosiaalista vahvistamista</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mikkonen</forename><surname>Irja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalinen vahvistaminen kokemuksina ja käytänteinä</title>
+		<editor>Lundbom Pia ja Herranen Jatta</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="204" to="224" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Dialogisuus kommunikaationa ja suhteena. Vastaamisen, vallan ja vastuun merkitys sosiaalialan asiakastyön vuorovaikutuksessa. Akateeminen väitöskirja</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mönkkönen</forename><surname>Kaarina</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>Kuopion yliopiston julkaisuja</publisher>
+			<pubPlace>Kuopio</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Diabetes elämänkumppanina. Nuoren ja perheen diabetekseen sopeutumista kuvaava substantiivinen teoria</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Olli</forename><surname>Seija</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>Tampereen yliopisto</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Mikä on minun perheeni? Suomalaisten käsityksiä perheestä vuosilta 2007 ja 1997. Perhebarometri</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Paajanen</forename><surname>Pirjo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Väestöntutkimuslaitos Katsauksia E</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<date type="published" when="2007" />
+			<publisher>Väestöliitto</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kaksi aineistoa erilaisina vuorovaikutuksen kenttinä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pietilä</forename><surname>Ilkka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ryhmä-ja yksilöhaastattelun diskurssiivinen analyysi</title>
+		<editor>Ruusuvuori Johanna, Nikander Pirjo &amp; Hyvärinen Matti</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="212" to="241" />
+		</imprint>
+	</monogr>
+	<note>Haastattelun analyysi</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Tuntemattomista vertaistuttaviksi; esikoisäitien ja-isien perhevalmennusprosessi Espoon uudentyyppisessä perhevalmennuskokeilussa. Väitöskirjatutkimus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pietilä-Hella</forename><surname>Riitta</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>Diakonia-ammattikorkeakoulu</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<idno>1455- 9919</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diakonia-ammattikorkeakoulun julkaisuja. A. Tutkimuksia</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sijaisvanhempien vertaisryhmäkokemuksia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Raitanen</forename><surname>Tuija</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Menetyksistä mahdollisuuksiin. Perhehoitoa lasten ja vanhemmuuden tueksi</title>
+		<editor>Ketola Jari</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-Kustannus</publisher>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="161" to="172" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Nuoruusikä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rantanen</forename><surname>Päivi</surname></persName>
+		</author>
+		<editor>Moilanen Irma, Räsänen Eila, Tammi nen Tuula, Almqvist Fredrik, Piha Jorma ja Kumpulainen Kirsti</editor>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lasten-Ja</forename><surname>Nuorisopsykiatria</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Duodecim</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Tutkimuksen voimasanat</title>
+		<editor>Ronkanen Suvi, Pehkonen Leila, Lindblom-Ylänne Sari &amp; Paavilainen Eija</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOYpro</publisher>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Pirstoutunut vanhemmuus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rotkirch</forename><surname>Anna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">luvun elämä: Sosiologisia teorioita vuosituhannen vaihteesta</title>
+		<editor>Hoikkala Tommi ja Roos J.P</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus</publisher>
+			<date type="published" when="2000" />
+			<biblScope unit="page" from="187" to="200" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Tutkimushaastattelu ja vuorovaikutus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ruusujärvi Johanna &amp;amp; Tiittula</forename><surname>Liisa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Haastattelu</title>
+		<editor>Ruusuvuori Johanna &amp; Tiittula Liisa</editor>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tutkimus</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<biblScope unit="page" from="22" to="56" />
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Perhe ja vanhemmuus. Suomalainen perhe-elämä ja sen tukeminen</title>
+		<editor>Rönkä Anna &amp; Kinnunen Ulla</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-Kustannus</publisher>
+			<date type="published" when="2002" />
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Nuoret ja vanhemmat perhesuhteiden muutoksessa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rönkä</forename><surname>Anna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Viheräkoski</forename><surname>Johanna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Litsilä</forename><surname>Riikka &amp;amp; Poikkeus Anna-Maija</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Perhe ja vanhemmuus. Suomalainen perhe-elämä ja sen tukeminen</title>
+		<editor>Rönkä Anna &amp; Kinnunen Ulla</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-Kustannus</publisher>
+			<date type="published" when="2002" />
+			<biblScope unit="page" from="51" to="70" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Murrosikäisen perhesuhteet: muutoksia ja jännitteitä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rönkä</forename><surname>Anna Ja Sallinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Marjukka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Perhesuhteet puntarissa</title>
+		<editor>Sevón Eija ja Notko Marianne</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palmenia</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Riittävän hyvä vanhemmuus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Salo</forename><surname>Sirpa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Parisuhdeongelmat ja lasten psyykkinen hyvinvointi: kaksi tutkimusnäkökulmaa</title>
+		<editor>Jari Sinkkonen</editor>
+		<meeting><address><addrLine>Vantaa</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="298" to="326" />
+		</imprint>
+	</monogr>
+	<note>Pesästä lentoon. Kirja lapsen kehityksestä kasvattajalle</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Perhesuhteiden omalakisuus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sevón</forename><surname>Eija &amp;amp; Notko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marianne</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Perhesuhteet puntarissa</title>
+		<editor>Sevón Eija ja Notko Marianne</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palmenia</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sinkkonen</forename><surname>Jari</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>WSOY</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sinkkonen</forename><surname>Jari</surname></persName>
+		</author>
+		<title level="m">Pesästä lentoon</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY</publisher>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">The relationship of parenting style to older adolescent life-skills development in the United States</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Picklesimer</forename><surname>Slicker Ellen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Guzak Andrea Ja Fuller</forename><surname>Billie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Dana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Young, Nordic Journal of Youth Research</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="227" to="245" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sulkunen</forename><surname>Pekka</surname></persName>
+		</author>
+		<title level="m">Johdatus sosiaologiaan: Käsitteitä ja näkökulmia</title>
+		<meeting><address><addrLine>Porvoo</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY</publisher>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<idno>Terveydenhuoltolaki 2010/1326. 30.12</idno>
+		<ptr target="http://www.finlex.fi/fi/laki/ajantasa/2010/20101326" />
+	</analytic>
+	<monogr>
+		<title level="j">Viitattu</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vertaistuen voima; harvinaissairaiden lasten vanhempien kokemuksia vertaistuesta. Pro Gradu tutkielma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Toija</forename><surname>Anu</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>Jyväskylän yliopisto</publisher>
+			<pubPlace>Jyväskylä</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tuomi Jouni Ja Sarajärvi</forename><surname>Anneli</surname></persName>
+		</author>
+		<title level="m">Laadullinen tutkimus ja sisällön analyysi</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Ammattilaisten neuvot vanhemmille</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vidén</forename><surname>Sari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Perhetyön tieto</title>
+		<editor>Vuori Jaana &amp; Nätkin Ritva</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="106" to="127" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vilén</forename><surname>Marika</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leppämäki</forename><surname>Päivi Ja Ekström</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leena</forename></persName>
+		</author>
+		<title level="m">Vuorovaikutuksellinen tukeminen</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vilkka</forename><surname>Hanna</surname></persName>
+		</author>
+		<title level="m">Tutki ja kehitä</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi</publisher>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lupa Yhteystietojeni Luovuttamiseen</forename><surname>Nimi</surname></persName>
+		</author>
+		<title level="m">Sähköposti:___________________________________________________________ Puhelinnumero:________________________________________________________ ___ yhteystietoni saa luovuttaa Hanna Hänniselle saadakseni lisätietoja tutkimuksesta ___ olen kiinnostunut osallistumaan tutkimukseen haastateltavaksi Päivämäärä</title>
+		<imprint>
+			<publisher>_</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,211 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_4"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+				<ptr target="https://samk.solenovo.fi/opsnet/disp/fi/ops_OpetTapTeks/tab/tab/sea?page=&amp;opet-tap_id=9875311&amp;stack=push" />
+		<title level="m">Satakunnan ammattikorkeakoulun www-sivut. 2016. </title>
+		<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Talentian Www-Sivut</surname></persName>
+		</author>
+		<idno>16.12</idno>
+		<ptr target="http://www.talentia.fi/tyoelama/am-mattietiikka" />
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">University of Jyväskylä Talentian www-sivut</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Rostila</surname></persName>
+		</author>
+		<idno>16.12</idno>
+		<ptr target="http://www.talentia.fi/tyoelama/so-siaalialan_tyo/tyon_maaritelmat" />
+	</analytic>
+	<monogr>
+		<title level="m">Tavoitelähtöinen sosiaalityö</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Korpi</surname></persName>
+		</author>
+		<ptr target="http://jeesari.nuokka.fi/ota-koppi/" />
+		<title level="m">Ota koppi</title>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Mylläri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Salokangas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Yksilövalmentajat, Porin nuorten työpaja. Pori. Henkilökohtainen tiedonanto</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Laine</surname></persName>
+		</author>
+		<ptr target="http://www.tunnevoima.fi/psykososiaa-linen-kuntoutus/" />
+		<title level="m">Psykososiaalinen kuntoutus</title>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sosiaalityö hyvinvointietiikan toteuttajana</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Raunio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityön arvot ja etiikka</title>
+		<editor>A. Pehkonen &amp; M. Väänänen-Fomin</editor>
+		<meeting><address><addrLine>Helsinki; Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2009" />
+			<biblScope unit="volume">15</biblScope>
+		</imprint>
+	</monogr>
+	<note>Olennainen sosiaalityössä</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Toivonen</surname></persName>
+		</author>
+		<ptr target="http://www.theseus.fi/bitstream/han-dle/10024/32228/hyvaa_tyopajatyota_etsimassa.pdf;jsessio-nid=B6278F36E0036DE97F4DD2293DEBD6C1?sequence=1" />
+		<title level="m">Hyvää työpajatyötä etsimässä. AMK-opinnäytetyö. Hämeen ammattikorkeakoulu. </title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Tapola-Haapala</surname></persName>
+		</author>
+		<ptr target="https://helda.helsinki.fi/bitstream/han-dle/10138/26077/sosiaali.pdf?" />
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityön ammattilaiset refleksiivisinä toimijoina</title>
+		<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="volume">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Suomala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Työpajapäällikkö, Porin nuorten työpaja. Pori. Henkilökohtainen tiedonanto</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Pietarinen</surname></persName>
+		</author>
+		<ptr target="http://filosofia.fi/node/6985" />
+		<title level="m">Etiikka. </title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Huumonen</surname></persName>
+		</author>
+		<idno>16.11</idno>
+		<title level="m">Työ-ja yksilövalmennus työpajalla</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Valtakunnallinen työpajayhdistys</publisher>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Porin kaupungin nuorten työpajan Starttivalmennus ja sen kehittäminen. Ylempi AMK-opinnäytetyö</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Mylläri</surname></persName>
+		</author>
+		<ptr target="https://www.theseus.fi/bitstream/handle/10024/83478/Tonja%20Myl-lari%202014.pdf?sequence=1" />
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>Satakunnan ammattikorkeakoulu. </note>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>
