@@ -1,0 +1,688 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_21"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Laadullinen tutkimus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pertti</forename><surname>Alasuutari</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+			<publisher>Vastapaino</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Alkula</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tapani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pöntinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Seppo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ylöstalo</surname></persName>
+		</author>
+		<title level="m">Pekka 1994: Sosiaalitutkimuksen kvantitatiiviset menetelmät</title>
+		<meeting><address><addrLine>Juva</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari</forename><forename type="middle">&amp;amp;</forename><surname>Eskola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juha</forename><surname>Suoranta</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998" />
+			<publisher>Johdatus laadulliseen tutkimukseen. Vastapaino. Jyväskylä</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Arviointi sosiaalipalveluissa katsaus arvioinnin peruskysymyksiin</title>
+	</analytic>
+	<monogr>
+		<title level="j">Fin Soc, Sosiaalipalveluiden evaluaatioryhmä</title>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+	<note>Stakes</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Christian</forename><surname>Grönroos</surname></persName>
+		</author>
+		<title level="m">Nyt kilpaillaan palveluilla</title>
+		<imprint>
+			<publisher>Suomen Ekonomiliitto &amp; WSOY. Porvoo</publisher>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Holma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tupu &amp;amp; Outinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ulla</forename><forename type="middle">&amp;amp;</forename><surname>Maarit &amp;amp; Idänpään-Heikkilä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Salla</forename><surname>Sainio</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kirkasta ja uudista laadunhallintaa-kehitä laatutalo. Opas sosiaali-ja terveydenhuollon organisaatiolle</title>
+		<imprint>
+			<publisher>Suomen Kuntaliitto</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Laatua vanhustyön arkeen suunta ja välineet kehittämistyöhön</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tupu</forename><surname>Holma</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Suomen</forename><surname>Kuntaliitto</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ilpo</forename><surname>Koskinen</surname></persName>
+		</author>
+		<title level="m">Laadullisen tutkimusprosessin rakenteesta. Laadullisen tutkimuksen risteysasemalla</title>
+		<editor>Leskinen, Jaakko</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1995" />
+			<biblScope unit="page" from="51" to="65" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Läheisyyttä asiakastyöhön. Lähipalvelutyöryhmän asiakasprojektin loppuraportti. Sosiaali-ja terveysministeriö</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anja</forename><surname>Lehtonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oy Edita Ab</title>
+		<imprint>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Paul</forename><surname>Lillrank</surname></persName>
+		</author>
+		<title level="m">Laatuajattelu. Laadun filosofia, tekniikka ja johtaminen tietoyhteiskunnassa</title>
+		<meeting><address><addrLine>Otava; Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Laadun arviointi sosiaali-ja terveysalan palveluyksiköissä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ismo</forename><surname>Lumijärvi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vaasan yliopiston julkaisuja. Tutkimuksia nro</title>
+		<imprint>
+			<biblScope unit="volume">186</biblScope>
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lumijärvi</forename><surname>Ismo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp; Jylhäsaari</forename><surname>Jussi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Laatujohtaminen ja julkinen sektori</title>
+		<imprint>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Helsinki</forename><surname>Gaudeamus</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sami</forename><surname>Mahkonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>Lastensuojeluilmoitus. Jyväskylä. Edita</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marita</forename><forename type="middle">&amp;amp;</forename><surname>Malm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Repo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Marjo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Talvela</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Eeva-Liisa</surname></persName>
+		</author>
+		<title level="m">Esteistä mahdollisuuksiin. Vammaistyön perusteet</title>
+		<meeting><address><addrLine>Porvoo</addrLine></address></meeting>
+		<imprint>
+			<publisher>WS Bookwell Oy</publisher>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kaarina</forename><surname>Mönkkönen</surname></persName>
+		</author>
+		<title level="m">Vuorovaikutus. Dialoginen asiakastyö. Edita Prima oy</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Maarit</forename><forename type="middle">;</forename><surname>Outinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Holma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tupu &amp;amp; Lempinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kristiina</surname></persName>
+		</author>
+		<title level="m">Laatu ja asiakas. Laatutyöskentely sosiaali-ja terveysalalla</title>
+		<meeting><address><addrLine>Juva</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY</publisher>
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Utilization Focuced Evaluation. 3. painos</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Michael</forename><surname>Patton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Quinn</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<publisher>SAGE Publications</publisher>
+			<pubPlace>USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ray</forename><forename type="middle">&amp;amp;</forename><surname>Pawson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nick</forename><surname>Tilley</surname></persName>
+		</author>
+		<title level="m">Realistic Evaluation</title>
+		<imprint>
+			<publisher>SAGE Publications</publisher>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Laadun varmistuksen keskeiset käsitteet</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>London Pelkonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Marjaana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Hoitotyön laadun varmistuksen perusteet</title>
+		<editor>Marjaana Pelkonen &amp; Marja-Leena Perälä</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kirjayhtymä</publisher>
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eeva</forename><surname>Pyörälä</surname></persName>
+		</author>
+		<title level="m">Kvalitatiivisen tutkimuksen metodologiaa. Laadullisen tutkimuksen risteysasemalla. Leskinen</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1995" />
+			<biblScope unit="page" from="11" to="25" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Colin</forename><surname>Robson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Käytännön arvioinnin perusteet</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Quality Measurements and Some Unintended Consequences: Can Quasi-quality Be a Consequence of Quality Standard?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Britt</forename><surname>Slagsvold</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<pubPlace>Evers, Adalbert</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Developing Quality in Personal Social Services. Concepts, Cases and Comments</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Riitta</forename><surname>Haverinen</surname></persName>
+		</author>
+		<editor>Leichsenring, Kai &amp; Wistow, Gerald.</editor>
+		<imprint>
+			<publisher>Ashgate</publisher>
+			<biblScope unit="page" from="291" to="310" />
+			<pubPlace>European Centre Vienna</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Timo</forename><surname>Silen</surname></persName>
+		</author>
+		<title level="m">Laatu, brandi ja kilpailukyky</title>
+		<imprint>
+			<publisher>WSOY. Porvoo</publisher>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Asiakaslähtöisyys sosiaali-ja terveyspalveluissa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Minna</forename><surname>Sorsa</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Tampere Stakes 1996: Laadunhallinta sosiaali-ja terveydenhuollossa. Valtakunnallinen suositus. 2. painos. Gummerus Kirjapaino Oy, Jyväskylä. Stakes 1999 Sosiaali-ja terveydenhuollon laadunhallinta 2000-luvulle. Stakes, STM ja Suomen kuntaliitto</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hoitotieteenlaitos</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Gummerrus Kirjapaino Oy</publisher>
+			<pubPlace>Jyväskylä</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Hoitotieteen pro gradu-tutkielma</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Asiakaslähtöiset palveluprosessit. Perusta laadulle vanhusten kotihoidossa ja asumispalveluissa sekä lastensuojelutyössä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Suomen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+			<publisher>Suomen kuntaliitto</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stel</forename><surname>Van Der</surname></persName>
+		</author>
+		<title level="m">Jaap (toim.) 1999: Ehkäisevän päihdetyön käsikirja</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gummerus Kirjapaino Oy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pirkko</forename><surname>Vartiainen</surname></persName>
+		</author>
+		<title level="m">Monitahoarvioinnin periaatteet ja prosessit</title>
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="152" to="172" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+			</analytic>
+	<monogr>
+		<title level="m">Polkuja soveltavaan yhteiskuntatieteelliseen tutkimukseen</title>
+		<editor>Viinamäki, Leena &amp; Saari, Erkki</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Projektilla parempaan tulevaisuuteen? Arkipaja-projektin monitahoarviointi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pirkko</forename><surname>Vartiainen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>Vaasan ylopisto</publisher>
+			<pubPlace>Vaasa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vuorovaikutuksellinen tukeminen sosiaali-ja terveysalalla</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marika</forename><surname>Vílen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Päivi &amp;amp; Ekström</forename><surname>Leppämäki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Leena</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>WB Bookwell Oy</publisher>
+			<pubPlace>Juva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Virtanen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>Projektityö. WSOY</publisher>
+			<pubPlace>Petri; Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Health Service Quality. An Introduction to Quality Methods for Health Services</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><surname>Övretveit</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992" />
+			<publisher>Blackwell Science Ltd. Oxford Painamattomat lähteet</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Sosiaalityö hyvinvointipolitiikan välineenä 2015-toimenpideohjelma. Sosiaalialan pitkän aikavälin tavoitteita</title>
+		<editor>Karjalainen, Pekka &amp; Sarvimäki, Pirjo</editor>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sosiaali-Ja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Terveysministeriö</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Luettu</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Terveyspalvelut ja kilpailuttamisen kansainväliset ulottuvuudet. Kilpailuttaminen sosiaali-ja tervayspoliikan näkökulmasta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Meri</forename><surname>Koivusalo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Stakes</title>
+		<editor>Eeva Ollila, Minna Ilva, Meri Koivusalo</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="22" to="34" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Luettu 3</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Korhonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pirjo &amp;amp; Korhonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Eero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Moisio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Jussi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Risto</forename><surname>Oinonen</surname></persName>
+		</author>
+		<idno>27.10</idno>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<ptr target="http://www.ims.fi/UserFiles/ims/File/Auditoinnit/2505_TTL_ARTIKKELI260505.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Laki julkisista hankinnoista</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Luettu 27</title>
+		<imprint>
+			<date type="published" when="2008" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

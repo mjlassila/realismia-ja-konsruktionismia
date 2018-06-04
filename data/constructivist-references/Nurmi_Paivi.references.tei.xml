@@ -1,0 +1,1322 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_8"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+				<title level="m">Poliittisista päättäjistä asuntoministeri osallistuu julkiseen keskusteluun (kahdessa kirjoituksessa). Kokijatoimijoita ovat Pääskylänrinteen asiakkaat, Pursimiehenkadun asuntolan asukas, Tallinanaukion kolme kulkijaa, kaksi palvelukeskuksessa yöpynyttä, kaksi asunnotonta avajaisten yhteydessä, palvelukeskuksen asukas, ex-asunnoton sekä palvelukeskuksen viidennen kerroksen asukas (kolmessa kirjoituksessa)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Etu-töölön toimijoita ovat kaksi palvelukeskuksen naapurissa asuva ja lähikaupan kassa. Vailla vakinaista asuntoa ry:n työntekijä osallistuu kolmannen sektorin roolista. Muita keskustelun toimijoita ovat putkan osastonhoitaja</title>
+		<imprint>
+			<publisher>Valtion asuntorahasto, Raha-automaattiyhdistys ja Terveyden ja hyvinvoinnin laitos</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kirjoitukset on jaettu sen mukaan kuinka monta toimijaa niissä on äänessä: 1) yksiääniset, 2) kaksiääniset, 3) kolmiääniset ja 4) useampi kuin kolme toimijaa</title>
+		<imprint/>
+	</monogr>
+	<note>Kuvio 5 kuvaa kirjoituksissa esiintyvien toimijoiden määrää</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Kirjoitusten jakautuminen toimijoiden määrän mukaan Kaikista kirjoituksista niukasti suurin osa on yksiäänisiä</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+	<note>joita kirjoituksista on 15 (36,6 %</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+			</analytic>
+	<monogr>
+		<title level="m">Kolmiäänisiä kirjoituksia on kuusi (14,6 %) ja useampi kuin kolme toimijaa on äänessä seitsemässä (17,1 %) kirjoituksessa. Kirjoituksista yhteensä 26 (43,4%) on kaksi tai useampiäänisiä. Nämä kaksi-tai useampiäänisten kirjoitusten luokat sisältävät kirjoituksia, joissa sama toimijataho puhuu useamman toimijan äänellä, sekä kirjoituksia, joissa useampi toimijataho puhuu yhden tai useamman toimijan äänellä. Kirjoituksista, jotka ovat kaksi-tai useampiäänisiä (n=26), 22 sisältää useamman kuin yhden toimijatahon äänen. Parhaimmillaan kirjoituksissa yhdessä kirjoituksessa on neljän eri toimijan ääni, joista osassa sama toimija on äänessä mutta useamman eri henkilön kautta kuten esimerkiksi yksitAsunnottomien palvelukeskuksen ympärillä käyty kiista, palvelukeskuksen sijoittaminen ja toiminta ovat mielenkiintoinen osoitus kaupunkipolitiikasta ja-suunnittelusta vastoin Koskelan</title>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="volume">13</biblScope>
+		</imprint>
+	</monogr>
+	<note>joilla turvallisuuden edistämistä voidaan perustella, hyväksytään. Palvelukeskusta sijoitettaessa edes lasten ja vanhusten turvallisuusriski ei sijoittamista estänyt</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Jos vahvuuden ja voittamisen sijaan näkisimme ympäröivän tilan ja yhteiskuntamme paikkana, johon kuuluvat erilaisuus ja sattumanvaraisuus, melu mutta keskinäinen rauha, voisi olla helpompi ottaa askelia toiseen suuntaan. Tällöin ei tarvitsisi kyetä kvartaalivuosittain uuteen ansaitakseen oikeutusta olla olemassa</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">pitäis pystyä keskustelemaan kaikkien kanssa ja sit vaikka touhuttais, touhuis niinku yhdessä, tekisivät pihatöitä tai joitain vastaavaa, että et niinku kommunikoitais koko ajan keskenään kato</title>
+		<imprint/>
+	</monogr>
+	<note>palvelukeskuksen asukas &quot;Heikki&quot; unelmayhteiskunnasta</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lähteet</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ahkerat-Ohjelmatyöryhmä</forename></persName>
+		</author>
+		<title level="m">Pitkäaikaisasunnottomuuden poistaminen vuoteen 2015 mennessä. Pitkäaikaisasunnottomuuden vähentämisohjelma. Raportti. 10.1.2008. ARA 2010</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>Asunnottomat 2009. Selvitys 5/2010. 2.5.2010</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Asunnottomien palvelut-koulutus 2011</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Helsingin Sanomat</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Bäcklund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Asukkaiden näkemykset ovat arvokasta tietoa</title>
+		<imprint>
+			<publisher>Pääkirjoitus</publisher>
+			<date type="published" when="2010-06-30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Like Kustannus oy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">; E</forename><surname>De Mello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Stenius-Ayouade</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Asunnottomat vastaanottoyksiköissä. Asunnottomien vastaanottoyksiköiden asiakkaiden sosiaalinen tilanne ja terveydentila pääkaupunkiseudulla</title>
+		<imprint>
+			<publisher>Porvoo</publisher>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+	<note>Socca: HELSINKI Eskola, A. 1975. Sosiologian tutkimusmenetelmät</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Laadullisen aineiston analyysi vaihevaiheelta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Eskola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ikkunoita tutkimusmetodeihin 2. Näkökulmia aloittevalle tutkijalle tutkimuksen teoreettisiin lähtökohtiin ja analyysimenetelmiin</title>
+		<editor>Aaltola J. &amp; Valli R.</editor>
+		<meeting><address><addrLine>Juva</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>PSkustannus</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Eskola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Suoranta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Johdatus laadulliseen tutkimukseen</title>
+		<imprint>
+			<date type="published" when="1998" />
+			<publisher>Jyväskylä</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Johdatus laadulliseen tutkimukseen. Vastapaino. Jyväskylä. eri painos kuin edllinen Euroopan komissio 2010</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Eskola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Suoranta</surname></persName>
+		</author>
+		<ptr target="http://www.2010againstpoverty.eu/about/tackling.html?langid=fi#question2" />
+		<imprint>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+<note type="report_type">WWW-dokumentti</note>
+	<note>viitattu 18.8.2010</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Euroopan</surname></persName>
+		</author>
+		<ptr target="http://www.2010againstpoverty.eu/about/?langid=fi(viitattu18.8.2010" />
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+<note type="report_type">WWW-dokumentti</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kirjapaino Raamattutalo Oy: Pieksamäki</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Granfelt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kertomuksia naisten kodittomuudesta</title>
+		<imprint>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Luento laadullisesta tutkimuksesta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Heikkinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Laurea. Tikkurila</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Helne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Syrjäytymisen yhteiskunta. STAKES. GUMMERRUS</title>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>Vaajakoski</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">WWW-dokumentti</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Helsingin</surname></persName>
+		</author>
+		<ptr target="http://www.hel.fi/wps/portal/Sosiaalivirasto/Artikkeli?WCM_GLOBAL_CONTEXT=/Sosv/fi/Hankkeet/Pitkaaikaisasunnottomuus(viitattu1.6.2010" />
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Helsingin</surname></persName>
+		</author>
+		<ptr target="http://www.hel.fi/hki/Helsinki/fi/P__t_ksenteko+ja+hallinto/P__t_ksenteko/Kaupunginhallitus/(viitattu16.9" />
+		<title level="m">WWW-dokumentti</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+<note type="report_type">WWW-dokumentti</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">WWW-dokumentti</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Helsingin</surname></persName>
+		</author>
+		<ptr target="http://www.hel.fi/hki/Helsinki/fi/P__t_ksenteko+ja+hallinto/P__t_ksenteko(viitattu16.9" />
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Helsingin</surname></persName>
+		</author>
+		<ptr target="http://www.hel.fi/hki/helsinki/fi/P__t_ksenteko+ja+hallinto/P__t_ksenteko/Kaupunginvaltuusto(viitattu16.9" />
+		<title level="m">WWW-dokumentti</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">WWW-dokumentti</title>
+		<ptr target="http://www.hel.fi/hki/Sosv/fi/asunnottomien_palvelut/palvelukeskukset/hietaniemenkadun_palvelukeskus/asiakasohjaus" />
+	</analytic>
+	<monogr>
+		<title level="m">Helsingin kaupunki 2011 (1)</title>
+		<imprint/>
+	</monogr>
+	<note>viitattu 6.4.2011</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<ptr target="http://www.hel.fi/hki/Sosv/fi/asunnottomien_palvelut/palvelukeskukset/hietaniemenkadun_palvelukeskus/palvelut" />
+	</analytic>
+	<monogr>
+		<title level="m">WWW-dokumentti</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>viitattu 6.4.2011</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Alustus. Numeron voima, sanan valta-kuka kuuntelee köyhää?-seminaari 10.-1.4.08. Muistiinpanot. Stakes</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hänninen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Hänninen</surname></persName>
+		</author>
+		<title level="m">Sisäinen tarina, elämä ja muutos</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tampereen yliopistopaino</publisher>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Jallinoja</surname></persName>
+		</author>
+		<title level="m">Perheen vastaisku ja familistista käännettä jäljittämässä</title>
+		<imprint>
+			<publisher>Gaudeamus. Helsinki</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Media syrjäytymisen määrittelijänä ja selittäjänä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Juppi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tammi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Syrjäytymistä vastaan sosiaali-ja terveysalalla</title>
+		<editor>Laine T., Hyväri S. ja Vuokila-Oikkonen</editor>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Juurinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Virtanen-Olejniczak</surname></persName>
+		</author>
+		<title level="m">Toinen vääryyskirja (toim. Hirvilammi T. &amp; Laatu M</title>
+		<meeting><address><addrLine>Vammala</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="141" to="155" />
+		</imprint>
+	</monogr>
+	<note>Kelan tutkimusosasto</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Luento Tikkurilan Laureassa tutkimusetiikasta syksyllä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jyrkiö</forename><surname>Armi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Pelottava kaupunki</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Karisto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Haasteena tasapainoinen kaupunki, Kohti kaupunkisosiaalityötä (toim. Timo Koponmaa). Palmenia-kustannus</title>
+		<meeting><address><addrLine>Helsnki (tarkista</addrLine></address></meeting>
+		<imprint>
+			<biblScope unit="page" from="67" to="81" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kettunen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kysymyksiä asunnottomuudesta Suomessa</title>
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="volume">2007</biblScope>
+			<biblScope unit="page" from="380" to="391" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Turvakamerakontrolli: kadun näkymättömät katseet</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Koskela</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Haasteena tasapainoinen kaupunki, Kohti kaupunkisosiaalityötä (toim. Timo Koponmaa). Palmeniakustannus</title>
+		<meeting><address><addrLine>Helsnki (tarkista</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="113" to="129" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Pelkokierre. Pelonpolitiikka, turvamarkkinat ja kamppailu kaupunkitilasta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Koskela</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Gaudeamus</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Johdanto</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kopomaa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Haasteena tasapainoinen kaupunki, Kohti kaupunkisosiaalityötä (toim. Timo Koponmaa). Palmenia-kustannus</title>
+		<meeting><address><addrLine>Tampere (tarkista</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="7" to="17" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Ei toivottu puistoporukointi ja Vallilan viinakauppa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kopomaa</surname></persName>
+		</author>
+		<editor>Haasteena tasapainoinen kaupunki, Kohti kaupunkisosiaalityötä</editor>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="99" to="112" />
+			<pubPlace>Tampere (tarkista</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Timo Koponmaa). Palmeniakustannus</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kopomaa</forename><surname>Timo</surname></persName>
+		</author>
+		<title level="m">Tuetun asumisen ja palvelutoiminnan yhteys lähiympäristöön, asukasvaikuttamiseen ja kaupunkisuunnitteluun. Ympäristöministeriö ja Helsingin kaupunkisuunnitteluvirasto</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Johdanto. Teoksessa Ei meidän pihallemme! Paikalliset kiistat tilasta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kopomaa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Peltonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="9" to="27" />
+			<pubPlace>Gaudeamus. Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kopomaa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Peltonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Litmanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Esipuhe</surname></persName>
+		</author>
+		<title level="m">Ei meidän pihallemme! Paikalliset kiistat tilasta</title>
+		<editor>Kopomaa T, Peltonen L. &amp; Litmanen T.</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus</publisher>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="5" to="6" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Pääkaupungin kehitys 1990luvulla: kohti uudenlaista eriytymistä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kortteinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lankinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ja Vaatovaara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Palmenia-kustannus</title>
+		<editor>Kohti kaupunkisosiaalityötä</editor>
+		<meeting><address><addrLine>Ilm; Tampere</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001" />
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="21" to="37" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Yökaupunki-pelon kaupunki?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Koskela</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ja Tuominen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Teoksessa Helsingin yö (toim. Lähteenmaa ja Mäkelä)</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1995" />
+			<biblScope unit="page" from="66" to="89" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kerrottuja kokemuksia leimatusta identiteetistä ja toiseudesta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anna</forename><surname>Kulmala</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Tampereen yliopistopaino</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Kärkkäinen 2003. Teoksessa Kohti kaupunkisosiaalityötä (toim. Kopomaa T.) Palmeniakustannus</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<biblScope unit="page" from="49" to="64" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Ilm. 2002) Rokollisuuden pelko kasvaa Itä-Helsingissä: asuinalueiden erilaistuminen ja turvattomuuden kokeminen Helsingissä ja Espoossa vuosina</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kääriäinen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kohti</surname></persName>
+		</author>
+		<title level="m">Palmenia-kustannus</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<biblScope unit="page" from="49" to="64" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lehtonen</surname></persName>
+		</author>
+		<title level="m">Merkitysten maailma</title>
+		<meeting><address><addrLine>Vastapaino</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tampere</publisher>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Nimby-kiistojen ymmärtäminen ja selittäminen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Litmanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Peltonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ei meidän pihallemme! Paikalliset kiistat tilasta</title>
+		<editor>Kopomaa T, Peltonen L. &amp; Litmanen T.</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus</publisher>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="208" to="236" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">For Space</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Massey</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<publisher>Lontoo</publisher>
+			<pubPlace>Sage</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Mynttinen</surname></persName>
+		</author>
+		<title level="m">Asunnottomia Etu-Töölöön? Osallistumisen mahdollisuudet ja mahdottomuudet asunnottomien palvelukeskuksen sijoittamisessa. Pro gradu-tutkielma</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Helsingin yliopisto. Valtiotieteellinen tiedekunta</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Asunnottomuuskirja. Näkökulmia asunnottomien palvelujen kehittämiseen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hållman</forename><surname>Nousiainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Saurama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Seppälä</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">SOCCA JA Heikki Waris instituutti</title>
+		<editor>Asunnottomuuskirja 2. Ensisuojasta moniammatilliseksi palvelukeskukseksi. Nousiainen K. &amp; Sunikka S.</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="5" to="6" />
+		</imprint>
+	</monogr>
+	<note>SOCCA: Helsinki Nousiainen K. 2009. Esipuhe</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Homelessness and Homeless Services in the UK. Luentomateriaali. Tikkurilan Laurea</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">G</forename><surname>Papaioannou</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011-03" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Rajaamisen vaikutykset ja vaihtoehdot</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Peltonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ei meidän pihallemme! Paikalliset kiistat tilasta</title>
+		<editor>Kopomaa T, Peltonen L. &amp; Litmanen T.</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus</publisher>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="186" to="207" />
+		</imprint>
+	</monogr>
+	<note>Nimby maankäytön konfliktien kehyksenä</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Rantanen</surname></persName>
+		</author>
+		<title level="m">Laadullisen tutkimuksen työpaja. Luentomateriaali 19.3.2010. Laurea</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Tieteiden välisiä otteita vallasta kapunki-, media-ja virtuaalitiloissa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ridell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Julkisen tilan poetiikka ja politiikka</title>
+		<editor>Ridell, S. Kymäläinen P. ja Nyyssönen T</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="240" to="269" />
+		</imprint>
+	</monogr>
+	<note>Tampereen yliopistopaino Oy</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Saaranen-Kauppinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Puusniekka</surname></persName>
+		</author>
+		<title level="m">KvaliMOTV-Menetelmäopetuksen tietovaranto [verkkojulkaisu</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Yhteiskuntatieteellinen tietoarkisto</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note>ylläpitäjä ja tuottaja</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Todellisuuden ymmärrettävyys ja diskurssianalyysin rajat</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sulkunen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Semioottisen sosiologian näkökulmia. Sosiaalisen todellisuuden rakentuminen ja ymmärrettävyys</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997" />
+			<biblScope unit="page" from="13" to="53" />
+		</imprint>
+	</monogr>
+	<note>Sulkunen P</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Aluksi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Sunikka</surname></persName>
+		</author>
+		<editor>Asunnottomuuskirja 2. Ensisuojasta moniammatilliseksi palvelukeskukseksi (toim. Nousianen K. ja Sunikka S. SOCCA &amp; Heikki Waris instituutti</editor>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="11" to="23" />
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Asunnottomien palvelut-koulutus 2011</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Sunikka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Suomen Perustuslaki 1999</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Www-Dokumentti</surname></persName>
+		</author>
+		<ptr target="http://www.finlex.fi/fi/laki/alkup/1999/19990731?search%5Btype%5D=pika&amp;search%5Bpika%5D=perustuslaki" />
+		<imprint/>
+	</monogr>
+	<note>viitattu 24.4.2011</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Herttoniemen asuntola-portti palvelujärjestelmään</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Suvanto</forename><surname>Hannu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ensisuojasta moniammatilliseksi palvelukeskukseksi</title>
+		<editor>toim. Nousianen K. ja Sunikka S. SOCCA &amp; Heikki Waris instituutti</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="25" to="45" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Tohila</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Paras maailmassa mahtuu kahden käsivarren väliin</title>
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="volume">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Laadullinen tutkimus ja sisällönanalyysi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tuomi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sarajärvi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>Gummerus. JYVÄSKYLÄ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Vilkka</surname></persName>
+		</author>
+		<title level="m">Tutki ja kehitä</title>
+		<meeting><address><addrLine>Otava: KEURUU</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">20.3.2006. HS 2. Asunnottomien tilanteeseen kohennusta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">.</forename><forename type="middle">Mp</forename><surname>Palvelukeskuksen Sijainti Harkittava Tarkoin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Wiio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MP. Ritva Hartzell</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2006" />
+			<publisher>HS</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">HYY kannattaa asunnottomien palvelukeskuksen sijoittamista Töölöön. U. Jarmo Huhtanen (t)</title>
+		<imprint>
+			<date type="published" when="2006" />
+			<biblScope unit="volume">24</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Vaihtoehdot palvelukeskuksen sijainnista punnittava tarkoin</title>
+	</analytic>
+	<monogr>
+		<title level="j">MP. Marianna Nieminen</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Joukko yrittäjiä ei halua asunnottomille asuntolaa Etu-Töölöön. U. Jarmo Huhtanen (t)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Asunnottomien Asuntola Sopii Töölöön</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MP. Asunnottoman omainen</title>
+		<imprint/>
+	</monogr>
+	<note>nimimerkki) 12.4.2006. IS</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Palvelukeskuksen sijoittaminen Etu-töölöön asianmukaista. MP. 13.4.2006. Helinä Hulkkonen (aikuispalvelujohtaja) ja Seppo Saine (kuntoutuksen päällikkö</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Etu</forename><surname>Asunnottomien Keskukseen</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>14.4.2006. HS</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">.</forename><forename type="middle">U</forename><surname>Ystävällinen Voi Olla Olematta Ystävä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Jarmo Huhtanen</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>t). 24.4.2006. HS</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sosiaalilautakunta Haluaa Asuntolan Töölöön</surname></persName>
+		</author>
+		<title level="m">IS 13. Sosiaalilautakunta haluaa asunnottomien ensisuojan Etu-Töölöön. U. Riku Jokinen (t) 5.5.2006. HS</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="middle">U</forename><surname>Tuhat Omaa Huonetta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Matti Huuskonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>HS</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">.</forename><forename type="middle">U</forename><surname>Selvisin Hengissä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Marja Pennanen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>IL</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Metsäsaarekkeesta näkee kauas. H. Arja-Riikka Nikkilä</title>
+		<imprint>
+			<publisher>VS</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Helsingin valtuutettujen enemmistö hyväksyy asuntolan Etu-Töölöön. U. Riku Jokinen (t)</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Helsingissä yhtä satoja asunnottomia päihdeongelmaisia. U. Riku Jokinen (t) 28.5.2006. HS 20. Helsingin valtuusto päätti asuntolan perustamisesta. U. Jarmo Huhtanen</title>
+		<imprint/>
+	</monogr>
+	<note>t) 1.6.2006. HS</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Etutöölöläiset aikovat vielä valittaa ensisuojasta. U. Jukka Hämäläinen</title>
+		<imprint/>
+	</monogr>
+	<note>t) 4.6.2006. HU</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Asunnottomat ovat usein sairaita. U.-18.10.2006. UL100 24. Asuntoloiden perustaminen hankalaa. A. Astrid Gartz. 3/2006</title>
+		<imprint>
+			<publisher>Myötäote</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Etu-Töölöön</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Asunnottomat pääsevät muuttamaan Töölöön. U. Päivi Hotakka (t)</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2009" />
+			<publisher>Vartti</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">.</forename><forename type="middle">U</forename><surname>Asunnottomat Muuttavat Sörnäisistä Töölöön</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Salomaa</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>t) 27.5.2009. Vartti. 28. Palvelukeskuksesta kiistelty pitkään. U. Vesa Mäkinen (t) 4.6.2009 HS</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+			</analytic>
+	<monogr>
+		<title level="m">Asunnoton pääsee Etu-Töölössä kunnon sänkyyn</title>
+		<imprint/>
+	</monogr>
+	<note>t) 6.6.2009. HU</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Rauha Ja Hyvä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hietaniemenkadulle</surname></persName>
+		</author>
+		<editor>U. Ann-Mari Huhtanen</editor>
+		<imprint/>
+	</monogr>
+	<note>t) 16.6.2009. HS</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Anteeksi ollaan vähän sekaisin. U. Tuomas Massinen (t) 19</title>
+		<imprint>
+			<publisher>HU</publisher>
+			<date type="published" when="2009" />
+			<biblScope unit="volume">8</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Asunnottomat eivät solahtaneet Töölöön kivutta. U. Merituuli Saikkonen</title>
+		<imprint/>
+	</monogr>
+	<note>t) 20.8.2009. HS</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">.</forename><forename type="middle">A</forename><surname>Mahdollisuuksien Talo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kotka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="volume">39</biblScope>
+			<pubPlace>Helsinki-info</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="middle">H</forename><surname>Tulevaisuus Toivoa Täynnä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hellevi Pouta</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<pubPlace>Sanaplus</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Asunnottomat käyttävät sairaaloiden päivystyksiä 16 kertaa muita enemmän. U. Merituuli Saikkonen (t) 16.10</title>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>HS</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">.</forename><forename type="middle">U</forename><surname>Koditon Pakenee Pakkasta Maan Alle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sami Takala</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>t) 7.1.2010. HS</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Kaupunkitila on liian ahdas Hietaniemenkadun asuntolalle. H. Mikko Keski-Vähälä (t)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">/</forename><surname>Kamppi-Eira</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

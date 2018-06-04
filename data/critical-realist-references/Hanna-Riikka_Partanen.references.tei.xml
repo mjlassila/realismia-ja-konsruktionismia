@@ -1,0 +1,669 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_11"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sovittelusta Sovintoon-kuvahistoriikki Vaihtoehtoisen ammatti-ja oppisopimuskoulun synnystä ja kehityksestä</title>
+	</analytic>
+	<monogr>
+		<title level="m">tuoda ilmi näiden palveluiden yhteiskunnallista vaikuttavuutta</title>
+		<editor>LÄHTEET ´Ahti, H.</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>Vaikuttavuuden arviointi tulisi olla mielestäni olla osana jokaista sosiaali-ja terveyspalvelua</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Dahler-Larsen</surname></persName>
+		</author>
+		<title level="m">Vaikuttavuuden arviointi. Hyvät käytännötmenetelmä-käsikirja. Saatavilla</title>
+		<imprint>
+			<date type="published" when="2005" />
+			<biblScope unit="volume">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Eskola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Suoranta</surname></persName>
+		</author>
+		<title level="m">Johdatus laadulliseen tutkimukseen</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Osuuskunta vastapaino</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Vallan ja toimijuuden monisäikeisyys</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Eteläpelto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Heiskanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Collin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Valta ja toimijuus aikuiskasvatuksessa</title>
+		<editor>A. Eteläpelto, T.Heiskanen &amp; K. Collin</editor>
+		<meeting><address><addrLine>Vantaa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kansanvalistusseura</publisher>
+			<date type="published" when="2011" />
+			<biblScope unit="page" from="9" to="30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Mitä on toimijuus ja mihin sitä tarvitaan?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Eteläpelto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jyväskylän yliopisto. Saatavilla 8</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Nuoren elämäntilanteen hahmottaminen 3X10D mittarilla</title>
+		<ptr target="https://www.jyu.fi/hankkeet/interaktiivinen/yleisoluentodiat/etelapeltoHAMK-unlimited.Hyvinvointi-jasoteala" />
+	</analytic>
+	<monogr>
+		<title level="j">Saatavilla</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Harju</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Osallisuus. Saatavilla</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Tilastollinen tutkimus. Saatavilla 22</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Heikkilä</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hirsjärvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hurme</surname></persName>
+		</author>
+		<title level="m">Tutkimushaastattelu, teemahaastattelun teoria ja käytäntö</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus Helsinki University Press</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hirsjärvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Remes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sajavaara</surname></persName>
+		</author>
+		<title level="m">Tutki ja kirjoita</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kustannusosakeyhtiö Tammi</publisher>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Mitä osallisuus on? Osallisuuden viitekehystä rakentamassa. Terveyden ja hyvinvoinninlaitos</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A-M</forename><surname>Isola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kaartinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Leemann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Lääperi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Valtari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ketotoko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Saatavilla</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Osallisuuden jäljillä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jämsen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Pyykkönen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>PohjoisKarjalan Sosiaaliturvayhdistys ry</publisher>
+			<pubPlace>Saarijärvi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Jukunen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Lindgvist</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kainulainen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Realistisen arvioinnin ensiaskeleet. Saatavilla</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Nuorten aikuisten autonomisen toimijuuden jännitteiden rakentuminen ammatillisen etsivän työn kontekstissa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Juvonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Asiakkaat toimijoina sosiaalityössä</title>
+		<editor>M. Laitinen &amp; A. Niskala</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2017" />
+			<biblScope unit="page" from="327" to="356" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Realistinen arviointi sosiaalityössä. Terveyden-ja hyvinvoinninlaitos</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Karjalainen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Saatavilla</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kokemuksia sosiaalityön vaikuttavuuden arvioinnin toteuttamisesta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Kortesniemi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kotiranta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kivipelto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityön vaikuttavuus (s</title>
+		<editor>A. Pohjola, T. Kemppainen &amp; S. Väyrynen</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="89" to="115" />
+		</imprint>
+	</monogr>
+	<note>Lapin yliopistokustannus</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Toimijuus ja sosiaalisen toiminnan teoria</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kotiranta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Virkki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalisen toiminnan perusta</title>
+		<editor>Kotiranta, T. Niemi, P. &amp; Haaki, R.</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus University press</publisher>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Minna</forename><surname>Larvio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Aikuistyönhanke</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Suomen Diakoniaopisto Oy, Sovinnon kampus. Sähköpostikeskustelu 20.4.2017</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Leemann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hämäläinen</surname></persName>
+		</author>
+		<ptr target="www.thl.fi/sokra" />
+		<title level="m">Matalan kynnyksen palvelut. Sosiaalisen osallisuuden edistämisen koordinaatiohanke SOKRA</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<ptr target="http://ohjaamo.hel.fi/" />
+	</analytic>
+	<monogr>
+		<title level="j">Ohjaamo Helsinki. Ohjaamolaiset. Saatavilla</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<date type="published" when="2107" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Arvioinnin soveltuvuus sosiaalityössä. Tapauksena realistinen arviointi huumeongelmaisen yksilökohtaisessa palveluohjauksessa. Saatavilla 19</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Peitola</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Moniulotteinen vaikuttavuus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pohjola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityön vaikuttavuus (s</title>
+		<editor>A. Pohjola, T. Kemppainen &amp; S. Väyrynen</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="9" to="15" />
+		</imprint>
+	</monogr>
+	<note>Lapin yliopistokustannus</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Tutkimukseen perustuva vaikuttavuus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pohjola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityön vaikuttavuus (s</title>
+		<editor>A. Pohjola, T. Kemppainen &amp; S. Väyrynen</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="19" to="41" />
+		</imprint>
+	</monogr>
+	<note>Lapin yliopistokustannus</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sosiaali-ja terveysturvan katsauksia; Yhteiskuntaan vaikuttava KELA, katsaus vaikuttavuuden käsitteisiin ja arviointiin</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Rajavaara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Saatavilla</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Rajavaara</surname></persName>
+		</author>
+		<title level="m">Vaikuttavuus yhteiskunta. Sosiaalisten olojen arvostelusta vaikutusten todentamiseen. (Sosiaali-ja terveysturvan tutkimuksia</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="volume">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Rantanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lindqvist</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lindström</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Vuorinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Weckroth</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Tutkimus valvotun koevapauden ja päihdekuntoutuksen yhdistämisestä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Valvontaa</forename><surname>Yhteistyötä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kuntoutusta</surname></persName>
+		</author>
+		<idno>Saatavilla 19.12.2107</idno>
+		<ptr target="http://www.rikosseuraamus.fi/material/attachments/rise/julkaisut-risenjulkaisusarja/vn2jUiuVV/RISE_3_2016_Yhteistyota_valvontaa_ja_kokonaisvaltaista_kuntoutusta_WEB.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Rikosseuraamuslaitoksen julkaisuja</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Sosiaalityön asiakkaan toimijuus ja täysimittainen professionaalisuus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Rostila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Vinnuvara</surname></persName>
+		</author>
+		<editor>M. Laitinen &amp; A</editor>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Niskala</surname></persName>
+		</author>
+		<title level="m">Asiakkaat toimijoina sosiaalityössä</title>
+		<imprint>
+			<biblScope unit="page" from="196" to="218" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Välittäminen ammattina. Näkökulmia sosiaaliseen auttamistyöhön</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Särkelä</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<publisher>Vastapaino</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Kainulainen Sakari. Hankkeita. Elämäntilanteen arvioiminen. Saatavilla</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sosiaali-Ja</surname></persName>
+		</author>
+		<ptr target="http://www.stea.fi/stea" />
+	</analytic>
+	<monogr>
+		<title level="j">STEA. Saatavilla</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Aikuistyön toimintasuunnitelma 2017</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Oy</forename><surname>Suomen Diakoniaopisto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sovinnon kampus</title>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Tietoa meistä. Saatavilla 21.11</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Suomen</forename><surname>Diakoniaopisto</surname></persName>
+		</author>
+		<ptr target="https://www.sdo.fi/tietoa-meista/" />
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<ptr target="https://www.sdo.fi/toimintakeskus/" />
+	</analytic>
+	<monogr>
+		<title level="j">Suomen Diakoniaopisto. Toimintakeskus. Saatavilla</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Suomen</forename><surname>Diakoniaopisto</surname></persName>
+		</author>
+		<ptr target="https://www.sdo.fi/tietoa-koulutuksista/tyovoimakoulutukset/" />
+	</analytic>
+	<monogr>
+		<title level="j">Työvoimakoulutukset. Saatavilla</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Tutkimus-ja asiantuntijatyö. AVAIN-mittari. Saatavilla 23</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Terveyden-Ja Hyvinvoinnin Laitos</surname></persName>
+		</author>
+		<ptr target="https://www.thl.fi/fi/tutkimus-ja-asiantuntijatyo/hankkeet-ja-ohjelmat/sokra/hankkeet-ja-" />
+		<imprint>
+			<date type="published" when="2017" />
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<ptr target="https://www.ttl.fi/tutkimushanke/kykyviisari-arvioi-tyo-toimintakykysi/" />
+	</analytic>
+	<monogr>
+		<title level="j">Työterveyslaitos. Kehittämishanke. Kykyviisari. Saatavilla</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

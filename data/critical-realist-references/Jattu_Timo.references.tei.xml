@@ -1,0 +1,593 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_18"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alasuutari</forename><surname>Pertti</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>Vastapaino</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Tapauskohtainen arviointi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kilponen</forename><surname>Borg Pekka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Marja-Riitta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Arviointi työtavaksi-Kokemuksia asiakastyön arvioinnin kehittämisestä Helsingin sosiaalivirastossa. Helsingin kaupungin sosiaalivirasto, Oppaita ja työkirjoja</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Yliopistopaino</publisher>
+			<date type="published" when="2008" />
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="40" to="53" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Borg</forename><surname>Pekka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Arviointi työtavaksi. Kokemuksia asiakastyön arvioinnin kehittämisestä Helsingin sosiaalivirastossa</title>
+		<imprint>
+			<date type="published" when="2008" />
+			<biblScope unit="volume">2008</biblScope>
+		</imprint>
+	</monogr>
+	<note>Högnabba Stina ym</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Boulmetis</forename><surname>John &amp;amp; Dutwin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Phyllis</forename></persName>
+		</author>
+		<title level="m">The ABCs of Evaluation</title>
+		<meeting><address><addrLine>San Francisco</addrLine></address></meeting>
+		<imprint>
+			<publisher>Jossey-Bass A Wiley Imprint</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dunne</forename><surname>Emer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Kettler Lisa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International journal of social welfare</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="333" to="345" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Egelund</forename><surname>Tine &amp;amp; Lausten Mette</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child &amp; family social work</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="156" to="165" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<idno>4.2007/417. </idno>
+	</analytic>
+	<monogr>
+		<title level="j">Finlex i.a. Lastensuojelulaki</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Goodman</forename><surname>Anna &amp;amp; Goodman Robert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Academy of child and adolescent psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Malmin pienkotien kasvatusvastuumalli: Lastenkodin hoito-ja kasvatusprosessin kuvaus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Malmin pienkodit. Helsingin kaupunki</title>
+		<editor>Häyrynen Mirka</editor>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Heikkilä</forename><surname>Leo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Helsingin kaupungin sosiaaliviraston Oppaita ja työkirjoja</title>
+		<imprint>
+			<biblScope unit="volume">2008</biblScope>
+			<biblScope unit="page">5</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Heino</forename><surname>Tarja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Keitä ovat lastensuojelun asiakkaat. Tutkimus lapsista ja perheistä tilastolukujen takana</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hirsjärvi</forename><surname>Sirkka &amp;amp; Hurme</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Helena</surname></persName>
+		</author>
+		<title level="m">Tutkimushaastattelu: Teemahaastattelun teoria ja käytäntö</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>HYY yhtymä</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Ongelmanratkaisuperinne ja kriittinen ammatillisuus sosiaalityössä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Karvinen-Niinikoski</forename><surname>Synnöve</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Asiakkuus sosiaalityössä</title>
+		<editor>Laitinen Merja &amp; Pohjola Anneli</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus Helsinki University Press Oy Yliopistokustannus</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="247" to="277" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Postmoderni sosiaalityö</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Karvinen-Niinikoski</forename><surname>Synnöve</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityö ja Teoria</title>
+		<editor>Mäntysaari Mikko, Pohjola Anneli ja Pösö Tarja</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="131" to="159" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">THE STRENGHTS AND DIFFICULTIES QUESTIONNAIRE Among Finnish School-aged Children and Adolescents. Turun yliopisto, department of child psychiatry</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Koskelainen</forename><surname>Merja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Väitöskirja Kääriäinen Aino, 2003. LASTENSUOJELUN SOSIAALITYÖ ASIAKIRJOINA Dokumentoinnin ja tiedonmuodostuksen dynamiikka</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kyngäs</forename><surname>Helvi &amp;amp; Vanhanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Liisa</surname></persName>
+		</author>
+		<title level="m">Sisällön analyysi, HOITOTIEDE</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1" to="99" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Arjen rutiinit ja yllätykset-etnografia lastenkotityöstä. Tampereen yliopisto, sosiaalityön tutkimuksen laitos</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Laakso</forename><surname>Riitta</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Laine</forename><surname>Terhi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp; Hyväri</forename><surname>Susanna &amp;amp; Vuokila-Oikkonen Päivi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">. Syrjäytymistä Vastaan Sosiaali-Ja</forename><surname>Terveysalalla</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Kustannusosakeyhtiö Tammi</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Rauas-Huuhtanen Sirpa 2010. Muutospajaohjaajan opas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Launis</forename><surname>Kirsti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Schaupp</forename><surname>Marika</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Annarita</forename><surname>Koli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Raportteja</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<date type="published" when="2002" />
+			<publisher>Qualitive researching. SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Helsingin kaupungin sosiaaliviraston arviointipäällikkö</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Paasio</forename><surname>Petteri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Konsultaatiovierailu Malmin pienkotien Jäkäläpolun yksikön työyhteisön kehittämispäivässä</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Yleinen ja erityinen viitekehys arvioinnista</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Paasio</forename><surname>Petteri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hallinnon tutkimus</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="92" to="107" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pawson</forename><surname>Ray &amp;amp; Tilley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Nick</surname></persName>
+		</author>
+		<title level="m">Realistic evaluation</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE Publications</publisher>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Psykiatrinen tutkimus lastenkotilasten kehityksellisistä riski-ja suojaavista tekijöistä, oirehdinnasta sekä hoidontarpeesta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pasanen</forename><surname>Timo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Turun yliopisto. Lastenpsykiatria. Väitöskirja</title>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+	<note>Lastenkodin asiakaskunta</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lastensuojelun tutkimus-asiantuntijoiden näkökulma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pekkarinen</forename><surname>Elina</surname></persName>
+		</author>
+		<idno></idno>
+	</analytic>
+	<monogr>
+		<title level="m">Lapsuudentutkimuksen seura, Lastensuojelun Keskusliitto &amp; Terveyden ja hyvinvoinnin laitos</title>
+		<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="volume">51</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kriittinen realismi sosiaalityössä-tiedonannosta emansipaatioon</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pekkarinen</forename><surname>Elina &amp;amp;tapola-Haapala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Maria</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityö ja Teoria</title>
+		<editor>Mäntysaari Mikko, Pohjola Anneli ja Pösö Tarja</editor>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="183" to="205" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Quality of life: Consept, policy and practice</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Philips</forename><surname>David</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Routledge</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rajavaara</forename><surname>Marketta</surname></persName>
+		</author>
+		<title level="m">Vaikuttavuusyhteiskunta-sosiaalisten olojen arvostelusta vaikutusten todentamiseen</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kelan tutkimusosasto</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Oy yliopistokustannus, HYY Yhtymä Raunio Kyösti</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Raunio</forename><surname>Kyösti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityö ja Teoria</title>
+		<editor>Mäntysaari Mikko, Pohjola Anneli ja Pösö Tarja</editor>
+		<meeting><address><addrLine>Helsinki; Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="161" to="181" />
+		</imprint>
+	</monogr>
+	<note>Positivismi-havaintoon perustuva teoria</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ritchie</forename><surname>Charlotte &amp;amp; Buchanan Ann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Work</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lastensuojelun tuloksellisuuden arviointi organisaatiossaNäkymätön näkyväksi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rousu</forename><surname>Sirkka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tampereen yliopisto. Väitöskirja. Suomen kuntaliitto</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Strengths and Difficulties Questionnaire-Child Report i.a. The National Child Traumatic Stress Network</title>
+		<ptr target="http://sdqinfo.org/" />
+	</analytic>
+	<monogr>
+		<title level="m">Sdqinfo.org i.a. Information for researchers and professionals about Trengths &amp; Difficulties Questionnaires. </title>
+		<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="volume">30</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="http://www.sosiaaliportti.fi/fi-" />
+		<title level="m">Terveyden ja hyvinvoinnin laitos i.a. Lastensuojelun käsikirja/työvölineet/työmenetelmät. </title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tuomi Jouni &amp;amp; Sarajärvi</forename><surname>Anneli</surname></persName>
+		</author>
+		<title level="m">Laadullinen tutkimus ja sisällön analyysi</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kustannusosakeyhtiö Tammi</publisher>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tuomi Jouni &amp;amp; Sarajärvi</forename><surname>Anneli</surname></persName>
+		</author>
+		<title level="m">Laadullinen tutkimus ja sisällön analyysi</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kustannusosakeyhtiö Tammi</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vostanis</forename><surname>Panos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="367" to="372" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

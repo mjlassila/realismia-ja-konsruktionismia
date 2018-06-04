@@ -1,0 +1,496 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_1"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eila</forename><surname>Alijoki</surname></persName>
+		</author>
+		<title level="m">Pesästä pieni ponnistaa. Lasten varhaisten vuorovaikutustaitojen tukeminen</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kirjapaino Oy West Point</publisher>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Nés sous de bons auspices? Etude qualitative de facteurs contribuant à l&apos;acquisition du bilinguisme par les enfants d&apos;un couple mixte. Tiivistelmä. Pro gradu-tutkielma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Annika</forename><surname>Bourgogne</surname></persName>
+		</author>
+		<ptr target="&lt;https://helda.helsinki.fi/handle/10138/19326&gt;.Luettu18.3.2012" />
+		<imprint>
+			<date type="published" when="1999" />
+			<publisher>Helsingin yliopisto</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+	<note>humanistinen tiedekunta, romaanisten kielten laitos</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari-Suoranta</forename><surname>Eskola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juha</forename></persName>
+		</author>
+		<title level="m">Johdatus laadulliseen tutkimukseen</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Simultaaninen kaksikielisyys: Läheiset sukukielet viro ja suomi rinnakkain</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sirje</forename><surname>Hassinen</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.hel.fi/wps/wcm/connect/2017ff004591b9509dc0ff904f6e0592/2010aloittaneiden_lasten_vanhemmat_raportti.pdf?MOD=AJPERES&amp;lmod=-955066795&gt;.Luettu9.4.2012" />
+	</analytic>
+	<monogr>
+		<title level="m">Päivähoidossa aloittaneiden lasten vanhempien asiakaskyselyn tulokset</title>
+		<imprint>
+			<date type="published" when="2002" />
+			<biblScope unit="volume">18</biblScope>
+		</imprint>
+	</monogr>
+	<note>Oulu: Suomen ja saamen kielen ja logopedian laitos</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+			</analytic>
+	<monogr>
+		<title level="m">Helsingin sanomat 2011. Koulujen väliset erot halutaan kuriin</title>
+		<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Helsingin</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.hel.fi/wps/wcm/connect/29eeb48043034931ba07facc34efaa85/Helsingin_vasu2011.pdf?MOD=AJPERES&amp;lmod=-1906232789&gt;.Luettu3.9" />
+	</analytic>
+	<monogr>
+		<title level="j">Helsingin kaupunki. Sosiaalivirasto. Verkkodokumentti</title>
+		<imprint>
+			<biblScope unit="page">2011</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hujala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Eeva-Parrila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sanna-Lindberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Päivi-Nivala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leenavartiainen</forename><surname>Veijo-Tauriainen</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Oulun yliopistopaino</publisher>
+			<pubPlace>Oulu</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Pirkko 1999. Laadunhallinta varhaiskasvatuksessa. Oulun yliopisto. Varhaiskasvatuskeskus. 2. painos</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kysely ja haastattelu tutkimuksessa. 3.painos. Kustannustoimi. Vaasa Oy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Erkki</forename><surname>Jyrinki</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1977" />
+			<publisher>Oy Gaudeamus Ab</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pauli</forename><surname>Kaikkonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kulttuuri ja vieraan kielen oppiminen</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wsoy</publisher>
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kasvatuskumppanuus kannattelee lastaOpas varhaiskasvatuksen kehittämiseen. Stakes. Sosiaali-ja terveysalan tutkimus-ja kehittämiskeskus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marja</forename><forename type="middle">-</forename><surname>Kaskela</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marjatta</forename><surname>Kekkonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oppaita</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<date type="published" when="2006" />
+			<publisher>Gummerus Kirjapaino Oy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Lapsilähtöisen varhaiskasvatuksen kivijalka lapsuuden sosiologiassa. s.136-157. Kirjassa Varhaiskasvatuksen teoriasuuntauksia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jarmo-Virtanen</forename><surname>Kinos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Jorma</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<publisher>Toim</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kirsti-Kinos</forename><surname>Karila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jorma</forename><surname>Jarmo-Virtanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Jyväskylä</surname></persName>
+		</author>
+		<imprint>
+			<publisher>PS-kustannus WS Bookwell Oy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kunnalliset</surname></persName>
+		</author>
+		<idno>14.09</idno>
+		<ptr target="&lt;http://www.hel.fi/hki/sosv/fi/P_iv_hoito/P_iv_kodit&gt;.Luettu11.10" />
+	</analytic>
+	<monogr>
+		<title level="j">Helsingin kaupunki. Sosiaalivirasto. Päivähoito. Verkkodokumentti. Päivitetty</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Tilastollisen tiedonkeruun opas. Tilastokeskus. Verkko-opas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Reijo</forename><surname>Kurkela</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.stat.fi/virsta/tkeruu/01/05/&gt;.Luettu27.12" />
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Sosiaalipedagoginen näkökulma varhaiskasvatukseen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leena</forename><surname>Kurki</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<biblScope unit="page" from="112" to="135" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kirjassa</forename><surname>Varhaiskasvatuksen Teoriasuuntauksia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Toim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Karila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kirsti-Kinos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jorma</forename><surname>Jarmovirtanen</surname></persName>
+		</author>
+		<imprint>
+			<publisher>PS-kustannus WS Bookwell Oy</publisher>
+			<pubPlace>Jyväskylä</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Maahanmuuttaja lehtien palstoilla</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Päivi</forename><surname>Leino</surname></persName>
+		</author>
+		<ptr target="&lt;http://areena-beta.yle.fi/ng/areena/radio/1285310&gt;.Kuunneltu21.1.2012" />
+	</analytic>
+	<monogr>
+		<title level="j">Yle Areena</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>Julkinen sana-sarja</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Johdanto s.9-20. Maahanmuuttajat. Kulttuurien kohtaaminen Suomessa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Karmela</forename><surname>Liebkind</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toim. Karmela Liebkind. Gaudeamus Kirja</title>
+		<imprint>
+			<date type="published" when="1994" />
+			<publisher>Hakapaino Oy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Maahanmuuton hinta. MOT-ohjelma. Elävä Arkisto, Yle Areena. 8.2</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mot</forename><surname>Toimitus</surname></persName>
+		</author>
+		<ptr target="&lt;http://yle.fi/elavaarkisto/artikkelit/maahanmuuton_hinta_51424.html#media=51428&gt;.Katsottu21.1.2012" />
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Tutkimusmenetelmät. PowerPoint-esitys. Kurssimateriaali. Tietojenkäsittelytieteiden laitos (TOL)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vesa</forename><surname>Puhakka</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.tol.oulu.fi/kurssit/tutkimusmenetelmat/Tutkimusmenetelmat19_9.pdf&gt;.Luettu17.3.2012" />
+		<imprint>
+			<date type="published" when="2005" />
+			<biblScope unit="volume">9</biblScope>
+		</imprint>
+	</monogr>
+	<note>Oulun yliopisto. 19</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<idno>03.08</idno>
+		<ptr target="&lt;http://www.hel.fi/hki/sosv/fi/P_iv_hoito/P_iv_kodit/ph_tarkeaa&gt;.Luettu11.10" />
+	</analytic>
+	<monogr>
+		<title level="j">Helsingin kaupunki. Sosiaalivirasto. Päivähoito. Kunnalliset päiväkodit. Verkkodokumentti. Päivitetty</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Päiväkoti</forename><surname>Kalinka</surname></persName>
+		</author>
+		<idno>17.06.2010</idno>
+		<ptr target="&lt;http://svk-kannatus.fi/Fi/www_kalinka_fi.html&gt;.Luettu10.03.2012" />
+		<title level="m">Suomalais-venäläisen koulun kannatusyhdistys ry</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Päiväkoti Kalinkan Varhaiskasvatussuunnitelma</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.hel.fi/wps/wcm/connect/a5b5f2004a17649ba6e9ee3d8d1d4668/Pk+Kalinkan+vasu2008.pdf?MOD=AJPERES&amp;lmod=312514898&gt;" />
+	</analytic>
+	<monogr>
+		<title level="j">Luettu</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vieraana Eva Biaudet, vähemmistövaltuutettu. Taustapeili-sarja. Yle Areena. 15.12</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Maija</forename><surname>Salminen</surname></persName>
+		</author>
+		<ptr target="&lt;http://areena-beta.yle.fi/ng/areena/radio/1300030&gt;.Kuunneltu21.1.2012" />
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tuomi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sarajärvi</surname></persName>
+		</author>
+		<title level="m">Laadullinen tutkimus ja sisällönanalyysi</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi</publisher>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Syvällistä ja pinnallista. Teoria, empiria ja kausaalisuus sosiaalitutkimuksessa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pertti</forename><surname>Töttö</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>Vastapaino</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Maahanmuuttajatyön kehittäminen varhaiskasvatuksessa. Sosiaali-ja terveysministeriön selvityksiä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kehittämisjaosto</forename><surname>Varhaiskasvatuksen Maahanmuuttajatyön</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="page">62</biblScope>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+	<note>18.12.2007. &lt;http://pre20090115.stm.fi/ka1197970411610/passthru.pdf&gt;. Luettu 9.4.2012</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">VIA LIGHT-Language for Integration and Global Human Tolerance</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Via</forename><surname>Light</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.pixel-online.net/ICT4LL2011/common/download/Paper_pdf/P11-279-FP-Burd-ICT4LL2011.pdf&gt;.Luettu:27.01.2012" />
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Tutki ja mittaa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hanna</forename><surname>Vilkka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Kustannusosakeyhtiö Tammi</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Isyyden mallit ja isien valinnat</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jaana</forename><surname>Vuori</surname></persName>
+		</author>
+		<editor>Isäkirja: Mies, vanhemmuus ja sukupuoli. Ilana Aalto &amp; Jani Kolehmainen</editor>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>Vastapaino</publisher>
+			<biblScope unit="page" from="27" to="63" />
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,989 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_16"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marcelo</forename><forename type="middle">;</forename><surname>Aebi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Barclay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jörg-Martin &amp;amp;</forename><surname>Gordon; Jehle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Martin</forename><surname>Killias</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Sourcebook of Crime and Criminal Justice Statistics</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2000" />
+			<publisher>Key findings. Council of Europe</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Levels of punitiveness in Scandinavia: description and explanations</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ulla</forename><forename type="middle">V</forename><surname>Bondesson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><forename type="middle">;</forename><surname>Pratt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Mark</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hallsworth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Wayne</forename><surname>Morrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The New Punitiveness. Trends, theories, perspectives</title>
+		<meeting><address><addrLine>UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Willan Publishing</publisher>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Offender Assessment: General Issues and Considerations</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><surname>Bonta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canada: Forum on Corrections Research</title>
+		<imprint>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Rikoksentekijöiden kuntouttaminen-tutkimuksesta käytäntöön</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><surname>Bonta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Järvenpää, Raija &amp; Kempas, Marjaana (toim) What worksMikä toimii vankeinhoidossa ja kriminaalihuollossa</title>
+		<meeting><address><addrLine>Vantaa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vankeinhoidon koulutuskeskus</publisher>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Risk-Need-Responsivity Model for Offender Assessment and Rehabilitation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James &amp;amp; D</forename><forename type="middle">A</forename><surname>Bonta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Andrews</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Carleton University</publisher>
+			<pubPlace>Canada</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Rikosseuraamuslaitoksen tilastollinen vuosikirja 2009-Vangit ja yhdyskuntaseuraamusasiakkaat</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Peter</forename><forename type="middle">;</forename><surname>Blomster</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Henrik</forename><forename type="middle">;</forename><surname>Linderborg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Muiluvuori</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Marjaleena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Salo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Irja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sasu</forename><surname>Tyni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rikosseuraamuslaitoksen monisteita</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2011" />
+			<publisher>Rikosseuraamuslaitos</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Social Learning, Social Caapital, and Correctional Theories: Seeking an Integrated Model</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mark</forename><surname>Carey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">What Works an Why: Effective Approaches to Reentry</title>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Vaikuttavuuden arviointi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Peter</forename><surname>Dahler-Larsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Hyvät käytännöt. Menetelmäkäsikirja</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Stakes</publisher>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari</forename><forename type="middle">&amp;amp;</forename><surname>Eskola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juha</forename><surname>Suoranta</surname></persName>
+		</author>
+		<title level="m">Johdatus laadulliseen tutkimukseen</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Teemahaastattelu: opit ja opetukset</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari</forename><forename type="middle">&amp;amp;</forename><surname>Eskola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jaana</forename><surname>Vastamäki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ikkunoita tutkimusmetodeihin I</title>
+		<editor>Aaltola, Juhani &amp; Valli, Raine</editor>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Metodin</surname></persName>
+		</author>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Etelä-Suomen aluevankila, sijoittajayksikkö i.a. Rangaistusajan suunnitelmien päivittäminen sijoituslaitoksessa: rangaistusajan suunnitelmien noudattamisen/toetutumisen arviointi ja kirjaukset vatiin sekä lausunnot siirtoanomuksiin</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Etelä-Suomen Aluevankila</surname></persName>
+		</author>
+		<title level="m">Sijoittelu Etelä-Suomen aluevankilassa</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>sijoittajayksikkö 31.3.</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Etelä-Suomen Rikosseuraamusalue</surname></persName>
+		</author>
+		<title level="m">Arviointikeskus i.a. Kuvaus arviointikeskuksen toiminnasta alkaen täytäntöönpanoasiakirjojen saapumisesta sijoituspäätökseen</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Rikoksettoman elämäntavan edellytysten rakentaminen rangaistusaikana. Vankeinhoitouudistuksen kehittävä toteuttaminen aluevankilassa. Hankeraportti. Rikosseuraamusalan koulutuskeskus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marjo</forename><forename type="middle">&amp;amp;</forename><surname>Heikkinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jaakko</forename><surname>Virkkunen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tutkielmat ja selvitykset</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2008" />
+			<publisher>Yliopistopaino</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hirsjärvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Helena</forename><surname>Sirkka &amp;amp; Hurme</surname></persName>
+		</author>
+		<title level="m">Tutkimushaastattelu. Teemahaastattelun teoria ja käytäntö</title>
+		<imprint>
+			<publisher>Helsinki University Press. Gaudeamus</publisher>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hirsjärvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sirkka; Remes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Pirkko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Paula</forename><surname>Sajavaara</surname></persName>
+		</author>
+		<title level="m">Tutki ja kirjoita</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kustannusosakeyhtiö Tammi</publisher>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Realist Evaluation in Practice</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mansoor</forename><forename type="middle">A F</forename><surname>Kazi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>Sage Publications</publisher>
+			<pubPlace>London, Thousand Oaks &amp; New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Vaikuttavuuden mittaaminen rikosseuraamusten arvioinnin haasteena</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hannu</forename><forename type="middle">&amp;amp;</forename><surname>Kiehelä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sasu</forename><surname>Tyni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kuntoutus, vaikuttavuus ja kehittäminen. Näkökulmia rikosseuraamusalan työn kehittämiseen</title>
+		<editor>Rantanen, Teemu</editor>
+		<meeting><address><addrLine>Vantaa</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="volume">66</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Rikollisuuden syyt</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Janne</forename><surname>Kivivuori</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>Kustannusosakeyhtiö Nemo</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Ohjelmatyö rikosseuraamusalalla. Rikosseuraamuslaitos</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ulla</forename><forename type="middle">&amp;amp;</forename><surname>Knuuti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tiina</forename><surname>Vogt-Airaksinen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>Keskushallintoyksikkö</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Realismi ja realismin sovellus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pertti</forename><surname>Korteniemi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Realistisen arvioinnin ensimmäiset askeleet</title>
+		<editor>Julkunen, Ilse</editor>
+		<editor>Lindqvist, Tuija &amp; Kainulainen, Sakari</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Stakes</publisher>
+			<date type="published" when="2005" />
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kriminologia ja rankaisun sosiologia. Rikosseuraamusalan koulutuskeskus Acta Poenologica 1</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Matti</forename><surname>Laine</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Tietosanoma</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Rikollisuus ja kriminologia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ahti</forename><forename type="middle">&amp;amp;</forename><surname>Laitinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kauko</forename><surname>Aromaa</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<publisher>Vastapaino</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Laki rikoslain muuttamisesta</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Rikollisuus ja kriminaalipolitiikka</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lappi-Seppälä</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Helsingin yliopiston oikeustieteellisen tiedekunnan julkaisut</title>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Yliopistopaino</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Vaikuttavan rikosseuraamustyön kysymyksiä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Raino</forename><surname>Lavikkala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Rikosseuraamustyön kehittämisen kysymyksiä. Rikosseuraamusalan koulutuskeskus</title>
+		<editor>Lavikkala, Raino &amp; Linderborg, Henrik</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tampereen yliopistopaino oy</publisher>
+			<date type="published" when="2011" />
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Johdatus tapauskohtaiseen ja realistiseen arviointiin</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tuija</forename><surname>Lindqvist</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Realistisen arvioinnin ensimmäiset askeleet</title>
+		<editor>Julkunen, Ilse</editor>
+		<editor>Lindqvist, Tuija &amp; Kainulainen, Sakari</editor>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note>Realistisen arvioinnin lähtökohdat</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">FinSoc Työpapereita</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2005" />
+			<publisher>Stakes</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Explanations of Criminal Behaviour</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><surname>Mcguire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Crime and Legal Processes. A Guide For Forensic Practitioners</title>
+		<editor>McGuire, James</editor>
+		<editor>Mason, Tom &amp; O´Kane , Aisling</editor>
+		<meeting><address><addrLine>UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Down with recidivism, up whit desistance: messages from outcome research</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Mcguire</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009-11-26" />
+			<publisher>Ohjelmatyön seminaari</publisher>
+			<pubPlace>Vantaa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Reviewing &apos;What Works&apos;: Past, Present and Future</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><forename type="middle">&amp;amp;</forename><surname>Mcguire</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Philip</forename><surname>Priestley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">What Works: Reducing Reoffending. Guidelines from Research and Practice. The Wiley Series in Offender Rehabilitation</title>
+		<editor>McGuire, James</editor>
+		<meeting><address><addrLine>UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">How the resettlement of prisoners promotes desistance from crime: or does it?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mike</forename><forename type="middle">&amp;amp;</forename><surname>Maguire</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Peter</forename><surname>Raynor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Criminology and Crminal Justice</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<date type="published" when="2006" />
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari</forename><surname>Metsämuuronen</surname></persName>
+		</author>
+		<title level="m">Tutkimuksen tekemisen perusteet ihmistieteissä. Tutkijalaitos</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Methelp Oy</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ulla</forename><forename type="middle">&amp;amp;</forename><surname>Mohell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jussi</forename><surname>Pajuoja</surname></persName>
+		</author>
+		<title level="m">Vankeinhoidon kokonaisuudistus käytännössä</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tietosanoma</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Rikollista käyttäytymistä selittävät teoriat</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Larry</forename><surname>Motiuk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Järvenpää, Raija &amp; Kempas, Marjaana (toim) What works-Mikä toimii vankeinhoidossa ja kriminaalihuollossa</title>
+		<meeting><address><addrLine>Vantaa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vankeinhoidon koulutuskeskus</publisher>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Rikollista käyttäytymistä selittävät teoriat-uusintarikollisuuden vähentämisen aspekteja</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Larry</forename><surname>Motiuk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Järvenpää, Raija &amp; Kempas, Marjaana (toim) What works-Mikä toimii vankeinhoidossa ja kriminaalihuollossa</title>
+		<meeting><address><addrLine>Vantaa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vankeinhoidon koulutuskeskus</publisher>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Arviointi sosiaalipalveluissa. Katsaus arvioinnin peruskysymyksiin</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mikko</forename><surname>Mäntysaari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Finsoc Työpapereita</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2001" />
+			<publisher>Stakes</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Utilization-Focused Evaluation. The New Centuty Text</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Michael</forename><surname>Patton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Quinn</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<publisher>Sage Publications</publisher>
+			<pubPlace>London &amp; New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Realistic Evaluation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ray</forename><forename type="middle">&amp;amp;</forename><surname>Pawson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nick</forename><surname>Tilley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<publisher>Sage Publications</publisher>
+			<pubPlace>London, Thousand Oaks &amp; New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Eettiset perusvaatimukset tutkimustyössä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juhani</forename><forename type="middle">;</forename><surname>Pietarinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Karjalainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Sakari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Launis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Veikko; Pelkonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juhani</forename><surname>Risto &amp;amp; Pietarinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tutkijan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Valinnat</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>Gaudeamus</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Arviointitutkimuksen hyödynnettävyys</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marketta</forename><forename type="middle">;</forename><surname>Rajavaara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Eräsaari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Risto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lindqvist</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Tuija</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Mäntysaari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Mikko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marketta</forename><surname>Rajavaara</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+			<publisher>Gaudeamus</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<ptr target="http://www.rikosseuraamus.fi/49146.htm" />
+	</analytic>
+	<monogr>
+		<title level="j">Rikosseuraamuslaitos i.a. </title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<ptr target="http://www.rikosseuraamus.fi/49205.htm" />
+	</analytic>
+	<monogr>
+		<title level="j">Rikosseuraamuslaitos i.a. </title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<ptr target="http://www.rikosseuraamus.fi/49172.htm" />
+	</analytic>
+	<monogr>
+		<title level="j">Rikosseuraamuslaitos i.a. </title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<ptr target="http://www.rikosseuraamus.fi/15121.htm.Rikosseuraamuslaitosia.Viitattu6.10.2011http://www.rikosseuraamus.fi/56111.htm" />
+	</analytic>
+	<monogr>
+		<title level="j">Rikosseuraamuslaitos i.a. </title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="http://www.rikosseuraamus.fi/49204.htm" />
+		<title level="m">Rikosseuraamuslaitos i.a. </title>
+		<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Linjaukset</forename><surname>Rikosseuraamusalan Ohjelmatyön</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>Rikosseuraamusalan strategiat-sarja</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Rikosseuraamuslaitos 2010. Määräys 30.12.2010. Rikosseuraamuslaitoksen arviointikeskuksen toiminta (36/004/2010)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Rikosseuraamuslaitos 17.1</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sijoittajayksikkötoiminnan perusteita ja toimintaohjeita</title>
+	</analytic>
+	<monogr>
+		<title level="m">Sijoittajayksikön käsikirja</title>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>Rikosseuraamusvirasto 1.5</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Käytännön arvioinnin perusteet. Opas evaluaation tekijöille ja tilaajille</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Colin</forename><surname>Robson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<publisher>Kustannusosakeyhtiö Tammi</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Sosiaalisen kuntoutuksen mekanismit. Monet-projektin realistinen arviointi. FinSoc arviointiraportteja</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ilmari</forename><surname>Rostila</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<publisher>Stakes</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Realistinen arviointitutkimus ja onnistumisen pakot</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ilmari</forename><surname>Rostila</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Arvioinnin arkea ja peruskysymyksiä</title>
+		<editor>Laitinen, Raimo</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sosiaali-ja terveysturvan keskusliitto</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Laadullinen tutkimus ja sisällön analyysi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jouni</forename><forename type="middle">&amp;amp;</forename><surname>Tuomi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anneli</forename><surname>Sarajärvi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jyväskylä</title>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>Kustannusosakeyhtiö Tammi</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Valtioneuvosto 17.6.2011. Neuvottelutulos hallitusohjelmasta</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Arviointi. Arviointitiedon luonne, tuottaminen ja hyödyntäminen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Petri</forename><surname>Virtanen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Edita</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

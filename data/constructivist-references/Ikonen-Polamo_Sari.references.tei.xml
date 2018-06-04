@@ -1,0 +1,854 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_4"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Burr</surname></persName>
+		</author>
+		<title level="m">Sosiaalipsykologisia ihmiskäsityksiä</title>
+		<meeting><address><addrLine>Jyväskylä. Gummerus</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kirjapaino Oy</publisher>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Facilitating reflective Learning through</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Brockbank</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Mcgill</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Mentoring &amp;amp; Coaching</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Referoinut Lillkåll</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Luento</surname></persName>
+		</author>
+		<idno>2.12</idno>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>Postitalo</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Carlsson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Forssell</surname></persName>
+		</author>
+		<title level="m">Esimies ja coaching. Oivaltava coaching johtamisen työkaluna</title>
+		<meeting><address><addrLine>Porvoo</addrLine></address></meeting>
+		<imprint>
+			<publisher>WS Bookwell Oy</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Gergen</surname></persName>
+		</author>
+		<title level="m">Relational Being. Beyond Self and Community</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press, Inc</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Hacking</surname></persName>
+		</author>
+		<title level="m">Mitä sosiaalinen konstruktionismi on?</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">; S</forename><surname>Heikkilä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Remes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sajavaara</surname></persName>
+		</author>
+		<title level="m">Tilastollinen tutkimus</title>
+		<meeting><address><addrLine>Helsinki; Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi International Coach Federation ICF</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>Tutki ja kirjoita. 13. viitattu 15.11.2013</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Johtamisen kehittäminen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Juuti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Työyhteisön kehittäminen ja johtaminen</title>
+		<editor>Juuti, P.</editor>
+		<meeting><address><addrLine>Vantaa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hansaprint</publisher>
+			<date type="published" when="2011" />
+			<biblScope unit="page" from="154" to="166" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kananen</surname></persName>
+		</author>
+		<title level="m">Kvali. Kvalitatiivisen tutkimuksen teoria ja käytänteet</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Jyväskylän yliopiston paino</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kananen</surname></persName>
+		</author>
+		<title level="m">Kvantti. Kvantitatiivinen tutkimus alusta loppuun</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Jyväskylän yliopiston paino</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Julkisen sektorin prosessien kuvaukset. Yleinen rakenne, esitysmuoto ja käsitteet</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Karimaa</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>Suomen kuntaliito Kuntatalon paino</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Kauppila</surname></persName>
+		</author>
+		<title level="m">Ihmisen tapa oppia. Johdatus sosiokonstruktiiviseen oppimiskäsitykseen</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kauppinen</surname></persName>
+		</author>
+		<title level="m">Johtamisen johtaminen. Kuinka johtamisesta tehdään kilpailukykyä lisäävä tekijä</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Talentum</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ketokivi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Hakapaino Korpivuoma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Pirttilä</surname></persName>
+		</author>
+		<ptr target="http://pre20031103.stm.fi/suomi/ikaohjelma1998-" />
+		<title level="m">Tilastollinen päättely ja tieteellinen argumentointi</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+	<note>Terveyskeskukset ja ikääntyvä työvoima. viitattu 13.9.2013</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Kuusela</surname></persName>
+		</author>
+		<title level="m">Sosiaalipsykologian maailmahypoteesi. Tieteenalan historia ja sosiaalisen konstruktionismin muodot</title>
+		<meeting><address><addrLine>Suomi</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oy UNIpress Ab</publisher>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Coachingilla menestykseen-tulevaisuuden lupaavin johdon kehittämisen menetelmä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Luoma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Salojärvi</surname></persName>
+		</author>
+		<editor>Räsänen, M.</editor>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Coaching ja johtajuus. Valmentava ote esimiestyössä</title>
+		<imprint>
+			<publisher>Edita Publishing Oy</publisher>
+			<biblScope unit="page" from="21" to="37" />
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Löytönen</surname></persName>
+		</author>
+		<ptr target="http://www.xip.fi/tutkja/0402b.htm" />
+		<title level="m">Minäkö tutkija</title>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>viitattu 6.3.</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Moilanen</surname></persName>
+		</author>
+		<title level="m">Oppiva organisaatio: Tausta ja käsitteistö. 2painos</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Jyväskylän yliopisto</publisher>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Metsämuuronen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Kirjapaino Oy</publisher>
+			<pubPlace>Jyväskylä</pubPlace>
+		</imprint>
+	</monogr>
+	<note>4.painos. Tutkimuksen tekemisen perusteet ihmistieteissä 4. painos</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Parppei</surname></persName>
+		</author>
+		<title level="m">Business coaching itsesäätelyn kehitysinterventiona</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Yliopistopaino</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Ruohotie</surname></persName>
+		</author>
+		<title level="m">Oppiminen ja ammatillinen kasvu</title>
+		<meeting><address><addrLine>Juva</addrLine></address></meeting>
+		<imprint>
+			<publisher>Werner Söderström Osakeyhtiö</publisher>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Ruohotie</surname></persName>
+		</author>
+		<title level="m">Oy Edita Ab Rasimus, U. &amp; Tevalin, A. 2013. Coaching-prosessin koulutustilaisus</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+	<note>Oppimalla osaamiseen ja menestykseen</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Puistokulma</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Coaching edistää esimiestaitoja</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Romana</surname></persName>
+		</author>
+		<editor>Räsänen, M.</editor>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Coaching ja johtajuus. Valmentava ote esimiestyössä</title>
+		<imprint>
+			<publisher>Edita Publishing Oy</publisher>
+			<biblScope unit="page" from="115" to="135" />
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Johdanto-miksi coaching on ajankohtaista juuri nyt?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Räsänen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Coaching ja johtajuus. Valmentava ote esimiestyössä</title>
+		<editor>Räsänen, M.</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edita Publishing Oy</publisher>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="15" to="20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Rissanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Sääski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Vornanen</surname></persName>
+		</author>
+		<title level="m">Uudistuvat organisaatiot. Käsikirja organisaatiosta ja henkilöstöjohtamisesta</title>
+		<meeting><address><addrLine>Pieksämäki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kirjapaino Raamattutalo</publisher>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">KvaliMOTVMenetelmäopetuksen tietovaranto</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Saaranen-Kauppinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Puusniekka</surname></persName>
+		</author>
+		<ptr target="http://www.fsd.uta.fi/menetelmaopetus/kvali/L3_1_2.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Tampere. Yhteiskuntatieteellinen tietoarkisto</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note>viitattu 18.12.2013</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Saaranen-Kauppinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Puusniekka</surname></persName>
+		</author>
+		<title level="m">Sosiaalinen konstruktionismi</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kvalimotv-Menetelmäopetuksen Tietovaranto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tampere</surname></persName>
+		</author>
+		<ptr target="http://www.fsd.uta.fi/menetelmaopetus/kvali/L5_6.html" />
+		<title level="m">Yhteiskuntatieteellinen tietoarkisto</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>viitattu 18.11.</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Minuus ja identiteetti tutkimuksen haasteina</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Saastamoinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Minuus ja identiteetti</title>
+		<editor>Rautio, P. &amp; Saastamoinen, M.</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tampereen Yliopistopaino Oy</publisher>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="170" to="179" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">TYT/Avoin yliopisto-Sosiaalipsykologian verkko-opinnot</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sosiaalipsykologian</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<pubPlace>Saatavissa</pubPlace>
+		</imprint>
+	</monogr>
+	<note>viitattu 1.11.</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="http://www.coaching-yhdistys.com/" />
+		<title level="m">Suomen Coaching-yhdistys ry</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>viitattu 13.11.</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sydänmaalakka</surname></persName>
+		</author>
+		<title level="m">Älykäs organisaatio</title>
+		<meeting><address><addrLine>Vantaa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Talentum</publisher>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Coaching-prosessin kolutustilaisuus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tevalin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>Puistokulma 13.11.2013. Suullinen tiedonanto</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Osaamisen ja työn johtaminen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Tuomi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Sumkin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organisaation oppimisen oivalluksia</title>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>SanomaPro OY</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vantaan kaupungin henkilöstökertomus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Vantaan Kaupunki</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tunnuksilla Saatavissa Olevaa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Materiaalia</surname></persName>
+		</author>
+		<ptr target="http://avain.vantaa.fi/download/78602_Henkilostokertomus_2012.pdf" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Työn keskeisten osa-alueiden kuvaus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Vantaan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Henkilöstökeskus</surname></persName>
+		</author>
+		<ptr target="http://avain.vantaa.fi/palvelut/henkilosto/palvelussuhde" />
+	</analytic>
+	<monogr>
+		<title level="m">Tunnuksilla saatavissa olevaa materiaalia</title>
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note>viitattu 12.8.2013</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vantaan kaupungin johtamisjärjestelmän viitekehys</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Vantaan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Henkilöstökeskus</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>viitattu 12.12.13</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tunnuksilla Saatavissa Olevaa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Materiaalia</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vantaan kaupungin varhaiskasvatuksen tulosalue organisaatiokaavio</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Vantaan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Keskushallinto</surname></persName>
+		</author>
+		<ptr target="http://www.vantaa.fi/fi/opetus_ja_kasvatus/paivahoito/hallinto" />
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>viitattu 12.2.2013</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Varhaiskasvatuksen tuloskortti</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Vantaan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sivistystoimi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>viitattu 17.12.2013</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tunnuksilla Saatavissa Olevaa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Materiaalia</surname></persName>
+		</author>
+		<ptr target="http://avain.vantaa.fi/strategia_ja_tuloskortit_piilosivu/varhaiskasvatuksen_tuloskortitVantaankaupnki/Sivistystoimi.2013.Varhaiskasvatuksentuloskorttiluonnos.Eisaatavissaolevaamateriaalia" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Työpari toimintamalli päiväkodin johtajan tukena</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Vantaan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sivistystoimi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>viitattu 12.8.2013</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tunnuksilla Saatavissa Olevaa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Materiaalia</surname></persName>
+		</author>
+		<ptr target="http://avain.vantaa.fi/etusivu/toimialat/sivistystoimi/varhaiskasvatus/prime118.aspxVantaankaupunki/Sivistystoimi.2012.Varhaiskasvatuksenjohtamisenjajohdontuenrakenteidenarviontijakehittäminen.Työryhmänraportti" />
+		<imprint/>
+	</monogr>
+	<note>viitattu 12.8.2013</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tunnuksilla Saatavissa Olevaa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Materiaalia</surname></persName>
+		</author>
+		<ptr target="http://avain.vantaa.fi/etusivu/toimialat/sivistystoimi/varhaiskasvatus/prime118.aspxVantaankaupunki/Sivistystoimi.2012.Varhaiskasvatuksentukiyksikkö-strategisestajohtamisesta" />
+		<imprint/>
+	</monogr>
+	<note>viitattu 12.8.2013</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tunnuksilla Saatavissa Olevaa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Materiaalia</surname></persName>
+		</author>
+		<ptr target="http://avain.vantaa.fi/etusivu/toimialat/sivistystoimi/varhaiskasvatus/prime118.aspxVantaankaupunki/Sivistystoimi.2012.Varhaiskasvatuksenvarajohtajajärjestelmä" />
+		<imprint/>
+	</monogr>
+	<note>viitattu 12.8.2013</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tunnuksilla Saatavissa Olevaa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Materiaalia</surname></persName>
+		</author>
+		<ptr target="http://avain.vantaa.fi/etusivu/toimialat/sivistystoimi/varhaiskasvatus/prime118.aspx" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Vilkka</surname></persName>
+		</author>
+		<title level="m">Tutki ja mittaa. Määrällisen tutkimuksen perusteet</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kustannusosakeyhtiö Tammi</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Virolainen</surname></persName>
+		</author>
+		<title level="m">JOHDON COACHING: Rajanvetoja, taustateorioita ja prosesseja</title>
+		<meeting><address><addrLine>Lappeenranta; Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edita Prima Oy</publisher>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>Digipaino Virtanen, P. 2005 Houkutteleva työyhteisö</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">JTO Johtamistaidonopisto pdf.painamaton lähde. Nyk. Management Institute of Finland Wink</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Wink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Menestyksen salat</title>
+		<editor>Juuti Pauli</editor>
+		<meeting><address><addrLine>Vantaa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hansaprint</publisher>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="170" to="187" />
+		</imprint>
+	</monogr>
+	<note>Kehittämistyöhön aktivoitunut henkilöstökö menestyksen tuottajana?-Case Kaakon kaksikko</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Best Practice in Performance coaching. Kirjan sisällöstä yhteenvedon laatinut Pirjo Puhakka</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Wilson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>viitattu 2.11.2013</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Saatavissa</surname></persName>
+		</author>
+		<ptr target="http://coachingpedia.wikispaces.com/Best+practice+in+performance+coaching" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

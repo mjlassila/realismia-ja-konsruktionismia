@@ -1,0 +1,1081 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_13"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Johtaminen ja naisjohtajuus-Tasa-arvoisuus tavoittelun kohteena</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Iiris</forename><surname>Aaltio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Johtaminen eilen, tänään, huomenna. Johtamistaidon opiston 60-vuotisjuhlakirja</title>
+		<editor>Pauli Juuti</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Otava</publisher>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="178" to="191" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Antti</forename><forename type="middle">W</forename><surname>Aro</surname></persName>
+		</author>
+		<title level="m">Onko työssä tolkkua?</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edita</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Naisten ryhmät-nainen ryhmässä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anja</forename><surname>Auvinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Omin ehdoin-Naisten oma-apuryhmän opas</title>
+		<editor>Anja Auvinen</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kansalaisareena</publisher>
+			<date type="published" when="2000" />
+			<biblScope unit="page" from="27" to="41" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Yliopistopedagogiikka haasteena ja kehittämisen kohteena</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jorma</forename><surname>Enkenberg</surname></persName>
+		</author>
+		<editor>Jorma Enkenberg, Erkki Savolainen &amp; Pertti Väisänen</editor>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Tutkiva opettajakoulutus: taitava opettaja</title>
+		<editor>Erkki Savolainen &amp; Kati Ranta (verkkoversio</editor>
+		<meeting><address><addrLine>Savonlinna</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="volume">26</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Erot, erilaisuus ja elinolot-vammaisten arkielämä ja itsemäärääminen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Susan</forename><surname>Eriksson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kehitysvammaliiton tutkimuksia</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2008" />
+			<publisher>Kehitysvammaliitto</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Laadullisen tutkimuksen juhannustaiat-Laadullisen aineiston analyysi vaihe vaiheelta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari</forename><surname>Eskola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ikkunoita tutkimusmetodeihin 2, näkökulmia aloittelevalle tutkijalle tutkimuksen teoreettisiin lähtökohtiin ja analyysimenetelmiin</title>
+		<editor>Juhani Aaltola &amp; Raine Valli</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2001" />
+			<biblScope unit="page" from="133" to="157" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eskola</forename><surname>Jari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Suoranta</surname></persName>
+		</author>
+		<title level="m">Juha 2005. Johdatus laadulliseen tutkimukseen</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Havaintojen teko aineistokeräyksen menetelmänä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Martti</forename><surname>Grönfors</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ikkunoita tutkimusmetodeihin 1, metodin valinta ja aineistonkeruu: virikkeitä aloittelevalle tutkijalle</title>
+		<editor>Juhani Aaltola &amp; Raine Valli</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="151" to="183" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Jämäkkä esimies vaikeiden työsuhdetilanteiden ratkaisijana. Kauppakamarisarja</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ilkka</forename><surname>Haapalainen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<publisher>Edita</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari</forename><forename type="middle">;</forename><surname>Hakanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ahola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Kirsi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mikko</forename><surname>Härmä</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ritva</forename><forename type="middle">&amp;amp;</forename><surname>Kukkonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mikael</forename><surname>Sallinen</surname></persName>
+		</author>
+		<title level="m">Voiman lähteet: Työn voimavarojen ABC</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Työterveyslaitos</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jorma</forename><forename type="middle">&amp;amp;</forename><surname>Heikkilä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kristiina</forename><surname>Heikkilä</surname></persName>
+		</author>
+		<title level="m">Voimaantuminen työyhteisön haasteena</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY</publisher>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Risto</forename><surname>Heiskala</surname></persName>
+		</author>
+		<title level="m">Toiminta, tapa ja rakenne: Kohti konstruktionistista synteesiä yhteiskuntateoriassa</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+			</analytic>
+	<monogr>
+		<title level="m">Harrastustoiminta 2009-2010-Kerhot-Kurssit-Ryhmät-esite</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Helsingin kehitysvammatuki 57</publisher>
+			<biblScope unit="volume">57</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Empowerment valtaistumisen ja voimaantumisen dialogina</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Liisa</forename><surname>Hokkanen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityö ja teoria</title>
+		<editor>Mikko Mäntysaari, Anneli Pohjola &amp; Tarja Pösö</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="315" to="337" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pekka</forename><surname>Hämäläinen</surname></persName>
+		</author>
+		<title level="m">Jaksamisesta innostumiseen työssä ja elämässä</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi</publisher>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Ihmisen kokoinen työyhteisö: avaimia hyvään vuorovaikutukseen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pekka</forename><surname>Hämäläinen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<publisher>Tammi</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Aamulla, kun heräät, sinulla on hyvä mieli lähteä töihinja se jatkuu koko päivän&quot; (Mies 57)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pirkko</forename><surname>Innanen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Työhyvinvointi ja esimiestyö</title>
+		<editor>Pirkko Vesterinen</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOYpro</publisher>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="29" to="48" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vauhtia uralle nainen: opas lasikaton rikkomiseen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marjatta</forename><surname>Jabe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Kirjapaja</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Vammaisen henkilön valtaistuminen: Palvelujärjestelmän avulla vai ilman sitä?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Aila</forename><forename type="middle">;</forename><surname>Järvikoski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Härkäpää</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Kristiina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mervi</forename><surname>Pättikangas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pyörätuolitango näkökulmia vammaisuuteen</title>
+		<editor>Susanna Nouko-Juvonen</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edita</publisher>
+			<date type="published" when="1999" />
+			<biblScope unit="page" from="103" to="126" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kohti täyttä elämää. Tutkimus kehitysvammaisista ihmisistä oman asiansa ajajina</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jukka</forename><surname>Kaukola</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>Kehitysvammaisten Tukiliitto</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Reijo</forename><forename type="middle">A</forename><surname>Kauppila</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ihmisen tapa oppia: Johdatus sosiokonstruktiiviseen oppimiskäsitykseen</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kehitysvammaisten</surname></persName>
+		</author>
+		<ptr target="http://www.kvtl.fi/sivu/vertaansa_vailla_paikalliset" />
+	</analytic>
+	<monogr>
+		<title level="j">Paikallisia vertaistukiryhmiä. Viitattu</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Vertaistuki erityislasten vanhempien voimavarana</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tuula</forename><surname>Kinnunen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jyväskylän yliopisto. Kasvatustieteen laitos</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arja</forename><surname>Kuula</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<publisher>Vastapaino</publisher>
+			<pubPlace>Toimintatutkimus. Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jukka</forename><surname>Leskinen</surname></persName>
+		</author>
+		<title level="m">Miten jaksat työssä?</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Työturvallisuuskeskus</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Susanna</forename><surname>Lundell</surname></persName>
+		</author>
+		<title level="m">Kateus työyhteisössä</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Työterveyslaitos</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marja-Leena</forename><surname>Malin</surname></persName>
+		</author>
+		<title level="m">Mammutti ja vanha kurppa: opas ikääntyvien ihmisten keskusteluryhmille</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Invalidiliitto</publisher>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Työrauhan julistus-miten olla ihmisiksi alaisena ja esimiehenä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marja-Liisa</forename><surname>Manka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Kirjapaja</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari</forename><surname>Metsämuuronen</surname></persName>
+		</author>
+		<title level="m">Tutkimuksen tekemisen perusteet ihmistieteissä</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Methelp</publisher>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Oma-apuryhmät ja niiden toiminta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pirjo</forename><surname>Miikkulainen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Omin ehdoin: naisten oma-apuryhmän opas</title>
+		<editor>Anja Auvinen</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kansalaisareena ry</publisher>
+			<date type="published" when="2000" />
+			<biblScope unit="page" from="9" to="12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Muutoksen</surname></persName>
+		</author>
+		<title level="m">Kulttuurihistoriallinen toiminnan teoria. Toiminnan teorian ja kehittävän työntutkimuksen yksikkö</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Digitaalinen voimistaminen paikallisten yhteisöjen kehittämisessä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Maarit</forename><surname>Mäkinen</surname></persName>
+		</author>
+		<ptr target="http://acta.uta.fi/pdf/978-951-44-7642-6.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Tampereen yliopisto. Yhteiskuntatieteellinen tiedekunta. Akateeminen väitöskirja. Viitattu</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Haasteena luottamus-Työyhteisön sosiaalinen pääoma ja syvärakenne</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marja</forename><forename type="middle">&amp;amp;</forename><surname>Mäkipeska</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Terttu</forename><surname>Niemelä</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<publisher>Edita</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Mäkisalo-Ropponen</surname></persName>
+		</author>
+		<title level="m">Merja 2007. Tarinat työn tukena</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Turvallisuuden käsite ja tarkastelukehikko</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pauli</forename><surname>Niemelä</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Inhimillinen turvallisuus</title>
+		<editor>Pauli Niemelä &amp; Anja Riitta Lahikainen</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2000" />
+			<biblScope unit="page" from="21" to="37" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Keskusteleva esimiestyö: opitaan kokemuksesta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tarja</forename><surname>Nummelin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>WSOYpro</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Työhyvinvointi tuloksentekijänä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leenamaija</forename><forename type="middle">&amp;amp;</forename><surname>Otala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Guy</forename><surname>Ahonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<publisher>WSOYpro ja Suomen Ekonomiliitto</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Työnsä kokoinen ihminen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leena</forename><surname>Paasivaara</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Tammi</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eva</forename><forename type="middle">&amp;amp;</forename><surname>Palin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marja</forename><surname>Raivio</surname></persName>
+		</author>
+		<title level="m">Elinvoimaa etsimässä: kirja työssä jaksamisesta</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Toimihenkilöjärjestöjen sivistysliitto</publisher>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Osaanko kuunnella ja johtaa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Harri</forename><surname>Palmu</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>Kirjapaja</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Naisten monet ryhmät</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Helena</forename><surname>Palojärvi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Omin ehdoin: naisten oma-apuryhmien opas</title>
+		<editor>Anja Auvinen</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kansalaisareena</publisher>
+			<date type="published" when="2000" />
+			<biblScope unit="page" from="43" to="50" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Jokaisella on juttunsa-Se nostaa mistä syttyy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Heikki</forename><surname>Peltola</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>Talentum</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Donald</forename><forename type="middle">C</forename><surname>Pennington</surname></persName>
+		</author>
+		<title level="m">Pienryhmän sosiaalipsykologia</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus</publisher>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Ihan niin kuin aurinko menisi läpi&quot; Me Itse ry voimaantumisen mahdollistavana kontekstina kehitysvammaisten jäsentensä elämässä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anu</forename><surname>Rintamäki</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>Tampereen yliopisto. Sosiaalipolitiikan ja sosiaalityön laitos. Pro gradu-työ</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Oppiminen ja ammatillinen kasvu</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pekka</forename><surname>Ruohotie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aikuiskasvatus. Helsinki</title>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>WSOY</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juhani</forename><surname>Räsänen</surname></persName>
+		</author>
+		<title level="m">Voimaantumisen mahdollistaminen ja ratkaisut-Yhteiskunnan, yhteisön ja yksilön valtaistaminen. Suomen työvalmennusakatemian julkaisu</title>
+		<meeting><address><addrLine>Järvenpää</addrLine></address></meeting>
+		<imprint>
+			<publisher>Julkiviestintä</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Elämäntapayhteisöt ja yhteisöllistämisen teknologiat-identiteetti, ekspressiivisyys ja hallinnointi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mikko</forename><surname>Saastamoinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ruumis, minä ja yhteisö: sosiaalisen konstruktionismin näkökulma</title>
+		<editor>Pekka Kuusela &amp; Mikko Saastamoinen</editor>
+		<meeting><address><addrLine>Kuopio</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kuopion yliopisto. Sosiaalipsykologian ja sosiologian laitos</publisher>
+			<date type="published" when="2003" />
+			<biblScope unit="volume">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Monimuotoisuus ja tasa-arvo yrityksen tuloksen tekijöinä-Monimuotoisuuden johtaminen ja dialogi-tulevaisuuden organisaation voimavarat</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anna</forename><surname>Savileppä</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">MONIKKO: tasa-arvo monimuotoisissa työyhteisöissä. ESR</title>
+		<editor>Kaija Kauppinen &amp; Julia Evans</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>MONIKKO-hanke</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Mitä työyhteisölähtöinen prosessikehittäminen on?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Seppänen-Järvelä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Riitta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Katri</forename><surname>Vataja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Työyhteisö uusille urille: kehittäminen osaksi arjen työtä</title>
+		<editor>Riitta Seppänen-Järvelä &amp; Katri Vataja</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="13" to="30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Voimaantumisteorian perusteiden hahmottelua</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juha</forename><surname>Siitonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oulun yliopisto. Kasvatustieteiden tiedekunta. Akateeminen väitöskirja. Viitattu</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Suomen</surname></persName>
+		</author>
+		<title level="m">Linkki-jakson ohjaajan kirja: Tavoitteellista vertaisryhmätoimintaa työttömille</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="volume">9</biblScope>
+		</imprint>
+	</monogr>
+	<note>Suomen mielenterveysseura. Viitattu 9</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Palvelu</forename><surname>Tuetun Työllistymisen</surname></persName>
+		</author>
+		<title level="m">Helsingin kaupunki, sosiaalivirasto, Tuetun työllistymisen palvelu</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>Työhyvinvointikysely asiakkaille</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Laadullinen tutkimus ja sisällön analyysi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jouni</forename><forename type="middle">&amp;amp;</forename><surname>Tuomi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anneli</forename><surname>Sarajärvi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>Tammi</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Olemme kaikki tasa-arvoisia&quot;-Tutkielma vammaisten ja pitkäaikaissairaiden lasten vanhempien vertaistukiryhmistä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lea</forename><surname>Valtti</surname></persName>
+		</author>
+		<ptr target="http://www.kvtl.fi/tiedostot/vaitti_gradu.pdf" />
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>Kehitysvammaisten tukiliitto</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Työnilo-ahkeruudella ansaittua, sattuman synnyttämää vai oppivan organisaation vaatimaa?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juha</forename><forename type="middle">&amp;amp;</forename><surname>Varila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kati</forename><surname>Lehtosaari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joensuun yliopiston kasvatustieteiden tiedekunnan tutkimuksia N:o</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<date type="published" when="2001" />
+			<publisher>Joensuun yliopisto</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Päivi</forename><surname>Vartiainen-Ora</surname></persName>
+		</author>
+		<title level="m">Erilaisuus sallittu: perehdymme monimuotoisuuteen: käsikirja perehdyttäjälle ja työyhteisölle. Petmo-hanke ESR</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAK</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Vates-Säätiö</surname></persName>
+		</author>
+		<ptr target="http://www.vates.fi/Tuetun.tyollistymisen.prosessi" />
+		<title level="m">Tuetun työllistymisen työhönvalmennus. Tuetun työllistymisen prosessi. Vajaakuntoisten työllistämistä edistävä säätiö. Viitattu 15</title>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Verneri</surname></persName>
+		</author>
+		<ptr target="http://verneri.net/selko/vapaa_aika/keskustelu/" />
+	</analytic>
+	<monogr>
+		<title level="j">Selkokieliset sivut / keskustelu. Kehitysvammaliitto. Viitattu</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Tutki ja havainnoi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hanna</forename><surname>Vilkka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Tammi</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vammaisen oikeus työhön-sopimuksissa, suosituksissa ja laeissa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arto &amp;amp; Jokinen-Virta</forename><surname>Vilmi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Arja</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>VATES-säätiö</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Työelämän turvallisuus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Raija</forename><surname>Väisänen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Inhimillinen turvallisuus</title>
+		<editor>Pauli Niemelä &amp; Anja Riitta Lahikainen</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2000" />
+			<biblScope unit="page" from="239" to="268" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sosiaalipedagoginen työote aikuissosiaalityössä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Raija</forename><surname>Väisänen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalipedagogien aikakauskirja-Vuosikirja</title>
+		<editor>Juha Hämäläinen &amp; Elina Nivala</editor>
+		<meeting><address><addrLine>Pori</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="167" to="195" />
+		</imprint>
+	</monogr>
+	<note>Suomen sosiaalipedagoginen seura</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vajaakuntoisten tuettu työllistyminen Helsingissätoiminnasta ja hyödyistä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pasi</forename><surname>Ylipaavalniemi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>Helsingin kaupungin sosiaalivirasto</publisher>
+			<biblScope unit="volume">4</biblScope>
+			<pubPlace>Selvityksiä; Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kuvastin: Reflektiivinen itse-ja vertaisarviointimenetelmä sosiaalityössä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Laura</forename><surname>Yliruka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Työpapereita</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2006" />
+			<publisher>Stakes</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

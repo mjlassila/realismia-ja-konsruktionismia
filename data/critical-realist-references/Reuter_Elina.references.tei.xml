@@ -1,0 +1,363 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_22"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Realistinen evaluaatio ja tuloksellinen kehittämistyö</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Anttila</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Artefakta</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<date type="published" when="2007" />
+			<publisher>Akatiimi Oy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kehittämishankkeen tutkimuksellinen ote. Luentodiat 12/2008 TSOS07 opiskelijoille</title>
+		<imprint>
+			<date type="published" when="2008" />
+			<pubPlace>Julkaisematon Turku AMK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="http://www.chydenius.fi/pdf/anttilan-kalvot" />
+		<title level="m">Onko opinnäytetyöstä kehittämistyöksi? Mistä löytyvät opinnäytetyön metodologiset ratkaisut? Ammattikorkeakoulujen Opinnäytetyö ja ohjaus-seminaari</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Haarakangas</surname></persName>
+		</author>
+		<title level="m">Parantava puhe. Dialogisuus ihmissuhteissa, mielenterveystyössä ja psykiatrisessa hoidossa</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Magentum</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Haarakangas</surname></persName>
+		</author>
+		<title level="m">Voimistava läsnäolo. Mielen tiet lapsuudesta vanhuuteen</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main"></title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="http://www.opijakasva.fi/materiaalipankki/doc_download/193-opi-ja-kasva-2011lasten-ja-nuorten-psyykkinen-hyvinvointiheikkinen" />
+		<title level="m">Kaavakuva JERI-hankkeen sijoittumisesta nuorten palveluissa (Opi ja kasva 2011_Lasten ja nuorten psyykkinen hyvinvointi_Heikkinen</title>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+	<note>Tulostettu 6.3.2012, </note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Lasten mielenterveysambulanssi 8/2009-9/2012. Kaste-hanke / VSSHP Lastenpsykiatrian akuuttityöryhmä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hietikko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Koivu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Tammisto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Tulensalo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Westerbäck</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Tutki ja kirjoita. 15.uudist.painos. Hämeenlinna: Kariston Kirjapaino Oy Tulostettu ja </title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hirsjärvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Remes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sajavaara</surname></persName>
+		</author>
+		<idno>2008: Erkki Savolainen ISBN 978-952-219-164-9</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Teorian ja tutkimuskohteen vuorovaikutusBronfenbrennerin ekologinen systeemiteoria ihmisen kehittymisestä</title>
+		<editor>Niikko, A., Pellikka, I: &amp; Savolainen, E</editor>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Oppimista</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kuninkaankartanonmäeltä</surname></persName>
+		</author>
+		<ptr target="https://www.innokyla.fi/web/malli106630#.ULtYWIa8xfweliwww.innokyla.fi&gt;Lastenpsykiatrianjalkautuvaverkostotyö&gt;Toimintamalli" />
+	</analytic>
+	<monogr>
+		<title level="j">Joensuun yliopisto</title>
+		<imprint/>
+	</monogr>
+	<note>Savonlinnan opettajainkoulutuslaitos:2008. </note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main"></title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Granö</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename></persName>
+		</author>
+		<ptr target="http://www.sosiaalitaito.fi/ep/tiedostot/ulappa300910_jeri.pdf" />
+		<title level="m">Liikkuvalla ja verkostoituvalla työotteella apua nuorille mielenterveyden vaikeuksissa-JERI-työryhmän kokemuksia ja tuloksia</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note>Jeri: Jorvi Early Psychosis Recognition and Intervention</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Nuorille ajoissa apua mielenterveysongelmiin</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Karjalainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Itkonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Edlund</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Granö</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Anto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Roine</surname></persName>
+		</author>
+		<ptr target="http://www.sairaanhoitajaliitto.fi/ammatilliset_urapalvelut/julkaisut/sairaanhoitaja-lehti/10_2009/asiantuntija-artikkeli/nuorille_ajoissa_apua_mielenterv/Tulostettu4.9.2012" />
+	</analytic>
+	<monogr>
+		<title level="m">Verkostoituvalla työotteella apua nuorten mielenterveyden ongelmiin. Esitys kouluterveyspäivillä</title>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+	<note></note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kokijoista tekijöiksi-kokemusasiantuntijoiden esiinnousu ja vaikutus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Karoskoski</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Artikkeli</title>
+	</analytic>
+	<monogr>
+		<title level="m">(toim.) 2010. Kuiskaa kovaa. Keskustelua psykiatriasta</title>
+		<editor>Putkonen, H., Tenhovirta, K. &amp; Huttunen, M.</editor>
+		<meeting><address><addrLine>Espoo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Prometheus Kustannus Oy</publisher>
+			<biblScope unit="page" from="121" to="138" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lasten akuuttien psykiatristen häiriöiden tutkimus ja hoito</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Manelius</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Piha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tyksin akuuttihoitomalli. Artikkeli. Suomen Lääkärilehti</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="61" to="215" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note>Tulostettu ja </note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Mieli 2009-työryhmän ehdotukset mielenterveys-ja päihdetyön kehittämiseksi vuoteen 2015</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mielenterveys-Ja</forename><surname>Päihdesuunnitelma</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="http://www.mwd.utu.fi/hoitotiede/julkaisut/opinnäytetyöt/progradu-abstraktit_2012/Piilinen.pdf" />
+		<title level="m">Piilinen, J. Vanhempien tyytyväisyys lastenpsykiatrian akuuttihoitoon. Tiivistelmä pro gradutyöstä</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Tulostettu 17.6.2010, </title>
+	</analytic>
+	<monogr>
+		<title level="j">J. Lasten mielenterveysambulanssi</title>
+		<imprint/>
+	</monogr>
+	<note>ppt</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Välähdyksiä psykoterapian pitkältä matkalta. Artikkeli</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Rekola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kuiskaa kovaa. Keskustelua psykiatriasta</title>
+		<editor>Putkonen, H., Tenhovirta, K. &amp; Huttunen, M.</editor>
+		<meeting><address><addrLine>Espoo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Prometheus Kustannus Oy</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="68" to="87" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Häpeän tuolla puolen-mielenterveyskuntoutujan kokemuksia. Artikkeli</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Rekola</surname></persName>
+		</author>
+		<editor>Korkeila, J., Joutsenniemi, K., Sailas, E. &amp; Oksanen, J.</editor>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>Kustannus Oy Duodecim</publisher>
+			<biblScope unit="page" from="12" to="19" />
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Psykiatrian tavallisimmista virheistä-provokatiivisesti. Artikkeli</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Sailas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Laiho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2010. Kuiskaa kovaa. Keskustelua psykiatriasta</title>
+		<editor>Putkonen, H., Tenhovirta, K. &amp; Huttunen, M.</editor>
+		<meeting><address><addrLine>Espoo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Prometheus Kustannus Oy</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="174" to="186" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

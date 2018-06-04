@@ -1,0 +1,418 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_1"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ahokas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">R</forename><surname>Lahikainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A-M</forename><surname>Pirttilä-Backman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Suoninen</surname></persName>
+		</author>
+		<title level="m">Arjen sosiaalipsykologia</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOYpro Oy</publisher>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Perhehoito lastensuojelussa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ahto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Mikkola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sijaishuollon neuvottelukunnan julkaisuja</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<date type="published" when="2000" />
+			<publisher>Gummerus kirjapaino Oy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Alanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Karila</surname></persName>
+		</author>
+		<title level="m">Lapsuus, lapsuuden instituutiot ja lasten toiminta</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lukemisto lapsuuden kokemuksista lastenkodissa ja perhehoidossa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Bardy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Barkman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Janhunen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lastenkoti osana elämäntarinaa. Narratiivinen tutkimus lastenkodeissa asuneiden kertomuksista</title>
+		<meeting><address><addrLine>Helsinki; Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tampereen yliopisto</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+	<note>Elämäni tarina</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hirsijärvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hurme</surname></persName>
+		</author>
+		<title level="m">Tutkimushaastattelu</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Yliopistopaino</publisher>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Että äiti ois elossa ja iskä ois raitis ja me voitais asua siellä kotona</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Hämäläinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Perhehoitoon sijoitettujen lasten kokemuksia ja ajatuksia perhehoidosta</title>
+		<imprint>
+			<publisher>Pro gradu Jyväskylän yliopisto</publisher>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Perhehoitoon sijoitettujen lasten antamat merkitykset kodilleen ja perhesuhteilleen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Hämäläinen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>Väestöliitto</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ketola</surname></persName>
+		</author>
+		<title level="m">2008.a Sijoita perheeseen. Perhehoito inhimillisenä ja taloudellisena vaihtoehtona</title>
+		<meeting><address><addrLine>Juva</addrLine></address></meeting>
+		<imprint>
+			<publisher>WS Bookwell Oy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ketola</surname></persName>
+		</author>
+		<title level="m">2008.b Menetyksistä mahdollisuuksiin. Perhehoitoa lasten ja vanhemmuuden tueksi</title>
+		<meeting><address><addrLine>Juva</addrLine></address></meeting>
+		<imprint>
+			<publisher>WS Bookwell Oy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Laakso</surname></persName>
+		</author>
+		<title level="m">Arjen rutiinit ja yllätykset-Etnografia lastenkotityöstä</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tampereen yliopisto</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vanhemmaksi vanhemman paikalle-Sijaisvanhempien kokemuksia tehtävästään. Pro gradu-tutkielma Jyväskylän yliopisto</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Manninen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<biblScope unit="page">47</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Metsämuuronen</surname></persName>
+		</author>
+		<title level="m">Laadullisen tutkimuksen perusteet</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gummerus Kirjapaino Oy</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Syrjälä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ahonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Syrjäläinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Saari</surname></persName>
+		</author>
+		<title level="m">Laadullisen tutkimuksen työtapoja</title>
+		<meeting><address><addrLine>Rauma</addrLine></address></meeting>
+		<imprint>
+			<publisher>West Point Oy</publisher>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Puonti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Saarnio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hujala</surname></persName>
+		</author>
+		<title level="m">Lastensuojelu tänään</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gummerus Kirjapaino Oy</publisher>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Saastamoinen</surname></persName>
+		</author>
+		<title level="m">Lapsen asema sijaishuollossa. Käsikirja arjen toimintaan</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edita Prima Oy</publisher>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Vuorovaikutuksen lukutaito</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A-M</forename><surname>Puroila</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ajattele itse! Tutkimuksellisen lukutaidon perusteet</title>
+		<editor>Hurtig, J., Laitinen, M., &amp; Uljas-Rautio, K.</editor>
+		<meeting><address><addrLine>Juva</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bookwell Oy s</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="123" to="125" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kasvatustyö sijaishuollossa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Pösö</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lastensuojelu tänään</title>
+		<editor>Puonti, A., Saarnio, T., Hujala, A.</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi</publisher>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kyllä se varmaan silleen välittää…</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Rautio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kiintymyssuhdehaastattelu välineenä sijoitetun lapsen kuulemisessa</title>
+		<imprint>
+			<publisher>Jyväskylän yliopiston paino</publisher>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ritala-Koskinen</surname></persName>
+		</author>
+		<title level="m">Mikä on lapsen perhe? Tulkintoja lasten uusperhesuhteista</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Väestöntutkimuslaitos, Väestöliitto</publisher>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ruusuvuori</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Tiittula</surname></persName>
+		</author>
+		<title level="m">Haastattelu. tutkimus, tilanteet ja vuorovaikutus</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gummerus kirjapaino Oy</publisher>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Lasten arki laitoksessa. Elämistila lastenkodissa ja sairaalassa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Törrönen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>University Press</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kuka on minun vanhempani? Perhehoitonuorten vanhempisuhteet</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Valkonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tutkimuksia</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<date type="published" when="1995" />
+			<publisher>Stakes</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Huoltajan</surname></persName>
+		</author>
+		<ptr target="http://www.sosiaaliportti.fi/fi-FI/lastensuojelunkasikirja/tyoprosessi/...[Viitattu" />
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Kuinka kauan olet asunut tässä perheessä? Muistatko, minkä ikäinen olit, kun muutit tähän perheeseen? Onko tämä sinun ensimmäinen sijaisperheesi/ oletko aikaisemmin asunut jossain toisessa sijaisperheessä? Jos olet, tiedätkö miksi muutit sieltä pois tai miksi paikkaa vaihdettiin? Viihdytkö nykyisessä perheessäsi? Minkälaisia asioita teet kotona koulun jälkeen tai viikonloppuisin? Minkälaisia asioita haluaisit tehdä? Minkälaista sinun elämäsi/arkesi on mielestäsi nykyisin? Koetko, että elämäsi /arkesi sujuu hyvin? Mitä sinun mielestäsi sijaisvanhempiesi pitäisi tehdä, että arkesi sujuisi hyvin tai nykyistä paremmin? Mitä sinun mielestäsi sinun itsesi pitäisi tehdä, että sinun arkesi sujuisi hyvin tai nykyistä paremmin? Onko sinun elämästäsi kerätty kuvia tai muita muistoja kansioon tai albumiin tältä ajalta, kun olet asunut sijaisperheessä?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nuoren</forename><surname>Suhde Biologisiin Vanhempiinsa Tapaatko Biologisia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Vanhempiasi</surname></persName>
+		</author>
+		<title level="m">Kuinka usein tapaat biologisia vanhempiasi/vanhempaasi? Haluaisitko tavata heitä nykyistä useammin? Haluaisitko tavata heitä nykyistä harvemmin? Missä tapaat heitä? Minkälaisia asioita teet vanhempiesi luona/kotona käydessäsi arkisin ja/tai viikonloppuisin? Minkälaisia asioita haluaisit tehdä? Muistatko, millaista sinun elämäsi/arkesi oli silloin, kun asuit biologisten vanhempiesi luona? Mitä sinun mielestäsi biologisten vanhempiesi/vanhemman pitäisi tehdä, että sinun elämäsi/sujuisi hyvin tai paremmin heidän kanssaan? Mitä sinun mielestäsi biologisten vanhempiesi/vanhempasi pitäisi tehdä, että sinun elämäsi/arkesi sujuisi paremmin sijaisperheessä? NUOREN SUHDE LÄHIYMPÄRISTÖÖNSÄ Onko sinulla sisaruksia? Asuvatko sisaruksesi tässä samassa perheessä, vai jossakin muualla? Tapaatko sisaruksiasi? jos tapaat, haluaisitko tavata heitä useammin/harvemmin? Missä tapaat heitä? Onko sinulla isovanhempia/tapaatko heitä? Jos tapaat, haluaisitko tavata nykyistä useammin/harvemmin? Missä tapaat heitä? Onko sinulla ystäviä? Haluaisitko, että sinulla olisi enemmän ystäviä? Tietävätkö ystäväsi, että asut sijaisperheessä? Jos tietävät, miten he mielestäsi suhtautuvat asiaan? Jos eivät tiedä, miksi eivät? Mitä teet ystävien kanssa/missä tapaat heitä/mitä haluaisit tehdä? Onko sinulla joku harrastus? Tietävätkö harrastus/koulukaverisi, että asut sijaisperheessä? Jos tietävät, miten he suhtautuvat asiaan? Jos eivät tiedä, miksi eivät?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

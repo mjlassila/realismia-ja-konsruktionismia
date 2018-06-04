@@ -1,0 +1,1419 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_10"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Ethics and Values in Social Work</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sarah</forename><surname>Banks</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995" />
+			<publisher>Macmillian</publisher>
+			<pubPlace>Basingstoke</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sarah</forename><surname>Banks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ethics, Accountability and the Social Professions</title>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>Macmillian</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Politiikan uudelleen keksiminen. Kohti refleksiivisen modernisaation teoriaa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ulrich</forename><surname>Beck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Nykyajan jäljillä. Refleksiivinen modernisaatio</title>
+		<editor>Beck, Ulrich</editor>
+		<editor>Giddens Anthony &amp; Lash Scott</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gummerus</publisher>
+			<date type="published" when="1995" />
+			<biblScope unit="page" from="11" to="82" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">User involvement in research and evaluation: liberation or regulation?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Peter</forename><surname>Beresford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Policy and Society</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="95" to="105" />
+			<date type="published" when="2002" />
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Using Narratives in Social Work Interaction</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Cedersund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Constructing social work practices</title>
+		<meeting><address><addrLine>Aldershot</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ashgate</publisher>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Cree</forename><surname>Vivienne &amp;amp; Davis Ann</surname></persName>
+		</author>
+		<title level="m">Social work. Voices from inside</title>
+		<meeting><address><addrLine>Abington</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Michele</forename><forename type="middle">L</forename><surname>Crossley</surname></persName>
+		</author>
+		<title level="m">Introduction Narrative Psychology</title>
+		<imprint>
+			<publisher>Open University Press</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sosiaalityön asialista asiakkailta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ann</forename><surname>Davis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sosiaaliturva-lehti. Huoltajasäätiö</title>
+		<imprint>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="12" to="13" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Norman</forename><forename type="middle">K</forename><surname>Denzin</surname></persName>
+		</author>
+		<title level="m">Interpretative Biography</title>
+		<meeting><address><addrLine>Newbury park</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Jack Raymond (toim) Empowerment in Community Care</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mervyn</forename><surname>Eastman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995" />
+			<publisher>Chapman &amp; Hall</publisher>
+			<biblScope unit="page" from="258" to="268" />
+			<pubPlace>Bury, St Edmunds. Suffolk</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Users First-Implications for Management</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sosiaalityötä linssin takaa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leena</forename><surname>Eräsaari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityön tutkimus. Metodologisia suunnistuksia</title>
+		<editor>Karvinen Synnöve &amp; Pösö, Tarja &amp; Satka, Mirja</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>SoPhi</publisher>
+			<date type="published" when="2000" />
+			<biblScope unit="page" from="117" to="145" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Fook</surname></persName>
+		</author>
+		<title level="m">Social Work: Critical Theory and Practice</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="2000-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Narrative Form and the Construction of Psychological Science</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kenneth</forename><forename type="middle">J</forename><surname>Gergen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gergen Mary</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sarbin, T. (toim) Narrative Psychology</title>
+		<imprint>
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">The Storied Nature of Human Conduct</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Praeger Press</publisher>
+			<biblScope unit="page" from="22" to="44" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Realities and relationships</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kenneth</forename><surname>Gergen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soundings in Social Construction</title>
+		<imprint>
+			<date type="published" when="1994" />
+			<publisher>Harvard University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">(toim) Nykyajan jäljillä. Refleksiivinen modernisaatio</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anthony</forename><surname>Giddens</surname></persName>
+		</author>
+		<editor>Beck, Ulrich</editor>
+		<editor>Giddens, Anthony &amp; Lash, Scott</editor>
+		<imprint>
+			<date type="published" when="1995" />
+			<publisher>Gummerus</publisher>
+			<biblScope unit="page" from="83" to="152" />
+			<pubPlace>Jyväskylä</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Elämää jälkitraditionaalisessa yhteiskunnassa</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kertomuksia kodittomuudesta ja marginaalista</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Riitta</forename><surname>Granfelt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tarja &amp; Satka Mirja (toim) Sosiaalityön tutkimusMetodologisia suuntauksia. SoPhi</title>
+		<editor>Karvinen, Synnöve, Pösö</editor>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="99" to="116" />
+			<date type="published" when="2000" />
+			<publisher>Jyväskylän yliopisto</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Social work theories in context. Crating frameworks for practice</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Karen</forename><surname>Healy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<publisher>Palgrave</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kohti syvempää ymmärrystä sosiaalityössä-Tutkiva ja arvioiva työote sosiaalityöntekijöiden jäsentämänä. SOCCAN ja Heikki Waris Instituutin julkaisusarja 16/2007. Ammatillinen lisensiaattitutkimus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hanna</forename><surname>Heinonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Yliopistopaino</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tuula</forename><surname>Helne</surname></persName>
+		</author>
+		<title level="m">Syrjäytymisen yhteiskunta</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Stakes</publisher>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hepworth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Dean</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Rooney</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ronald</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Direct Social Work Practice: Theory and Skills</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dewberry</forename><surname>Rooney</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Glenda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kimberly</forename><forename type="middle">&amp;amp;</forename><surname>Stromgottfired</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joann</forename><surname>Larsen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>Wadsworth. Brooks/Cole. Cencage learning</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hirsjärvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sirkka; Remes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Paula</forename><surname>Sajavaara</surname></persName>
+		</author>
+		<title level="m">Tutki ja kirjoita. 13., osin uudistettu laitos</title>
+		<meeting><address><addrLine>Keuruu</addrLine></address></meeting>
+		<imprint>
+			<publisher>Otava</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Vallattomuudesta vastuuseen-Kokemuksen politiikan sankaritarinoita</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Susanna</forename><surname>Hyväri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vankeinhoidon koulutuskeskuksen julkaisu</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2001" />
+			<publisher>Vammalan kirjapaino</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lapsi, huumeperhe ja toivo</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Riitta</forename><surname>Hyytinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lapsen todellistuminen huumeperheen kuntoutusprosessissa. Ensi-ja turvakotien liiton julkaisu</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<date type="published" when="2007" />
+			<publisher>Ensi-ja turvakotien liitto</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hänninen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ilse</forename><forename type="middle">;</forename><surname>Kaija; Julkunen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hirsikoski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Riitta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Högnabba</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Stina &amp;amp; Paananen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ilkka</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Asiakkaat oppimisen käynnistäjinä. Raportti Bikva-arviointimenetelmän oppimisen kehistä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Romo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tarya</forename><surname>Henna &amp;amp; Thomasen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stakes raportteja</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<date type="published" when="2007" />
+			<publisher>Stakes</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Luottamus modernissa maailmassa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kaj</forename><forename type="middle">&amp;amp;</forename><surname>Ilmonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kimmo</forename><surname>Jokinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SoPhi</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<date type="published" when="2002" />
+			<publisher>Kopijyvä Kustannus Oy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">William</forename><surname>Isaacs</surname></persName>
+		</author>
+		<title level="m">Dialogi ja yhdessä ajattelemisen taito</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gummerus</publisher>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+			</analytic>
+	<monogr>
+		<title level="m">Auttamistyö keskusteluna. Tutkimuksia sosiaali-ja terapiatyön arjesta</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Rikoksesta resurssi. Narratiivien rakentuminen sosiaalityön kohtaamisessa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arja</forename><forename type="middle">&amp;amp;</forename><surname>Jokinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eero</forename><surname>Suoninen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityön tutkimus</title>
+		<editor>Karvinen &amp; Pösö &amp; Satka</editor>
+		<meeting><address><addrLine>Jyväskylä; SoPhi</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000" />
+			<biblScope unit="page" from="207" to="236" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Narratiivit muutostyön resurssina. Naisten kertomusten muotouminen turvakodissa käytävissä keskusteluissa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arja</forename><surname>Jokinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Auttamistyö keskusteluna. Tutkimuksia sosiaali-ja terapiatyön arjesta</title>
+		<editor>Arja Jokinen &amp; Eero Suoninen</editor>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2000" />
+			<biblScope unit="page" from="131" to="166" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Anti-Intellectualism and the peculiarities of British social work education</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jones</forename><surname>Chris</surname></persName>
+		</author>
+		<editor>Parton, Nigel</editor>
+		<imprint>
+			<date type="published" when="1996" />
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kirsi</forename><surname>Juhila</surname></persName>
+		</author>
+		<title level="m">Sosiaalityöntekijöinä ja asiakkaina. Sosiaalityön yhteiskunnalliset tehtävät ja paikat</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sosiaalityön vuorovaikutuksen tutkimus-Historiaa ja nykysuuntauksia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kirsi</forename><surname>Juhila</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalipoliittinen yhdistys-Sosiaalipoliittinen seura</title>
+		<imprint>
+			<date type="published" when="2004" />
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="155" to="183" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Aikuisten parissa tehtävän sosiaalityön areenat</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kirsi</forename><surname>Juhila</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityö aikuisten parissa. Toim. Arja Jokinen &amp; Kirsi Juhila</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="14" to="47" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Minna-Kaisa</forename><surname>Järvinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Asiakas-työntekijäsuhteen dialoginen arviointi. kriminaalihuollossa. Sosiaalityön ammatillinen lisensiaattityö. Tampereen yliopiston sosiaalipolitiikan ja sosiaalityön laitos</title>
+		<meeting><address><addrLine>Vammala</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vammalan kirjapaino</publisher>
+			<date type="published" when="2007" />
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Asiakastyön yleiset lähtökohdat</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Aulikki ; Aulikki</forename><surname>Kananoja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pirjo</forename><surname>Kananoja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kristiina</forename><surname>Marjamäki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pirjo</forename><surname>Laiho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sarvimäki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pekka Karjalainen ja Marjaana Seppänen. Sosiaalityön käsikirja</title>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gummerus Kirjapaino Oy</publisher>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="98" to="117" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Ihmisen ja paperin välissä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Päivi</forename><surname>Kapiainen</surname></persName>
+		</author>
+		<ptr target="http://dialogi.stakes.fi/FI/tesson+arkisto/paakirjoitukset/pkirjoitus2.htm" />
+	</analytic>
+	<monogr>
+		<title level="j">Tesso-lehti. Viitattu</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Postmoderni sosiaalityö</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Karvinen-Niinikoski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Synnove</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityö ja teoria</title>
+		<editor>Mikko Mäntysaari, Anneli Pohjola &amp; Tarja Pösö</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="131" to="159" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kohtaamisen paikkoja-tieto, valta ja sukupuoli sosiaalityössä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Suvi</forename><surname>Keskinen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Talentia ja Sosiaalityön tutkimuksen seura</title>
+		<editor>Tutkiva sosiaalityö Kiili Johanna ja Närhi Kati</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Painotalo Auranen</publisher>
+			<biblScope unit="page" from="12" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lastensuojelutyön kehittämistä sosiaalityön käytännön opetuksen yhteydessä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Suvi</forename><surname>Keskinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Synnöve toim. Käytännön opetus sosiaalityötä kehittämässä. Vuoropuhelua käytännön sosiaalityön, opetuksen ja kehittämisen tiimoilta</title>
+		<editor>Anis, Merja, Keskinen, Suvi &amp; Karvinen-Niinikoski</editor>
+		<meeting><address><addrLine>Turku</addrLine></address></meeting>
+		<imprint>
+			<publisher>Turun yliopisto</publisher>
+			<date type="published" when="2003" />
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="77" to="89" />
+		</imprint>
+	</monogr>
+	<note>Tulkintojen tuottamisen asiantuntijuus ja asiakkaiden narratiivit</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Arviointi ja hyvät käytännöt sosiaalipalveluissa-Asiantuntijoiden pohdintoja tulevasta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Korhonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Satu; Julkunen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ilse; Karjalainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anu</forename><surname>Muuri</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Stakesin Raportteja</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sosiaalityön kohtaamisia asiakkaiden kertomana</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anni &amp;amp; Valokivi</forename><surname>Vanhala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Heli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityö ja vaikuttaminen</title>
+		<editor>Mirja Satka, Anneli Pohjola &amp; Marketta Rajavaara</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>SoPhi</publisher>
+			<date type="published" when="2003" />
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="125" to="146" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Laadullinen terveystutkimus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jari</forename><forename type="middle">&amp;amp;</forename><surname>Kylmä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Taru</forename><surname>Juvakka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Edita Prima Oy</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Valta ja asiakaslähtöisyys viranomaiskohtaamisissa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Maarit</forename><surname>Laitinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lahtelaisten asiakkaiden kertomuksia työttömyyden ajalta. Lisensiaattityö. Yhteiskuntatieteellinen tiedekunta. Tampereen yliopisto</title>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>M&amp;P Paino</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Asiakkaan arvokas kohtaaminen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Merja</forename><forename type="middle">&amp;amp;</forename><surname>Laitinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tarja</forename><surname>Kemppainen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Asiakkuus sosiaalityössä</title>
+		<editor>Laitinen Merja &amp; Pohjola Anneli</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus</publisher>
+			<biblScope unit="page" from="138" to="177" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Laitinen</forename><surname>Merja</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Nyt kuullaan meitä asiakkaita-tutkimus kohtaamisesta, tiedosta ja osallisuudesta lastensuojelun työprosesseissa. B. Tutkimusraportteja ja selvityksiä 53</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ojaniemi</forename><surname>Pekka &amp;amp; Tallavaara Marja-Sisko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Yhteiskuntatieteiden tiedekunta</title>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Lapin yliopisto</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Politics of Recognition and Respect: Involving People with Experience of Poverty in Decision making that Affects their Lives</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ruth</forename><surname>Lister</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Policy and Society</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="37" to="46" />
+			<date type="published" when="2002" />
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sosiaalipalveluja kaikille ja kaiken ikää? Tutkimus suomalaisten mielipiteistä ja kokemuksista sosiaalipalveluista sekä niiden suhteesta legitimiteettiin</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anu</forename><surname>Muuri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Hyvinvointivaltion lupaukset ja kohtuuttomat tapaukset. Sosiaali-ja terveysjärjestöjen yhteistyöyhdistys YTY ry</title>
+		<meeting><address><addrLine>Helsinki; Anna; Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edita</publisher>
+			<date type="published" when="2004" />
+			<biblScope unit="volume">178</biblScope>
+		</imprint>
+	</monogr>
+	<note>Stakes Metteri</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sosiaalityön teoria tutkimuksessa-&quot;Minun teoriani</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mikko</forename><surname>Mäntysaari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Talentia-lehdessä Puurunen Piia, Suonio Mari &amp; Väänänen-Fomin Marja (Toim.) Tutkiva sosiaalityö. Sosiaalityön tiede ja teoriaperusta</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Talentia-Sosiaalityön tutkimuksen seura</publisher>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="36" to="43" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kun kumpikaan ei tiedä. Yhteistoiminnallisuus ja dialogisuus auttamistarinoiden retoriikassa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kaarina</forename><surname>Mönkkönen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Yhteiskuntapolitiikka</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="432" to="446" />
+			<date type="published" when="2001" />
+			<publisher>Stakes</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Dialogisuus kommunikaationa ja suhteena. Vastaamisen, vallan ja vastuun merkitys sosiaalialan asiakastyön vuorovaikutuksessa. Väitöskirja</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kaarina</forename><surname>Mönkkönen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kuopion yliopiston julkaisuja E. Yhteiskuntatieteet</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<date type="published" when="2002" />
+			<publisher>Kuopion yliopisto</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Yksilön ja yhteisön muuntuva suhde</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leena</forename><surname>Niemi-Väkeväinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Yhteis kunnan ja sosiaalityön muutoksen tulkintaa</title>
+		<imprint>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+	<note>Seinäjoen ammattikorkeakoulu. oppimateriaalit 3. Seinäjoki: Seinäjoen ammattikorkeakoulu</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nigel</forename><forename type="middle">&amp;amp;</forename><surname>Parton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Patrick</forename><surname>O&amp;apos;byrne</surname></persName>
+		</author>
+		<title level="m">Constructive Social Work. Towards a New Practice. Houndmills. Basingtone, Hampshire and</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Macmillan Press LTD</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Malcom</forename><surname>Payne</surname></persName>
+		</author>
+		<title level="m">Modern social work theory. 3. uudistettu painos</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave McMillan</publisher>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Reetta</forename><surname>Pietikäinen</surname></persName>
+		</author>
+		<idno>verkkojul- kaisuja. Viitattu 10.12.2010</idno>
+		<title level="m">Palveluiden väliinputoamisesta yhtenäisiin palvelupolkui hin? Tutkimusinventaari nuorten nivelvaiheen palveluja koskevista tutkimuksista</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Nuorisotutkimusverkosto/Nuorisotutkimusseura</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Asiakkuuden ja ammattityön suhde</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anneli</forename><surname>Pohjola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Projektit paikallisena jatkuvuutena</title>
+		<editor>Anneli Pohjola Liisa Hokkainen</editor>
+		<meeting><address><addrLine>Rovaniemi</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lapin yliopisto</publisher>
+			<date type="published" when="1998" />
+			<biblScope unit="page" from="185" to="199" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Making Democracy Work. Civic Traditions in Modern Italy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Robert</forename><forename type="middle">D</forename><surname>Putnam</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993" />
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sosiaalityön marginaalistatus-Asiakkuus ja asiantuntijuus modernin ja postmodernin tulkintakehyksessä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Suvi</forename><surname>Raitakari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Teoksessa Juhila</title>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>Kirsi</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Forsberg</forename><surname>Hannele &amp;amp; Roivainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Irene</forename><surname>Marginaalit Ja Sosiaalityö. Jyväskylän</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Yliopisto</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Kopijyvä Oy</publisher>
+			<biblScope unit="page" from="44" to="62" />
+			<pubPlace>Jyväskylä</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sosiaalityön tutkimuksen moniäänisyys</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Raitakari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Irene</forename><forename type="middle">&amp;amp;</forename><surname>Suvi; Roivainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Teppo</forename><surname>Kröger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Janus. Sosiaalipolitiikan ja sosiaalityön aikakauslehti</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="129" to="133" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Olennainen sosiaalityössä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kyösti</forename><surname>Raunio</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>Gaudeamus Helsinki University Press Oy</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">The Postmodern Feminist Condition: New Conditions for Social Work</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Amy</forename><surname>Rossiter</surname></persName>
+		</author>
+		<editor>Barbara Fawcett</editor>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>Jan Fook</publisher>
+		</imprint>
+	</monogr>
+	<note>Brid Featherstone</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Amy</forename><surname>Rossiter</surname></persName>
+		</author>
+		<title level="m">and Research in Social Work: Postmodern Feminist Perspectives</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<biblScope unit="page" from="24" to="38" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Jos etsit kadonnutta aikaa-vanhuus ja oman elämän muisteleminen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marja</forename><surname>Saarenheimo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<publisher>Vastapaino</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sosiaalityö ja vaikuttaminen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mirja</forename><forename type="middle">;</forename><surname>Satka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pohjola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;amp;</forename><surname>Anneli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marketta</forename><surname>Rajavaara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sosiaalityön tutkimuksen vuosikirja</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<date type="published" when="2003" />
+			<publisher>SoPhi</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Elsa</forename><forename type="middle">&amp;amp;</forename><surname>Saurama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ilse</forename><surname>Julkunen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lähestymistapana käytäntötutkimus</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Sosiaalityö ja teoria</title>
+		<editor>Mikko Mäntysaari, Anneli Pohjola &amp; Tarja Pösö</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>PS-kustannus</publisher>
+			<biblScope unit="page" from="293" to="315" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Liz &amp;amp; Wise</forename><surname>Stanley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Breaking out. Feminist consciousness and Feminist research</title>
+		<imprint>
+			<date type="published" when="1993" />
+			<publisher>Routledge &amp; Kegan Paul</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Tapauskohtainen sosiaalityö</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Timo</forename><surname>Toikko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sosiaalityö ja teoria</title>
+		<editor>Mikko Mäntysaari, Anneli Pohjola &amp; Tarja Pösö</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>WS Bookwell-PS-kustannus</publisher>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="271" to="291" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Laadullinen tutkimus ja sisällönanalyysi. 5.uudistettu laitos</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jouni</forename><forename type="middle">&amp;amp;</forename><surname>Tuomi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anneli</forename><surname>Sarajärvi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Tammi</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Kansalainen asiakkaana. Tutkimus vanhusten ja lainrikkojien ja osallisuudesta oikeuksista ja velvollisuuksista. Väitöskirja. Sosiaalityön-ja sosiaalipolitiikan laitos</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Heli</forename><surname>Valokivi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tampereen</title>
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>Tampereen yliopistopaino</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lainrikkojan ääni auttamisjärjestelmässä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Heli</forename><surname>Valokivi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Puhua vastaan ja vaieta. Neuvottelu kulttuurisista marginaaleista</title>
+		<editor>Jokinen, Arja</editor>
+		<editor>Huttunen, Laura &amp; Kulmala, Anna</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus</publisher>
+			<date type="published" when="2004" />
+			<biblScope unit="page" from="115" to="133" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Toimiva asiakkuus-kriminaalihuollon palveluohjauskokeilu naisasiakkaiden kertomana</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Heli</forename><forename type="middle">;</forename><surname>Valokivi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Juhila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Kirsi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Forsberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Irene</forename><surname>Hannele &amp;amp; Roivainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Marginaalit Ja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sosiaalityö</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>SoPhi</publisher>
+			<biblScope unit="page" from="164" to="187" />
+			<pubPlace>Jyväskylä</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Elina</forename><surname>Vironkannas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Rajoitettuja strategioita ja taktisia identiteettejä-Huume hoitoyksikön nuorten asiakkaiden kertomuksia viranomaiskohtaamisista. Janus lehti 4/2003</title>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="297" to="318" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Sosiaalipalveluiden kohtaamiskokemuksen kertomus</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Tutkimus Kiitos tutkimukseen osallistumisesta! (HUOM! Alla oleva rekisteröinti ei kuulu mitenkään tähän tutkimukseen vaan kuuluu tutkimuksen tietokannan ylläpitäjän toimintaan) Share your opinion and participate in other MySurvs</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

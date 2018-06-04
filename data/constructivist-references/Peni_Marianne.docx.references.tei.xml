@@ -1,0 +1,399 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_17"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Työnantajat</forename><surname>Yritykset</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tila</forename><surname>Yhteiskunnan Yleinen</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kunta</forename><surname>Valtio</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>viranomaiset</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Asenteet</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>henkinen esteellisyys</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kela</forename><surname>Työvoimahallinto</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Termit</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Ennen työelämää-koulutus, ohjaus</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Väärät vaikutelmat oman työn vaativuudesta</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Sekalaiset, mutta aiheeseen liittyvät panijana voisivat olla sosiaalialan ammattilaiset sitouduttuaan yhteiskunnalliseen vaikuttamiseen ja heikommassa asemassa olevien puolustamiseen. Toivon, että opinnäytetyöni toimii puheenvuorona sosiaalisen vammaismallin puolesta ja näin omalta osaltaan vaikuttaa vammaisten ihmisten työllistymiseen</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Burr</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>Vastapaino</publisher>
+			<pubPlace>Tampere</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Euroopan neuvoston vammaispoliittinen toimintaohjelma</title>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Sosiaali-ja terveysministeriö</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Foucault</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Perspectives on Disability &amp; Rehabilitation Contesting assumptions; challenging practice</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Hammell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Churchill Livingstone</publisher>
+			<pubPlace>Edinburgh</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jokinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Juhila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Suoninen</surname></persName>
+		</author>
+		<title level="m">Diskurssianalyysin aakkoset</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jokinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Juhila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Suoninen</surname></persName>
+		</author>
+		<title level="m">Diskurssianalyysi liikkeessä</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Understanding disability From Theory to Practice. Toinen painos</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Oliver</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Palgrave Macmillan</publisher>
+			<pubPlace>Basingstoke</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A-M</forename><surname>Ollikainen</surname></persName>
+		</author>
+		<title level="m">Marginaalin marginaalissa? Vammaiset ja osatyökykyiset henkilöt työllistymispalveluiden reunoilla</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>VATES-säätiö</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Pajunen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Vuorenpää</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Nikula</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Österlund</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mäenpää</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ahlstén</surname></persName>
+		</author>
+		<title level="m">Työllä osallisuutta? Yhteisvastuu 2008-hankkeiden loppuraportti</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Pietikäinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mäntynen</surname></persName>
+		</author>
+		<title level="m">Kurssi kohti diskurssia</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Potter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Wetherell</surname></persName>
+		</author>
+		<title level="m">Discourse and Social Psychology Beyond Attitudes and Behaviour. 8. painos</title>
+		<meeting><address><addrLine>Lontoo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage Publications</publisher>
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vammaisuuden sukupuolittuneet ja sortavat diskurssit: yhteiskunnallis-diskursiivinen näkökulma vammaisuuteen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M-R</forename><surname>Reinikainen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Jyväskylän yliopisto. Department of Social Sciences and Philosophy. Väitöskirja</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Opinto-opas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tamk</forename></persName>
+		</author>
+		<ptr target="http://opinto-opas.tamk.fi/ops/opas/ops/kops.php?y=2011&amp;c=961&amp;lang=fi" />
+	</analytic>
+	<monogr>
+		<title level="j">Tulostettu</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Merkintöjä vammaisuuden tutkimuksen itseymmärryksestä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Teittinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Vammaisuuden tutkimus</title>
+		<editor>Teittinen A.</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Yliopistopaino</publisher>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="15" to="45" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Vahva pohja osallisuudelle ja yhdenvertaisuudelle Suomen vammaispoliittinen ohjelma VAMPO</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sosiaali-ja terveysministeriö</publisher>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Vehkakoski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Leimattu lapsuus? Vammaisuuden rakentuminen ammattiihmisten puheessa ja teksteissä</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Vammaisuuteen liittyvien rajoitteiden vähentäminen-Yksilöön ja yhteisöön kohdistettavien toimenpiteiden moraalinen oikeutus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Vehmas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2003: Poikkeava vai erityinen? Erityispedagogiikan monet ulottuvuudet</title>
+		<editor>Ladonlahti T., Naukkarinen A. &amp; Vehmas T</editor>
+		<meeting><address><addrLine>Jyväskylä</addrLine></address></meeting>
+		<imprint>
+			<publisher>Atena</publisher>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="103" to="122" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Handbook of Disability Studies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Williams</surname></persName>
+		</author>
+		<editor>Albrecht G., Seelman K. &amp; Bury M</editor>
+		<imprint>
+			<date type="published" when="2001" />
+			<publisher>Sage Publications</publisher>
+			<biblScope unit="page" from="123" to="144" />
+			<pubPlace>Thousand Oaks, California</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Theorizing Disability</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">YK:n yleissopimus vammaisten henkilöiden oikeuksista ja sopimuksen valinnainen pöytäkirja</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Suomen YK-liitto</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1409 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_9"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Hevonen-terapeutti ja työtoveri. Ratsastusterapeutin kokemuksia ratsastusterapiasta. Pro gradu-tutkielma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Aro</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>Jyväskylän yliopisto</publisher>
+		</imprint>
+	</monogr>
+	<note>erityispedagogiikan laitos</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Broberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Almqvist</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Tjus</surname></persName>
+		</author>
+		<title level="m">Kliininen lapsipsykologia</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edita</publisher>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Väestöliiton asiantuntijalääkäri, lastenpsykiatri. Sähköposti</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Cacciatore</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Miten opetan pettymyksen sietoa, eli miten lasta voi opettaa sietämään epäonnistumista?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Cacciatore</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Heimonen</surname></persName>
+		</author>
+		<ptr target="http://www.raisacacciatore.fi/143" />
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>viitattu 10.8.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Theories of Motivation. A Closer Look at Some Important Theories of Motivation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Cherry</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<pubPlace>Saatavissa</pubPlace>
+		</imprint>
+	</monogr>
+	<note>viitattu 29.1.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Easeltraining</surname></persName>
+		</author>
+		<ptr target="http://www.easeltraining.fi/" />
+		<title level="m">Miksi EASEL?</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>viitattu 22.7.</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Eskola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Suoranta</surname></persName>
+		</author>
+		<title level="m">Johdatus laadulliseen tutkimukseen</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Halonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Hevonen terapeuttina. Pro gradu-tutkielma</title>
+		<imprint>
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+	<note>psykologian laitos</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hevostoiminta</forename><surname>Minteli</surname></persName>
+		</author>
+		<idno>viitattu: 15.1</idno>
+		<title level="m">Hevostoiminta Minteli</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Saatavissa</surname></persName>
+		</author>
+		<ptr target="http://www.minteli.fi/dw/alku" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<idno>viitattu: 15.1</idno>
+		<ptr target="http://hippolis.fi/ajankohtaista/?newsid=946" />
+		<title level="m">Hippolis 2013. Hevosavusteisen toiminnan vaikuttavuus esiin</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hirsijärvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hurme</surname></persName>
+		</author>
+		<title level="m">Tutkimushaastattelu. Teemahaastattelun teoria ja käytäntö</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Yliopistopaino</publisher>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hirsjärvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Remes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sajavaara</surname></persName>
+		</author>
+		<title level="m">Tutki ja kirjoita</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi</publisher>
+			<date type="published" when="1997" />
+			<biblScope unit="volume">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hoikkala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sell</surname></persName>
+		</author>
+		<title level="m">Nuorisotyötä on tehtävä. Menetelmien perustat, rajat ja mahdollisuudet</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Nuorisotutkimusseura</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Honkanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Suomala</surname></persName>
+		</author>
+		<title level="m">Oppilashuollon käsikirja</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kustannusosakeyhtiö Tammi</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Turpaterapiaa ja karvaista kaveruutta. Pro gradu-tutkielma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Honkonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tampereen Yliopisto</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Hyvätti</surname></persName>
+		</author>
+		<title level="m">Ohjat omiin käsiin. Hevonen lastensuojelun sosiaalityön tukena. Pro gradu-tutkielma</title>
+		<imprint>
+			<publisher>Turun yliopisto</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>yhteiskuntatieteellinen tiedekunta</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hämäläinen</surname></persName>
+		</author>
+		<title level="m">Sosiaalipedagoginen strategia koulutuksesta ja työstä syrjäytyneiden ja syrjäytymisuhan alla elävien nuorten auttamiseksi</title>
+		<meeting><address><addrLine>Kuopio</addrLine></address></meeting>
+		<imprint>
+			<publisher>Snellman-instituutti</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">(toim.). 2010Nuorisokasvatuksen teoria-perusteita ja puheenvuoroja</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hämäläinen</surname></persName>
+		</author>
+		<editor>Nivala, E. &amp; Saastamoinen, M.</editor>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>Nuorisotutkimusseura</publisher>
+			<biblScope unit="page" from="169" to="200" />
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Nuorisokasvatuksen teoria sosiaalipedagogisessa kehyksessä</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hämäläinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Kurki</surname></persName>
+		</author>
+		<title level="m">Sosiaalipedagogiikka</title>
+		<meeting><address><addrLine>Porvoo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wsoy</publisher>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Karvaterapiaa-Eläinavusteinen työskentely Suomessa. Tukholma: Solution Models House</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ikäheimo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Sosiaalinen konstruktionismi. Humanistinen tiedekunta. Tieteenfilosofiset suuntaukset</title>
+		<ptr target="https://koppa.jyu.fi/avoimet/hum/menetelmapolkuja/menetelmapolku/tieteenfilosofiset-suuntaukset/sosiaalinen-konstruktionismi" />
+		<editor>Interventio. 2014. Duodecim. Terveysportti.fi</editor>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>viitattu 27.1.. viitattu 22.1.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Mitä on hyvinvointi? Kuntapuntari 3</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kajanoja</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note>viitattu 19.1.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Saatavissa</surname></persName>
+		</author>
+		<ptr target="http://www.stat.fi/tup/kuntapuntari/kuntap_3_2005_hyvinvointi.html" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Behandling med hjälp av häst och ridning</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kallenberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>viitattu 2.2.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Saatavissa</surname></persName>
+		</author>
+		<ptr target="http://www.1177.se/Vastra-Gotaland/Fakta-och-" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Avoterapiat</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kela</surname></persName>
+		</author>
+		<ptr target="http://www.kela.fi/vaikeavammaisten-laakinnallinen-kuntoutus_avoterapiat" />
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>viitattu 16.1.2013</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Pienen lapsen sosiaalisuus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">; M</forename><surname>Keltikangas-Järvinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Tavoitteena kuntoutuminen. Kuntoutujien käsityksiä kokonaisvaltaisesta kuntoutuksesta ja kuntoutumisesta</title>
+		<meeting><address><addrLine>Helsinki; Rovaniemi</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lapin yliopistokustannus</publisher>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Kurki</surname></persName>
+		</author>
+		<title level="m">Nuorisokasvatus sosiokulttuurisen innostamisen kehyksessä</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Nuorisokasvatuksen teoriaperusteita ja puheenvuoroja</title>
+		<editor>Nivala, E. &amp; Saastamoinen, M. (Toim</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Nuorisotutkimusverkosto</publisher>
+			<biblScope unit="page" from="201" to="228" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kuula</surname></persName>
+		</author>
+		<title level="m">Tutkimusetiikka. Aineistojen hankinta, käyttö ja säilytys</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vastapaino</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Hevosavusteinen terapia ja ohjaus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kähkönen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hevoset ja ratsastus</title>
+		<imprint>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="48" to="51" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lahtinen</surname></persName>
+		</author>
+		<title level="m">Hevonen avaa mielen lukot</title>
+		<imprint>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="24" to="27" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lammi</surname></persName>
+		</author>
+		<title level="m">Hevonen vammaisen palveluksessa</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Suomen Ratsastajainliitto ry</publisher>
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lammi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lindgren</surname></persName>
+		</author>
+		<title level="m">Vammainen ratsastaja</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Suomen Ratsastajainliitto ry</publisher>
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lastensuojelulaki</surname></persName>
+		</author>
+		<ptr target="http://www.finlex.fi/fi/laki/ajantasa/2007/20070417" />
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="volume">417</biblScope>
+		</imprint>
+	</monogr>
+	<note>viitattu 21.1.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lehtovirta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Huusari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Peltola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Tattari</surname></persName>
+		</author>
+		<title level="m">Kasvurenkaita. Psykologia ja kehityspsykologia</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY</publisher>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R-M</forename><surname>Leinonen</surname></persName>
+		</author>
+		<ptr target="http://herkules.oulu.fi/isbn9789526201832/isbn9789526201832.pdf" />
+		<title level="m">Palvelijasta terapeutiksi. Ihmisen ja hevosen suhteen muuttuvat kulttuuriset mallit Suomessa</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+<note type="report_type">Väitöskirja. Oulun ylipisto. Humanistinen tiedekunta</note>
+	<note>viitattu 28.6.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Mintelissä löydetään motivaatio hevosen avulla</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lindström</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tunne hevonen</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="42" to="43" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">EASEL, sosioemotionaalisten taitojen kokemuksellisen vahvistamisen työmuoto</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Louhi-Lehtiö</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">KarvaterapiaaEläinavusteinen työskentely Suomessa. Tukholma: Solution Models House</title>
+		<editor>Ikäheimo, K.</editor>
+		<imprint>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="212" to="220" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Nuorten hyvinvointi Suomessa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Luopa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lommi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kinnunen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Jokela</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>Terveyden ja hyvinvoinnin laitos</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Mannström-Mäkelä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Saukkola</surname></persName>
+		</author>
+		<title level="m">Voimaannuttavan ohjaamisen käsikirja</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palmenia</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mattila-Rautiainen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>PS-Kustannus</publisher>
+			<pubPlace>Jyväskylä</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Mustonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Oletko katsonut hevosta silmiin? Sosiaalipedagoginen hevostoiminta erityistä tukea tarvitsevien lasten ja nuorten kuntoutuksessa. Pro gradu-tutkielma</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Mäkinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Raatikainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rahikka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Saarnio</surname></persName>
+		</author>
+		<title level="m">Ammattina sosionomi</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOYpro Oy</publisher>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J.-E</forename><surname>Nurmi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ahonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Lyytinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Lyytinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Pulkkinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Ruoppila</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kehitys</forename><surname>Ihmisen Psykologinen</surname></persName>
+		</author>
+		<imprint>
+			<publisher>WSOY Oppimateriaalit Oy</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Sosiaalipedagogisen hevostoiminnan päämäärät ja toteutus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Orava</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Pro gradu-tutkielma. Itä-Suomen yliopisto. Filosofinen tiedekunta</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kuvaamana</forename><surname>Hevostoiminnan Ohjaajien</surname></persName>
+		</author>
+		<ptr target="http://kotisivukone.fi/files/hevostoiminta.kotisivukone.com/gradupdf.pdf" />
+		<imprint/>
+	</monogr>
+	<note>viitattu 12.8.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Paananen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Eriksson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Santalahti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Solantaus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Taanila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gissler</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Aikuisten ongelmat, lasten murheet-lapsuus ja myöhempi hyvinvointi</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Kansan terveys, yksilön hyvinvointi</title>
+		<editor>Reivinen, J. &amp; Vähäkylä, L.</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gaudeamus Oy</publisher>
+			<biblScope unit="page" from="37" to="51" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lastensuojelun asiakas ratsastusterapiassa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Palola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mattila</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Rautiainen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>PS-Kustannus</publisher>
+			<biblScope unit="page" from="373" to="390" />
+			<pubPlace>Ratsastusterapia. Jyväskylä</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Ratsastusterapian mahdollisuudet lasten ja nuorten psykososiaalisessa kuntoutuksessa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Palola</surname></persName>
+		</author>
+		<editor>Ikäheimo, K.</editor>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Tukholma: Solution Models House</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Karvaterapiaa-Eläinavusteinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Suomessa</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="157" to="170" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A-K</forename><surname>Pitkänen</surname></persName>
+		</author>
+		<title level="m">Hevosvoimia-Hyvää oloa hevosharrastuksesta</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kirjapaja</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Ratsastusterapia masennuksen hoidossa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Purola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mattila</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Rautiainen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>PS-Kustannus</publisher>
+			<biblScope unit="page" from="175" to="190" />
+			<pubPlace>Ratsastusterapia. Jyväskylä</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ratkes</surname></persName>
+		</author>
+		<title level="m">Ratkaisukeskeisyys pähkinänkuoressa</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>viitattu 29.1.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Saatavissa</surname></persName>
+		</author>
+		<ptr target="http://www.ratkes.fi/tietoa-ratkaisukeskeisyydestae/artikkeleita/ratkaisukeskeisyys-paehkinaenkuoressa/" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Rusanen</surname></persName>
+		</author>
+		<title level="m">Hoiva, kiintymys ja lapsen kehitys</title>
+		<meeting><address><addrLine>Porvoo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Finn Lectura</publisher>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Saaranen-Kauppinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Puusniekka</surname></persName>
+		</author>
+		<ptr target="http://www.fsd.uta.fi/menetelmaopetus/kvali/L5_6.html" />
+		<title level="m">KvaliMOTVMenetelmäopetuksen tietovaranto</title>
+		<meeting><address><addrLine>Tampere</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note>Yhteiskuntatieteellinen tietoarkisto. viitattu 22.1.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Saastamoinen</surname></persName>
+		</author>
+		<ptr target="http://epublications.uef.fi/pub/urn_nbn_fi_uef-20090016/urn_nbn_fi_uef-" />
+		<title level="m">Sosiaalipedagogisen hevostoiminnan mahdollisuudet psykososiaalisen toimintakyvyn tukemisessa. Pro gradu-tutkielma. Kuopion yliopisto, yhteiskuntatieteellinen tiedekunta</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>viitattu 10.8.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">2007b</forename><surname>Saastamoinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Suomenhevonen</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Suomen Hippos Oy</publisher>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Salonen</surname></persName>
+		</author>
+		<title level="m">Voimauttavan vertaisohjauksen käsikirja</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Leijonaemot ry</publisher>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Voimaantumisteorioiden perusteiden hahmottelua</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Siitonen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+	<note>viitattu</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Silkko-Vainio</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ry</forename><surname>Sosiaalipedagoginen Hevostoiminta</surname></persName>
+		</author>
+		<ptr target="http://www.hevostoiminta.net/1" />
+		<title level="m">Sosiaalipedagoginen hevostoiminta</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>viitattu 19.1.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sosiaaliportti</surname></persName>
+		</author>
+		<ptr target="http://www.sosiaaliportti.fi/fi-FI/vammaispalvelujen-kasikirja/itsenaisen-elaman-tuki/kuntoutus/kuntoutuksen-maaritelmia/" />
+		<title level="m">Kuntoutuksen määritelmiä</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>viitattu 29.1.</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Suomen Ratsastajainliitto Ry</surname></persName>
+		</author>
+		<idno>viitattu: 19.1</idno>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Saatavissa</surname></persName>
+		</author>
+		<ptr target="http://www.ratsastus.fi/lajit/vammaisratsastus" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ry</forename><surname>Suomen Ratsastusterapeutit</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>Ratsastusterapia [viitattu 15.1.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Saatavissa</surname></persName>
+		</author>
+		<ptr target="http://www.suomenratsastusterapeutit.net/" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Talvitie</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>Koordinaattori, Suomen Ratsastajainliitto ry. Sähköposti</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Terveyden Ja Hyvinvoinnin Laitos</surname></persName>
+		</author>
+		<ptr target="http://www.thl.fi/fi_FI/web/kasvunkumppanit-fi/tyon/menetelmat/voimavaralahtoiset_menetelmat" />
+		<title level="m">Kasvun kumppanit. Voimavaralähtöiset menetelmät</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>viitattu 10.2.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tuomi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sarajärvi</surname></persName>
+		</author>
+		<title level="m">Laadullinen tutkimus ja sisällönanalyysi</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi</publisher>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Hevostoiminnan terapeuttinen voima lasten ja nuorten ryhmissä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Törmälehto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Karvaterapiaa-Eläinavusteinen työskentely Suomessa</title>
+		<editor>Ikäheimo, K.</editor>
+		<meeting><address><addrLine>Tukholma</addrLine></address></meeting>
+		<imprint>
+			<publisher>Solution Models House</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="171" to="183" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Psykologisen ratsastusterapian vaikuttavat tekijät potilaan näkökulmasta. Psykologian pro-gradu tutkielma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Valkas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>Tampereen yliopisto</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Yhteiskunta-Ja Kulttuuritieteiden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Yksikkö</surname></persName>
+		</author>
+		<ptr target="http://tampub.uta.fi/bitstream/handle/10024/83512/gradu05867.pdf?sequence=1" />
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>viitattu 3.8.</note>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Valtioneuvoston Kuntoutusselonteko Eduskunnalle</surname></persName>
+		</author>
+		<ptr target="http://www15.uta.fi/arkisto/verkkotutor/reflekt.htm" />
+	</analytic>
+	<monogr>
+		<title level="j">Sosiaali-ja terveysministeriön julkaisuja</title>
+		<imprint>
+			<biblScope unit="volume">2002</biblScope>
+			<biblScope unit="page">6</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note>viitattu 29.1.. viitattu 27.1.</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Dialoginen asiakastyö</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Verneri</surname></persName>
+		</author>
+		<ptr target="http://verneri.net/yleis/kehitysvamma-ala-ammattina/tyomenetelmia/dialoginen-asiakastyo.html" />
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>viitattu 25.1.2014</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Määritelmiä ja mittareita-hyvinvoinnin monialaista palapeliä hahmottamassa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Vuorio</surname></persName>
+		</author>
+		<editor>Hautala, T., Nenonen, S. &amp; Tanskanen, I.</editor>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Näkökulmia hyvinvointiin 4. Turku: Turun ammattikorkeakoulun raportteja</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="6" to="22" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M-L</forename><surname>Yrjölä</surname></persName>
+		</author>
+		<title level="m">Hevosen vaikutukset ja ihmiselle asettamat haasteet</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Kuvailisitteko omin sanoin nuoren tilannetta ennen hevostoiminnan aloittamista</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Miten nuori selviytyi arkirutiineista? Millä tavoin nuori suhtautui koulunkäyntiin? Miten nuori onnistui solmimaan ystävyyssuhteita? Minkälaisena nuori näki omat kykynsä? Miten nuori suhtautui epäonnistumisiin? Miten nuori erotti oikean ja väärän? Miten nuori kykeni osoittamaan tunteitaan? Minkälaisena nuori koki elämänsä yleisesti? Sana on vapaa. Kaikki mielestänne oleelliset asiat, jotka johtivat hevostoiminnan aloittamiseen</title>
+		<imprint/>
+	</monogr>
+	<note>kiinnostavat meitä</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Alkukysely Mintelin hevostoiminnassa käyville nuorille</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Tällä kyselyllä haluamme saada selville alkutilannettasi ennen hevostoiminnan aloittamista. Seuraavan kyselyn, jolla kartoitamme hevostoiminnan myötä sinussa tapahtuneita muutoksia, toteutamme tämän toimintakauden päättyessä</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vastaukset käsitellään nimettöminä, eikä sinua voida kyselyiden perusteella tunnistaa. Haastattelulomakkeet hävitetään opinnäytetyön valmistuttua</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Kuvailisitko omin sanoin tilannettasi ennen hevostoiminnan aloittamista</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Mitä ajatuksia hevonen sinussa herätti? Oletko ollut aiemmin hevosten kanssa tekemisissä? Pelkäsitkö hevosia?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Miten</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Esim</surname></persName>
+		</author>
+		<title level="m">Mikä oli kaikkein hankalinta päivittäisissä toimissa? Miksi? Miten suhtauduit koulunkäyntiin? Menitkö mielelläsi kouluun? Miten koulunkäyntisi sujui? Miten pystyit keskittymään tunneilla? Miten selvisit läksyjen teosta ja ryhmätyöskentelystä? Miten tulit toimeen koulukavereiden ja opettajien kanssa? Miten suhtauduit vieraiden ihmisten tapaamiseen? Miten onnistuit solmimaan ystävyyssuhteita?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kykenitkö tarpeen vaatiessa puolustamaan toisten oikeuksia esim. riitatilanteissa kavereiden kanssa?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Miten suhtauduit epäonnistumisiin? Miten kykenit osoittamaan tunteitasi? Minkälaisena pidit itseäsi, olemus, ulkonäkö, arvokkuus? Minkälaisena koit elämäsi yleisesti? Minkälainen oli mielialasi? Miten suhtauduit tulevaisuuteen? Mitä haluat kertoa omin sanoin hevostoiminnan aloittamisesta?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Loppukysely Mintelin hevostoiminnassa mukana olevien nuorten vanhemmille ja huoltajille</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Nyt haluamme selvittää, minkälaisia muutoksia olette havainneet nuorissa sen jälkeen, kun he ovat aloittaneet voimauttavan hevostoiminnan</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Vastaukset käsitellään nimettöminä, eikä nuoria voida kyselyiden perusteella tunnistaa. Haastattelulomakkeet hävitetään opinnäytetyön valmistuttua</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kuvailisitteko omin sanoin nuorissa hevostoiminnan myötä tapahtuneita muutoksia</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Miten nuori selviytyy nykyisin arkirutiineista? Millä tavoin nuori suhtautuu koulunkäyntiin? Miten nuori onnistuu solmimaan ystävyyssuhteita? Minkälaisena nuori näkee omat kykynsä? Miten nuori suhtautuu epäonnistumisiin? Miten nuori erottaa oikean ja väärän? Miten nuori kykenee osoittamaan tunteitaan? Minkälaisena nuori kokee elämänsä yleisesti? Sana on vapaa. Kaikki mielestänne oleelliset asiat, joita olette hevostoiminnan aloittamisen jälkeen huomanneet mm. nuoren käyttäytymisessä</title>
+		<imprint/>
+	</monogr>
+	<note>kiinnostavat meitä</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<title level="m">Nuorten loppuhaastattelukysymykset Oletko huomannut arkirutiinien tai koulunkäynnin muuttuneen jotenkin hevostoiminnan aloittamisen jälkeen? Oletko huomannut muutoksia suhteessasi vieraisiin ihmisiin tai kaverisuhteiden solmimiseen hevostoiminnan aloittamisen jälkeen? Onko tunteiden osoittamisessa mielestäsi jotain muutoksia ht:n aloittamisen jälkeen? Minkälainen on ollut yleinen mielialasi ht:n aloittamisen jälkeen? Onko sinulla itsetuntoon tai epäonnistumisiin liittyviä muutoksia ht:n aloittamisen jälkeen?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Kuvaile yleisesti kokemuksiasi hevostoiminnasta ja minkälaisia vaikutuksia sinä koet siitä olleen itsellesi? Mikä on parasta?</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

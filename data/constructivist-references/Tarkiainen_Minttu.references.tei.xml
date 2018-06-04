@@ -1,0 +1,400 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_16"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Realistinen evaluaatio ja tuloksellinen kehittämistyö</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Anttila</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Artefakta</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<date type="published" when="2007" />
+			<publisher>Akatiimi Oy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">The Good Research Guide for Small-Scale Social research projects</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Denscombe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998" />
+			<publisher>Open University Press</publisher>
+			<pubPlace>Buckingham-Philadelphia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Heikkilä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Jokinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Nurmela</surname></persName>
+		</author>
+		<title level="m">Tutkiva kehittäminen. Avaimia tutkimus-ja kehittämishankkeisiin terveysalalla</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>WSOY Oppimateriaalit Oy</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Toimintatutkimuksen lähtökohdat</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">L T</forename><surname>Heikkinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Huttunen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">L T</forename><surname>Heikkinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Rovio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Syrjälä</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Toiminnasta tietoon. Toimintatutkimuksen menetelmät ja lähestymistavat</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kansanvalistusseura</publisher>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="16" to="38" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Toimintatutkimus tieteenä</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">L T</forename><surname>Heikkinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Huttunen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">L T</forename><surname>Heikkinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Rovio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Syrjälä</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Toiminnasta tietoon. Toimintatutkimuksen menetelmät ja lähestymistavat</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kansanvalistusseura</publisher>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="184" to="202" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Totuuden ongelma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">L T</forename><surname>Heikkinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Huttunen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Kakkori</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Tynjälä</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Toiminnasta tietoon. Toimintatutkimuksen menetelmät ja lähestymistavat</title>
+		<editor>Heikkinen, H. L. T.</editor>
+		<editor>Rovio, E. &amp; Syrjälä, L.</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kansanvalistusseura</publisher>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="163" to="183" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kananoja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lavikainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Oranen</surname></persName>
+		</author>
+		<ptr target="http://www.stm.fi/c/document_library/get_file?folderId=6511574&amp;name=DLFE-26809.pdf" />
+		<title level="m">Toimiva lastensuojelu-selvitysryhmän loppuraportti. Sosiaali-ja terveysministeriön raportteja ja muistioita</title>
+		<imprint>
+			<date type="published" when="2013" />
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">19</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Korhonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Julkunen</surname></persName>
+		</author>
+		<title level="m">Vuorovaikutuksella vaikuttavuuteen. Sosiaalialan hyvät käytännöt työn kehittämisen ja ohjaamisen välineenä. Hyvät käytännöt-ohjelman loppuraportti</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Stakes</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Kujala</surname></persName>
+		</author>
+		<title level="m">Sijoitettujen lasten biologisten vanhempien tukeminen</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sininauhaliitto Ry</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kuusikko-Työryhmä</surname></persName>
+		</author>
+		<ptr target="http://www.kuusikkokunnat.fi/SIRA_Files/downloads/Lastensuojelu_raportti_23042014.pdf.Lastensuojelulaki13.4.2007/417" />
+	</analytic>
+	<monogr>
+		<title level="m">Suomen kuuden suurimman kaupungin lastensuojelun palvelujen ja kustannusten vertailu vuonna 2012</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Lastensuojelun avohuollon perhetyö ammattikäytäntönä-jäsennyksiä perhetyöstä toimintatutkimuksen valossa</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Myllärniemi</surname></persName>
+		</author>
+		<ptr target="http://www.socca.fi/files/90/Lasten-suojelun_perhetyo_ammattikaytantona.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Soccan ja Heikki Waris-instituutin julkaisusarja</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>Heikki Waris-instituutti. Viitattu</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Niiniluoto</surname></persName>
+		</author>
+		<title level="m">Johdatus tieteenfilosofiaan-käsitteen-ja teorianmuodostus</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Otava</publisher>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+				<ptr target="http://www.soste.fi/elinvoimaiset-jarjestot/-arviointitoiminta/arviointitietoa/arviointityokaluja.html" />
+	</analytic>
+	<monogr>
+		<title level="m">SOSTE 2014</title>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="volume">25</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="http://www.thl.fi-/fi/tilastot/tilastot-aiheittain/lasten-nuorten-ja-perheiden-sosiaalipalvelut/lastensuojelu" />
+		<title level="m">Lastensuojelu 2012. Viitattu</title>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="volume">29</biblScope>
+		</imprint>
+	</monogr>
+	<note>THL 2012</note>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Toikko</surname></persName>
+		</author>
+		<ptr target="http://www.epshp.fi/files/5934/Suuntaaja3_2012.pdf" />
+		<title level="m">Asiakkaasta kokemusasiantuntijaksi. Suuntaaja 3/2012</title>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="4" to="7" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title level="a" type="main">Sosiaaliosaston toimintaohjeita. Sosiaalityön tulosalueen ohjeet, säännöt ja sopimukset</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sosiaaliosasto</forename><surname>Turun Kaupungin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Turun kaupungin intranet</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Vanhanen</surname></persName>
+		</author>
+		<title level="m">Kuka auttaisi meidän perhettä? Sijoitetun lapsen ja hänen perheensä tukeminen ja jälleenyhdistäminen-kehittämishankkeen raportti</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>SOS-Lapsikylä Ry</publisher>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Varsinais-Suomen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lastensuojelukuntayhtymä</surname></persName>
+		</author>
+		<ptr target="http://www.vslk.fi/index.php?id=19" />
+	</analytic>
+	<monogr>
+		<title level="j">Vanhemmuuden roolikartta. Viitattu</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Vilkka</surname></persName>
+		</author>
+		<title level="m">Tutki ja kehitä</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tammi</publisher>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+				<ptr target="http://www.uiah.fi/virtu/-materiaalit/tuotetiede/html_files/153_ohjaava.html" />
+		<title level="m">Toiminnan kehittäminen. Viitattu 25</title>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yhteiskuntatieteellinen</forename><surname>Tietoarkisto</surname></persName>
+		</author>
+		<ptr target="http://www.fsd.uta.fi/menetelmaopetus-/kyselylomake/laatiminen.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Menetelmäopetuksen tietovaranto. KvantiMOTV. Kyselylomakkeen laatiminen. Viitattu</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct >
+	<monogr>
+		<title level="m" type="main">Sosiaalinen konstruktionismi</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Wikipedia</surname></persName>
+		</author>
+		<ptr target="http://fi.wikipedia.org/wiki-/Sosiaalinen_konstruktionismi" />
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>
