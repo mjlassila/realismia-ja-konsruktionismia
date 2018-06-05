@@ -1,127 +1,19 @@
- 
-Ammattikorkeakoulu 
-Arja;Kirsi &amp; Suoninen Eero;Diskurssianalyysi 
-Asenteet 
+ Arja;Kirsi &amp; Suoninen Eero;Diskurssianalyysi 
 Asunnottomat Muuttavat Sörnäisistä Töölöön;Salomaa 
-Asunnottomien Keskukseen 
-Buber;Sinä 
-Burr 
-Burr 
-Butler 
-Eettinen Eläintenhoito;Viitattu 
-Eskola 
-Espoo 
-Etu-Töölöön 
-Euroopan 
-Foucault 
-Hakanen;Ahola;Kirsi;Härmä 
-Haluaisin;Päiväkodissa Olisi Enemmän 
-Hannele &amp; Roivainen;Marginaalit Ja Sosiaalityö. Jyväskylän;Yliopisto 
-Hautamäki 
-Heikkinen;Fredriksson;Johanna-Karvinen;Marjut-Ruohomäki 
-Hepworth;Dean 
-Huoltajan 
-Hänninen;Kaija; Julkunen;Hirsikoski;Riitta;Högnabba;Stina &amp; Paananen;Ilkka 
-Ihmisen Psykologinen 
-Jaetun Johtajuuden 
-Jari 
-Juntunen 
-Jyväskylän Yliopisto 
-Jyväskylän Yliopisto 
-Järvikoski;Härkäpää 
-Kamppi-Eira 
 Kasvatus-Ja Opetusalan Johtajuus-Projekti;Opettajankoulutuslaitos 
 Kivimäki;Hanne;Luopa;Pauliina;Nipuli;Suvi;Viikki;Suvi;Jokela;Jukka;Laukkarinen;Essi;Paananen 
 Koditon Pakenee Pakkasta Maan Alle;Sami Takala 
-Koivusalo;Ollila;&amp;alanko 
-Ksl-Opintokeskus 
-Kunnat 
-Kuula 
-Kuusi;Osmo; Ryynänen;Olli-Pekka 
-Laki 
-Laki Kuntouttavasta 
-Lassaunder 
-Lastensuojelulaki 
-Lastensuojelulaki 
-Lindberg 
-Lindberg 
-Lähisuhdeväkivalta 
-Lähteet 
-Mahdollisuuksien Talo;Kotka 
-Manka 
-Maria 
-Mattila-Rautiainen 
-Mentoring &amp; Coaching;Referoinut Lillkåll;Luento 
-Merja 
-Metsämuuronen 
-Mielenterveystalo;Viitattu 
-Muuramen 
-Nuorisopsykiatria 
-Nurmi;Ahonen;Lyytinen;Lyytinen;Pulkkinen;Ruoppila 
-Opetus-Ja;Kulttuuriministeriö 
-Oy 
-Oy 
-Paananen;Eriksson;Santalahti;Solantaus;Taanila;Gissler 
-Puistokulma 
-Rauha Ja Hyvä;Hietaniemenkadulle 
-Rautiainen 
-Rautiainen 
-Rooney;Ronald 
-Ropo;Eriksson;Sauer;Lehtimäki;Keso;Pietiläinen;Koivunen 
-Saastamoinen;Suomenhevonen 
-Saatavissa 
-Saatavissa 
-Saatavissa 
-Saatavissa 
-Saatavissa 
-Saatavissa 
-Saatavissa 
-Selvisin Hengissä;Marja Pennanen 
-Silkko-Vainio 
-Soleops;Opetussuunnitelmat 
-Sosiaalidemokraattiset Opiskelijat 
-Sosiaalihuoltolaki 
-Sosiaalinen Konstruktionismi 
-Sosiaalipedagogiikka;Viitattu 
-Sosiaalipedagoginen Hevostoiminta;Viitattu 
-Soste;Viitattu 
-Sotkamon Kunnan 
-Suomen Perustuslaki 1999;Www-Dokumentti 
-Suomen Ratsastajainliitto Ry 
-Suomen Ratsastusterapeutit 
-Suvisaari;Isohanni;Kieseppä 
-Säävälä;Hannu-Pohjoisvirta;Riitta-Keinänen;Eero-Salonen 
-Talvitie 
-Tampereen Yliopisto 
-Termit 
-Their 
-Toipumisorientaatio 
 Tuhat Omaa Huonetta;Matti Huuskonen 
 Tulevaisuus Toivoa Täynnä;Hellevi Pouta 
-Tunnuksilla Saatavissa Olevaa;Materiaalia 
-Tunnuksilla Saatavissa Olevaa;Materiaalia 
-Tunnuksilla Saatavissa Olevaa;Materiaalia 
-Tunnuksilla Saatavissa Olevaa;Materiaalia 
-Tunnuksilla Saatavissa Olevaa;Materiaalia 
-Tunnuksilla Saatavissa Olevaa;Materiaalia 
-Tunnuksilla Saatavissa Olevaa;Materiaalia 
-Turvakotienliitto 
-Tutkimus 
-Työvoimahallinto 
-Valtio 
-Vantaan 
 Www.Transtukipiste.Fi &gt; Tietoa Sukupuolesta &gt; Hlbtiq-Sanasto Transtukipiste 
 Www.Transtukipiste.Fi &gt; Tietoa Sukupuolesta Transtukipiste 
 Yhteiskunnan Yleinen 
 Yhteiskunta-Ja Kulttuuritieteiden;Yksikkö 
 Yritykset 
 Ystävällinen Voi Olla Olematta Ystävä;Jarmo Huhtanen 
-  Asunnottomat eivät solahtaneet Töölöön kivutta. U. Merituuli Saikkonen
-  Asunnottomat pääsevät muuttamaan Töölöön. U. Päivi Hotakka (t)
+Asunnottomat eivät solahtaneet Töölöön kivutta. U. Merituuli Saikkonen
+Asunnottomat pääsevät muuttamaan Töölöön. U. Päivi Hotakka (t)
 Stanley;Sue  Breaking out. Feminist consciousness and Feminist research
-  Diakonia-ammattikorkeakoulun julkaisuja. A. Tutkimuksia
-  Diakonian Tutkimuksen Seura i.a. Aikakauskirja. Viitattu
-  Eija Stengård
 Banks  Ethics, Accountability and the Social Professions
   Etutöölöläiset aikovat vielä valittaa ensisuojasta. U. Jukka Hämäläinen
   FinFami. Mielenterveysomaisten keskusliitto. Viitattu 4.1
@@ -318,7 +210,6 @@ Banks Ethics and Values in Social Work
 Vesa Etnografinen tutkimus Polkuja soveltavaan yhteiskuntatieteelliseen tutkimukseen
 Latvus Etsivän diakoniatyön historiaa ja uusia työmenetelmiä Diakonian tutkimus-aikakauskirja
 Hämäläinen Että äiti ois elossa ja iskä ois raitis ja me voitais asua siellä kotona Perhehoitoon sijoitettujen lasten kokemuksia ja ajatuksia perhehoidosta
- Etu-töölön toimijoita ovat kaksi palvelukeskuksen naapurissa asuva ja lähikaupan kassa. Vailla vakinaista asuntoa ry:n työntekijä osallistuu kolmannen sektorin roolista. Muita keskustelun toimijoita ovat putkan osastonhoitaja
  Euroopan neuvoston vammaispoliittinen toimintaohjelma
  Eurooppalaisen viitekehyksen taitotasot
 Brockbank;Mcgill Facilitating reflective Learning through
@@ -337,9 +228,6 @@ Mäkipeska;Niemelä Haasteena luottamus-Työyhteisön sosiaalinen pääoma ja sy
 Mäkipeska;Niemelä Haasteena luottamus. Työyhteisön sosiaalinen pääoma ja syvärakenne
 Aho Haasteet ja asiantuntijuus sosiaalialan työssä
 Karvinen Hajoaako sosiaalityö?-Havaintoja sosiaalityön ammatillisesta asiantuntijuudesta Moniammatillisuus ja sosiaalityö
- Haluaisin, että päiväkodissa olisi vähemmän… 6. Toivoisin, että päiväkodin aikuiset… Liite
- Haluatko jatkossa osallistua uuden asukkaan perehdyttäjänä?
- Haluatko kertoa jotain vielä muuta? Liite 4
 Williams Handbook of Disability Studies
  Harrastustoiminta 2009-2010-Kerhot-Kurssit-Ryhmät-esite
 Grönfors Havaintojen teko aineistokeräyksen menetelmänä Ikkunoita tutkimusmetodeihin 1, metodin valinta ja aineistonkeruu: virikkeitä aloittelevalle tutkijalle
@@ -431,12 +319,7 @@ Viitala Johtaminen ja organisaatiot
 Kauppinen Johtamisen johtaminen. Kuinka johtamisesta tehdään kilpailukykyä lisäävä tekijä
 Juuti Johtamisen kehittäminen Työyhteisön kehittäminen ja johtaminen
 Peltola Jokaisella on juttunsa-Se nostaa mistä syttyy
- Jokaisen osanottajan kokemuksista ainakin joitakin tulee pitää oikeutettuina 8. On välttämätöntä, että kaikki ymmärtävät
- Jokaisen osanottajan on hyväksyttävä, että muilla osanottajilla saattaa olla parempia perusteluja kuin hänellä itsellään on
- Jokaisen osanottajan työrooli, auktoriteetti tms. voidaan ottaa keskustelun kohteeksi 13. Osanottajien on siedettävä erilaisten mielipiteiden esiintymistä
- Jokaisen osanottajan velvollisuus on esittää oma näkökulma ja auttaa myös muita esittämään oma näkökulmansa
 Saarenheimo Jos etsit kadonnutta aikaa-vanhuus ja oman elämän muisteleminen
- Jos vahvuuden ja voittamisen sijaan näkisimme ympäröivän tilan ja yhteiskuntamme paikkana, johon kuuluvat erilaisuus ja sattumanvaraisuus, melu mutta keskinäinen rauha, voisi olla helpompi ottaa askelia toiseen suuntaan. Tällöin ei tarvitsisi kyetä kvartaalivuosittain uuteen ansaitakseen oikeutusta olla olemassa
  Joukko yrittäjiä ei halua asunnottomille asuntolaa Etu-Töölöön. U. Jarmo Huhtanen (t)
 Eskola Juha (toim.) 1995: Ihmistieteiden 1990-luvun metodologiaa etsimässä: keskustelua kasvatus-ja sosiaalitieteiden 1990luvun metodologiasta
 Eskola Juha 1998: Johdatus laadulliseen tutkimukseen
@@ -445,10 +328,6 @@ Jari;Suoranta Juha 2005. Johdatus laadulliseen tutkimukseen
 Karimaa Julkisen sektorin prosessien kuvaukset. Yleinen rakenne, esitysmuoto ja käsitteet
 Andersson Jälkisana Likaiset legendat
 Haapalainen Jämäkkä esimies vaikeiden työsuhdetilanteiden ratkaisijana. Kauppakamarisarja
- KIITOS! LIITE 3: Palaute saamastasi perehdytyksestä PALAUTE SAAMASTASI PEREHDYTYKSESTÄ Nimi 1. Mitä asukastoverit sinulle perehdyttivät? 2. Koitko saavasi riittävästi perehdytystä asukastovereilta? 3. Olisiko perehdyttämisessä ollut jotain mitä olisit kaivannut lisää? 4. Oliko asukastovereilta helppoa mennä kysymään lisäneuvoja jos niitä koit tarvitsevasi? Sanaa on vapaa, voit kertoa tähän mitä mieleesi vielä tulee
- Kaikki keskusteltavaan asiaan liittyvät väitteet ovat oikeutettuja
- Kaikki osallistujat ovat tasa-arvoisia
- Kaikkien asianosaisten on saatava osallistua keskusteluun
 Kinos;Kinos;Niemelä;Selinummi Kakaduu-ja lintubongaus-sanataideprojekti lapsilähtöisen pedagogiikan toteuttajina erityiskoulussa Pienet oppimassa. Kasvatuksellisia näkökulmia varhaiskasvatukseen ja esiopetukseen
 Ilkka Kaksi aineistoa erilaisina vuorovaikutuksen kenttinä Ryhmä-ja yksilöhaastattelun diskurssiivinen analyysi
 Valokivi Kansalainen asiakkaana. Tutkimus vanhusten ja lainrikkojien ja osallisuudesta oikeuksista ja velvollisuuksista. Väitöskirja. Sosiaalityön-ja sosiaalipolitiikan laitos Tampereen
@@ -471,7 +350,6 @@ Lehtovirta;Huusari;Peltola;Tattari Kasvurenkaita. Psykologia ja kehityspsykologi
 Lundell Kateus työyhteisössä
 Kalliala Kato mua! Kohtaako aikuinen lapsen päiväkodissa?
  Kaupunkitila on liian ahdas Hietaniemenkadun asuntolalle. H. Mikko Keski-Vähälä (t)
- Kehittämisehdotukset Pollesta Potkua ry • Yhdistyksen toiminnan fokuksen kirkastaminen ja perustehtävän kuvaaminen • Palveluiden tuotteistaminen ja kuvaaminen • Prosessien kuvaaminen • Yhdistyksen vuosikellon laatiminen • Liiketoimintasuunnitelma tekeminen • Viestintä ja markkinointisuunnitelman tekeminen • Viestinnän kohdentaminen eri ryhmille • Jäsenkyselyn toteuttaminen • Jäsentoiminnan aktivoiminen ja uusien jäsenten hankinta • Verkostoituminen muiden alan toimijoiden kanssa, osaamisverkoston rakentaminen • Verkostoituminen palvelun ostajien kanssa: sosiaali-ja terveystoimi ja yksityiset sosiaali-ja terveysalan yritykset
 Kuula Kenttätyötä ja muutospyrkimyksiä
 Kulmala Kerrottuja kertomuksia leimatusta identiteetistä ja toiseudesta
 Kulmala Kerrottuja kokemuksia leimatusta identiteetistä ja toiseudesta
@@ -483,11 +361,8 @@ Eurooppalainen Viitekehys Kielten oppimisen, opettamisen ja arvioinnin yhteinen 
 Hautamäki Kiintymyssuhdeteoria-teoria yksilön kiin(nit)tymisestä tärkeisiin toisiin ihmisiin, kiintymys suhteen katkoksista ja merkityksestä kehitykselle
 Johansson Kirjallisuuskatsaukset-huomio systemaattiseen kirjallisuuskatsaukseen Systemaattinen kirjallisuuskatsaus ja sen tekeminen
 Granfelt Kirjapaino Raamattutalo Oy: Pieksamäki Kertomuksia naisten kodittomuudesta
- Kirjoitukset on jaettu sen mukaan kuinka monta toimijaa niissä on äänessä: 1) yksiääniset, 2) kaksiääniset, 3) kolmiääniset ja 4) useampi kuin kolme toimijaa
- Kirjoitusten jakautuminen toimijoiden määrän mukaan Kaikista kirjoituksista niukasti suurin osa on yksiäänisiä
  Kirkkojärjestys 1991/1055, 8.11.1991. Kirkkolaki 1993/1054, 26
 Broberg;Almqvist;Tjus Kliininen lapsipsykologia
- Koemme tämän kehittämishankkeen lähteneen liikkeelle asukkaiden valmiudesta ottaa enemmän vastuuta palveluiden toteuttamisesta Tästä kokemuksesta voimaantuneina ajatuksemme ovat toiveikkaita asukkaita osallistavan toimintakulttuurin vahvistamiseen toiminnoissamme sen kaikilla tasoilla
 Keskinen Kohtaamisen paikkoja-tieto, valta ja sukupuoli sosiaalityössä
 Kinos Kohti lapsilähtöisen varhaiskasvatuksen teoriaa. Kasvatus. Suomen kasvatustieteellinen aikakauskirja 33
 Heinonen Kohti syvempää ymmärrystä sosiaalityössä-Tutkiva ja arvioiva työote sosiaalityöntekijöiden jäsentämänä. SOCCAN ja Heikki Waris Instituutin julkaisusarja 16/2007. Ammatillinen lisensiaattitutkimus
@@ -495,7 +370,6 @@ Kaukola Kohti täyttä elämää. Tutkimus kehitysvammaisista ihmisistä oman as
 Metteri Kokemuksen politiikan muotoilua toimintatutkimuksessa Asiakkaan ääntä kuunnellen. Kitkakohdista kehittämisehdotuksiin. Sosiaali-ja terveysjärjestöjen yhteistyöyhdistys YTY r.y
 Loppuraportti Kokemuksia hyvinvoinnista. SOHVI-hankkeen loppuraportti
 Perttula Kokemus ja kokemuksen tutkimus: Fenomenologisen erityistieteen tieteenteoria Kokemuksen tutkimus. Merkitys-tulkinta-ymmärtäminen
- Kolmiäänisiä kirjoituksia on kuusi (14,6 %) ja useampi kuin kolme toimijaa on äänessä seitsemässä (17,1 %) kirjoituksessa. Kirjoituksista yhteensä 26 (43,4%) on kaksi tai useampiäänisiä. Nämä kaksi-tai useampiäänisten kirjoitusten luokat sisältävät kirjoituksia, joissa sama toimijataho puhuu useamman toimijan äänellä, sekä kirjoituksia, joissa useampi toimijataho puhuu yhden tai useamman toimijan äänellä. Kirjoituksista, jotka ovat kaksi-tai useampiäänisiä (n=26), 22 sisältää useamman kuin yhden toimijatahon äänen. Parhaimmillaan kirjoituksissa yhdessä kirjoituksessa on neljän eri toimijan ääni, joista osassa sama toimija on äänessä mutta useamman eri henkilön kautta kuten esimerkiksi yksitAsunnottomien palvelukeskuksen ympärillä käyty kiista, palvelukeskuksen sijoittaminen ja toiminta ovat mielenkiintoinen osoitus kaupunkipolitiikasta ja-suunnittelusta vastoin Koskelan
 Haikonen Konflikteista aiheutuva stressi ja siitä selviytyminen opettajan työssä
 Toiviainen Konsumerismi, potilaiden ja kuluttajien aktiivinen toiminta sekä erityisesti lääkäreiden kokemukset ja näkemykset potilaista kuluttajina Väitöskirja. Helsingin yliopisto, lääketieteellinen tiedekunta. Stakes. Tutkimuksia
 Juntunen Koska se on muutakin kuin osto-osoitus". Diakoniatyöntekijöiden kokemuksia taloudelliseen avustamiseen motivoivista tekijöistä. Diakonian tutkimus-aikakauskirja 2/2007
@@ -506,10 +380,7 @@ Salo Koululuokan työrauhahäiriöiden ehkäiseminen, käsittely ja korjaaminen:
 Kiilakoski Koulun käytäviltä yhteistyöhön-kriittinen pedagogiikka koulun ulkopuolella Koulutuksen kulttuurit ja hyvinvoinnin politiikat. Toimittanut Lairio, M., Heikkinen, H. Tenttilä, M. Suomen kasvatustieteellinen seura
 Puurula Kouluntyörauha kasvatussosiologisena ongelmana Helsingin yliopisto: opettajankoulutuslaitos. Tutkimuksia
 Britt-Marie Kouluttajayhteisön ja vuorovaikutusjohtajuuden uudet haasteet. teoksessa ihminen, tunteet ja yhteisön elämä, s. 47-65. Toim. Antti-Veikko Perheentupa
-Roive Kouluvalmiuksien tukeminen valmistavassa esiopetuksessa. Työntekijöiden kokemuksia Vaasassa Vaasan Ammattikorkeakoulu. Opinnäytetyö AMK. Sosiaali-ja terveysala. Viitattu
- Kuinka kauan olet asunut tässä perheessä? Muistatko, minkä ikäinen olit, kun muutit tähän perheeseen? Onko tämä sinun ensimmäinen sijaisperheesi/ oletko aikaisemmin asunut jossain toisessa sijaisperheessä? Jos olet, tiedätkö miksi muutit sieltä pois tai miksi paikkaa vaihdettiin? Viihdytkö nykyisessä perheessäsi? Minkälaisia asioita teet kotona koulun jälkeen tai viikonloppuisin? Minkälaisia asioita haluaisit tehdä? Minkälaista sinun elämäsi/arkesi on mielestäsi nykyisin? Koetko, että elämäsi /arkesi sujuu hyvin? Mitä sinun mielestäsi sijaisvanhempiesi pitäisi tehdä, että arkesi sujuisi hyvin tai nykyistä paremmin? Mitä sinun mielestäsi sinun itsesi pitäisi tehdä, että sinun arkesi sujuisi hyvin tai nykyistä paremmin? Onko sinun elämästäsi kerätty kuvia tai muita muistoja kansioon tai albumiin tältä ajalta, kun olet asunut sijaisperheessä?
-Kiukas Kuinka pärjää kolmassektori sote-uudistuksessa Viitattu
-Suhde Biologisiin Vanhempiinsa Tapaatko Biologisia;Vanhempiasi Kuinka usein tapaat biologisia vanhempiasi/vanhempaasi? Haluaisitko tavata heitä nykyistä useammin? Haluaisitko tavata heitä nykyistä harvemmin? Missä tapaat heitä? Minkälaisia asioita teet vanhempiesi luona/kotona käydessäsi arkisin ja/tai viikonloppuisin? Minkälaisia asioita haluaisit tehdä? Muistatko, millaista sinun elämäsi/arkesi oli silloin, kun asuit biologisten vanhempiesi luona? Mitä sinun mielestäsi biologisten vanhempiesi/vanhemman pitäisi tehdä, että sinun elämäsi/sujuisi hyvin tai paremmin heidän kanssaan? Mitä sinun mielestäsi biologisten vanhempiesi/vanhempasi pitäisi tehdä, että sinun elämäsi/arkesi sujuisi paremmin sijaisperheessä? NUOREN SUHDE LÄHIYMPÄRISTÖÖNSÄ Onko sinulla sisaruksia? Asuvatko sisaruksesi tässä samassa perheessä, vai jossakin muualla? Tapaatko sisaruksiasi? jos tapaat, haluaisitko tavata heitä useammin/harvemmin? Missä tapaat heitä? Onko sinulla isovanhempia/tapaatko heitä? Jos tapaat, haluaisitko tavata nykyistä useammin/harvemmin? Missä tapaat heitä? Onko sinulla ystäviä? Haluaisitko, että sinulla olisi enemmän ystäviä? Tietävätkö ystäväsi, että asut sijaisperheessä? Jos tietävät, miten he mielestäsi suhtautuvat asiaan? Jos eivät tiedä, miksi eivät? Mitä teet ystävien kanssa/missä tapaat heitä/mitä haluaisit tehdä? Onko sinulla joku harrastus? Tietävätkö harrastus/koulukaverisi, että asut sijaisperheessä? Jos tietävät, miten he suhtautuvat asiaan? Jos eivät tiedä, miksi eivät?
+Roive Kouluvalmiuksien tukeminen valmistavassa esiopetuksessa. Työntekijöiden kokemuksia Vaasassa Vaasan Ammattikorkeakoulu. Opinnäytetyö AMK. Sosiaali-ja terveysala. 
 Vanhanen Kuka auttaisi meidän perhettä? Sijoitetun lapsen ja hänen perheensä tukeminen ja jälleenyhdistäminen-kehittämishankkeen raportti
  Kuka lasta kasvattaa? Vanhemmuuden ja yhteiskunnallisen kasvatuksen suhde vanhempien puheissa Alasuutari 2003
 Alasuutari Kuka lasta kasvattaa?-Vanhemmuuden ja yhteiskunnallisen kasvatuksen suhde vanhempien puheessa
@@ -532,12 +403,7 @@ Kari;Outi; Niskanen;Tuula; Lehtonen;Arslanoski Kuntoutumisen tukeminen
 Vuokkila-Oikkonen;Kiviniemi Kuormittavien tunteiden ratkaisuksi voimavaroja vahvistava moniammatillinen toimintamalli Sosiaaliohjaus-lähtökohtia ja käytäntöjä
 Talentian;Opiskeluhuollosta Kuraattori ja vastaava kuraattori
 Pietikäinen;Mäntynen Kurssi kohti diskurssia
- Kuvaile yleisesti kokemuksiasi hevostoiminnasta ja minkälaisia vaikutuksia sinä koet siitä olleen itsellesi? Mikä on parasta?
- Kuvailisitko omin sanoin tilannettasi ennen hevostoiminnan aloittamista
- Kuvailisitteko omin sanoin nuoren tilannetta ennen hevostoiminnan aloittamista
- Kuvailisitteko omin sanoin nuorissa hevostoiminnan myötä tapahtuneita muutoksia
 Yliruka Kuvastin: Reflektiivinen itse-ja vertaisarviointimenetelmä sosiaalityössä Työpapereita
- Kuvat Kuva 1: Pedagogisen johtajuuden menetelmät Fonsénia (2014) mukaillen
 Kananen Kvali. Kvalitatiivisen tutkimuksen teoria ja käytänteet
 Saaranen-Kauppinen KvaliMOTV-Menetelmäopetuksen tietovaranto
 Saaranen-Kauppinen KvaliMOTV-Menetelmäopetuksen tietovaranto Tampere: Yhteiskuntatieteellinen tietoarkisto. Viitattu
@@ -559,9 +425,6 @@ Koivunen;Vuorela;Haukkamaa Käyttäjät ovat merkittävä, mutta vähän hyödyn
 Robson Käytännön arvioinnin perusteet. Opas evaluaation tekijöille ja tilaajille
 De Bruijn;Tuula Käytännön psykoedukaatiota psykoosipotilaan perheelle. Suomen Lääkärilehti 41/2006. Viitattu 24.3.2015
 Mäkelä L (toim) 1992. Kvalitatiivisen aineiston analyysi ja tulkinta
- LIITE 1: Demokraattisen dialogin säännöt
- LIITE 2: Palaute uuden asukkaan perehdyttämisestä PALAUTE UUDEN ASUKKAAN PEREHDYTTÄMISESTÄ Nimi: 1. Mitä perehdytit uudelle asukkaalle? 2. Miltä tuntui perehdyttää uutta asukasta? 3. Koitko saavasi tarpeeksi tukea valmistautuessasi perehdyttämiseen? 4. Saitko palautetta perehdytettävältä asukkaalta? 5. Saitko palautetta henkilökunnalta? 6. Haluatko jatkossakin perehdyttää uutta asukasta a) samoihin asioihin mihin nyt perehdytit? b) eri asioihin mihin nyt? c) samoihin asioihin kuin nyt sekä joihinkin muihin toimintoihin? d) en halua perehdyttää jatkossa Dialogin tulee tuottaa jatkuvasti sopimuksia, jotka voivat johtaa käytännön toimenpiteisiin
-Vilkka LIITTEET LIITE 1. Taulukko 3. Tyyppien vertailua Ahon (1979) luokitteluun Tammi
 Kylmä;Juvakka Laadullinen terveystutkimus
 Anneli Laadullinen tutkimus ja sisällön analyysi
 Tuomi;Sarajärvi Laadullinen tutkimus ja sisällön analyysi
@@ -587,8 +450,8 @@ Syrjälä Laadullisen tutkimuksen työtapoja Tapaustutkimus opettajan ja tutkija
 Janhonen;Nikkonen Laadulliset tutkimusmenetelmät hoitotieteessä
 Nikander Laadullisten aineistojen litterointi, kääntäminen ja validiteetti Haastattelun analyysi
 Valokivi Lainrikkojan ääni auttamisjärjestelmässä Puhua vastaan ja vaieta. Neuvottelu kulttuurisista marginaaleista
- Laki sosiaalihuollon ammatillisen henkilöstön kelpoisuusvaatimuksista 272/2005. Laki maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta 493
- Laki sosiaalihuollon asiakkaan asemasta 22
+Laki sosiaalihuollon ammatillisen henkilöstön kelpoisuusvaatimuksista 272/2005. Laki maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta 493
+Laki sosiaalihuollon asiakkaan asemasta 22
 Viinamäki Lapin amk. Sosionomi (YAMK). Teema IVa: Kehittämistyö ja-hanke vaikuttajana
 Mikkola;Nivalainen Lapselle hyvä päivä tänään. Näkökulmia 2010-luvun varhaiskasvatukseen
 Saastamoinen Lapsen asema sijaishuollossa. Käsikirja arjen toimintaan
@@ -629,8 +492,6 @@ Kettunen Leipää vai läsnäoloa? Asiakkaan tarve ja diakoniatyöntekijän työ
 De Mello;Stenius-Ayouade Like Kustannus oy Asunnottomat vastaanottoyksiköissä. Asunnottomien vastaanottoyksiköiden asiakkaiden sosiaalinen tilanne ja terveydentila pääkaupunkiseudulla
 Suomen Linkki-jakson ohjaajan kirja: Tavoitteellista vertaisryhmätoimintaa työttömille
 Ruusuvuori Litteroijan muistilista Haastattelun analyysi
-Oy Litterointi tutkijoille, yrityksille ja asianajotoimistoille
- Loppukysely Mintelin hevostoiminnassa mukana olevien nuorten vanhemmille ja huoltajille
 Armi Luento Tikkurilan Laureassa tutkimusetiikasta syksyllä
 Heikkinen Luento laadullisesta tutkimuksesta Laurea. Tikkurila
 Bardy;Barkman;Janhunen Lukemisto lapsuuden kokemuksista lastenkodissa ja perhehoidossa Lastenkoti osana elämäntarinaa. Narratiivinen tutkimus lastenkodeissa asuneiden kertomuksista
@@ -663,7 +524,6 @@ Teittinen Merkintöjä vammaisuuden tutkimuksen itseymmärryksestä Vammaisuuden
 Moilanen;Räihä Merkitysrakenteiden tulkinta Ikkunoita tutkimusmetodeihin 2
 Lehtonen Merkitysten maailma
  Metsäsaarekkeesta näkee kauas. H. Arja-Riikka Nikkilä
-• Yhteistyön Vahvistaminen Mielenterveyden Keskusliiton kanssa • Yhteistyön vahvistaminen Suomen Green Care-yhdistyksen kanssa • Rahoitushakemusten aktiivinen tekeminen • Yrittäjyysmallin eri vaihtoehtojen kartoittaminen • Asiakastyytyväisyyden mittaaminen, palautelomakkeen laatiminen • Toiminnan jatkuva arviointi ja sen dokumentointi
 Suvisaari;Joukamaa;Lönnqvist Mielenterveyden häiriöiden yleisyys ja hoidon tarve Psykiatria
  Mielenterveyden häiriöt. Viitattu 20.3.2015
 Jankko Mielenterveyden kokemusasiantuntijuuden merkityksiä kuntoutujien ja omaisten ryhmäkeskusteluissa. Tampereen yliopisto. Sosiaalipolitiikan ja sosiaalityön laitos
@@ -693,15 +553,10 @@ Leskinen Miten jaksat työssä?
 Laine Miten kokemusta voidaan tutkia. Fenomenologinen näkökulma Ikkunoita tutkimusmetodeihin 2
 Turtiainen Miten kuulla lasta? Esimerkkinä päiväkotilasten ja koululaisten haastattelut. Tutkimus
 Miller;Rose Miten meitä hallitaan
- Miten nuori selviytyi arkirutiineista? Millä tavoin nuori suhtautui koulunkäyntiin? Miten nuori onnistui solmimaan ystävyyssuhteita? Minkälaisena nuori näki omat kykynsä? Miten nuori suhtautui epäonnistumisiin? Miten nuori erotti oikean ja väärän? Miten nuori kykeni osoittamaan tunteitaan? Minkälaisena nuori koki elämänsä yleisesti? Sana on vapaa. Kaikki mielestänne oleelliset asiat, jotka johtivat hevostoiminnan aloittamiseen
- Miten nuori selviytyy nykyisin arkirutiineista? Millä tavoin nuori suhtautuu koulunkäyntiin? Miten nuori onnistuu solmimaan ystävyyssuhteita? Minkälaisena nuori näkee omat kykynsä? Miten nuori suhtautuu epäonnistumisiin? Miten nuori erottaa oikean ja väärän? Miten nuori kykenee osoittamaan tunteitaan? Minkälaisena nuori kokee elämänsä yleisesti? Sana on vapaa. Kaikki mielestänne oleelliset asiat, joita olette hevostoiminnan aloittamisen jälkeen huomanneet mm. nuoren käyttäytymisessä
 Mattila Miten ohjata mielen kuntoutujaa? Yksityinen mielenterveystyön hoito-tai palvelukoti kehittyvänä pienyhteisönä. Helsingin yliopiston kasvatustieteen laitoksen tutkimuksia 179
 Cacciatore;Heimonen Miten opetan pettymyksen sietoa, eli miten lasta voi opettaa sietämään epäonnistumista?
- Miten suhtauduit epäonnistumisiin? Miten kykenit osoittamaan tunteitasi? Minkälaisena pidit itseäsi, olemus, ulkonäkö, arvokkuus? Minkälaisena koit elämäsi yleisesti? Minkälainen oli mielialasi? Miten suhtauduit tulevaisuuteen? Mitä haluat kertoa omin sanoin hevostoiminnan aloittamisesta?
 Korkeila Miten toipumisorientaatio muuttaa psykiatriaa? Viitattu 9
 Suoninen Miten tutkia moniäänistä ihmistä? Akateeminen väitöskirja. Tampereen yliopisto, sosiologian ja sosiaalipsykologian laitos
- Mitä ajatuksia hevonen sinussa herätti? Oletko ollut aiemmin hevosten kanssa tekemisissä? Pelkäsitkö hevosia?
- Mitä et haluaisi tehdä päiväkodissa? 6. Mitä toivoisit, että aikuiset tekisivät (kanssasi/lasten kanssa)? 7. Kerro jotain päiväkodistasi
 Kallio Mitä köyhyys on? Köyhyyden kulttuurisista jäsennyksistä subjektiivisiin merkityksiin
 Lahtinen Mitä laki sanoo työrauhasta? OAJ. Kehittämispäällikkö
 Kajanoja Mitä on hyvinvointi? Kuntapuntari 3
@@ -882,10 +737,6 @@ Väisänen;Niemelä;Suua Sanat työssä. Vuorovaikutus ammattitaitona
 Hellström Sata sanaa kasvatuksesta
 Jämsä Sateenkaariperheet ja hyvinvointi
 Karisto Satumaa-suomalaiseläkeläiset Espanjan aurinkorannikolla
- Sekalaiset, mutta aiheeseen liittyvät panijana voisivat olla sosiaalialan ammattilaiset sitouduttuaan yhteiskunnalliseen vaikuttamiseen ja heikommassa asemassa olevien puolustamiseen. Toivon, että opinnäytetyöni toimii puheenvuorona sosiaalisen vammaismallin puolesta ja näin omalta osaltaan vaikuttaa vammaisten ihmisten työllistymiseen
-Arnkil;Eriksson Selkeyttäviä vuoropuheluita moniammatilliseen yhteistyöhön. Dialogi. Sosiaali-ja terveysalan tutkimus-ja kehittämiskeskuksen lehti 8/98
-Remsu Selvitys varhaiskasvatuksen monikulttuurisuustilanteesta kunnan järjestämässä päivähoidossa pääkaupunkiseudulla helmikuussa 2005
- Seuraavassa taulukossa on koottuna tulosten pohjalta esille nousseet keskeiset kehittämisehdotukset
 Kiiski Sielunhoito
 Lahtonen Siinä tutkija missä tekijä-Toimintatutkimuksen perusteita ja näköaloja
 Heikkinen;Hannu; Huttunen;Rauno;Moilanen Siinä tutkija missä tekijä. Toimintatutkimuksen perusteita ja näköaloja
@@ -1180,14 +1031,7 @@ Suvi Väkivalta-Seuraamukset ja haavoittuvuus. Terttu Utriaisen juhlakirja. Lohi
 Nyqvist Väkivaltainen parisuhde, asiakkuus ja muutos. Prosessinarviointi parisuhdeväkivallasta ja turvakotien selviytymistä tukevasta asiakastyöstä. Ensija turvakotien liiton julkaisu 28
  Väkivaltaisten miesten hoitomallia suunnitelleen työryhmän raportti 1998: Vantaan kaupunki Sosiaali-ja teveydenhuollon toimialan julkaisuja C
 Särkelä Välittäminen ammattina. Näkökulmia sosiaaliseen auttamistyöhön
- Väärät vaikutelmat oman työn vaativuudesta
  WHO Empowerment in Mental Health-A partnership project of the WHO Regional Office for Europe and the European Commission. Fact sheet for the EU Thematic Conference
- WWW-dokumentti
-Helsingin WWW-dokumentti
-Helsingin WWW-dokumentti
-Helsingin WWW-dokumentti
-Helsingin WWW-dokumentti
- WWW-dokumentti Helsingin kaupunki 2011 (1)
 Berg;Kim;Miller;Scott Working With the Problem Drinker A Solution Focused Approach
  YK:n yleissopimus vammaisten henkilöiden oikeuksista ja sopimuksen valinnainen pöytäkirja
 Loimu Yhdistyksen ABC-opas suomalaiseen yhdistystoimintaan. Viitattu 26
@@ -1205,9 +1049,6 @@ Leino;Kähärä Yksilövastuisen hoitotyön periaatteiden toteutuminen potilaide
 Enkenberg Yliopistopedagogiikka haasteena ja kehittämisen kohteena
 Koskela;Ja Tuominen Yökaupunki-pelon kaupunki? Teoksessa Helsingin yö (toim. Lähteenmaa ja Mäkelä)
 Rossiter and Research in Social Work: Postmodern Feminist Perspectives
-Mielenterveyspoliittinen esittänyt uuden kansallisen mielenterveys-ja päihdeohjelman ohjelman sisällöksi mm. mielenterveyden edistämistä koko elämänkaaren ajan, ongelmien ehkäisyä, ihmisten nostamista keskiöön ja korjaavista palveluista siirtymistä varhaiseen tukeen. Ehdotuksessa mainitaan mm. mielenterveysosaamisen lisääminen kansalaistaidoksi, yksinäisyyden ja syrjäytymisen ehkäiseminen, Vaikuttavien, työmenetelmien käyttöönotto, kynnyksettömien palveluiden kehittäminen, monitoimijaiset palvelut, sisältäen järjestöjen palvelut ja ehkäisevän työn rahoitusmallien käyttöönotto Pollesta Potkua ry vastaa hyvin tähän huutoon
- minta saattaisi tuottaa uusia palveluita ja innovaatioita hevosavusteisen hyvinvoinnin kehittämiseen. Monialaisessa yhteistyössä voisi toimia sosiaali-ja terveysalan, hevosalan ja hyvinvointialojen ammattilaisia
- pitäis pystyä keskustelemaan kaikkien kanssa ja sit vaikka touhuttais, touhuis niinku yhdessä, tekisivät pihatöitä tai joitain vastaavaa, että et niinku kommunikoitais koko ajan keskenään kato
 Vantaa vantaa.fi/i perusdokumentti.asp?path=1;220;4720
  www.transtukipiste.fi > tietoa sukupuolesta > sukupuolen korjaushoito Suomessa
 Sydänmaalakka Älykäs organisaatio

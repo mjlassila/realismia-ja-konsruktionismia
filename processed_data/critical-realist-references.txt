@@ -54,16 +54,7 @@ Hujala;Eeva-Parrila;Sanna-Lindberg;Päivi-Nivala;Veijo-Tauriainen
 Karila;Jarmo-Virtanen;Jyväskylä 
 Varhaiskasvatuksen Teoriasuuntauksia;Toim;Karila;Kirsti-Kinos;Jarmovirtanen 
 Puolustusvoimat N.D;Varusmiestoimikunnat;Puolustusvoimat;Verkkodokumentti 
-Heponiemi;Wahlström;Elovainio;Sinervo;Aalto;Keskimäki 
-Hänninen;Julkunen;Hirsikoski;Högnabba;Paananen;Romo 
-Teoksessa;Salmela 
-Sosiaali-Ja;Terveysministeriö 
-Ilse 
-Jääskeläinen 
-Puhua Vastaan;Vaieta 
-Helsinki;Yliopistopainos 
-Lähteet 
-Råman 
+
  
  
 Metodin 
@@ -71,10 +62,7 @@ Rikosseuraamusalan Ohjelmatyön
 Helsingin Kaupunki 
 Verkkodokumentti;Luettu 
 Nopean Puuttumisen Perhetyön;Tulosraportti 
-Viro 
-Niemelä 
-Liukkonen 
-Ratkes Www-Sivusto  
+
 Lehtokoski  Aikuisen ADHD ja aivojen arvoitus
 Anna &amp; Goodman Robert  American Academy of child and adolescent psychiatry
 Mäkinen;Raatikainen;Rahikka;Saarnio  Ammattina sosionomi
@@ -532,11 +520,9 @@ Karila Lastentarhanopettajan ammatin vetovoima uhkaa hiipua. Lastentarha 5\2007
 Bondesson;Pratt;Brown;David;Brown;Mark;Hallsworth;Simon;Morrison Levels of punitiveness in Scandinavia: description and explanations The New Punitiveness. Trends, theories, perspectives
 Granö Liikkuvalla ja verkostoituvalla työotteella apua nuorille mielenterveyden vaikeuksissa-JERI-työryhmän kokemuksia ja tuloksia
 Keltikangas-Järvinen Liisa 2010. Sosiaalisuus ja sosiaaliset taidot
- Liite 1/1
 Hannula Liittyminen ryhmässä-esteiden työskentelystä Ryhmän voima ja viisaus, 40 vuotta ihmissuhdetaitojen opiskelua ryhmätyömenetelmin. Ryhmätyö ry
 Sihvonen Luennot, neuropsykiatrinen valmentaja-koulutus, SAMK täydennyskoulutus
 Varhaiskasvatuksen Suunnitelman Luettu 19.11
- Luettu 27
 Nummenmaa Lähdekritiikki Hyvä kirja
 Lehtonen Läheisyyttä asiakastyöhön. Lähipalvelutyöryhmän asiakasprojektin loppuraportti. Sosiaali-ja terveysministeriö Oy Edita Ab
 Eräsaari;Risto-Lingvist;Tuija-Mäntysaari;Marketta Lähisuhde väkivalta sovittelussa. Tutkimus ja kehittämishankkeen realistinen arviointi Gaudeamus Eskola, Jari-Suoranta, Juha 1998. Johdatus laadulliseen tutkimukseen
