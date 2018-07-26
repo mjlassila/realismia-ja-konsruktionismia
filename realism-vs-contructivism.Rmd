@@ -1,6 +1,6 @@
 ---
-title: "Opinnäytetöiden aihemallinnus"
-date: "24 May 2018"
+title: "Sosiaalityön AMK ja YAMK-opinnäytteiden rakenteinen aihemallinnus"
+date: "26.7.2018"
 output: html_document
 ---
 
@@ -42,7 +42,7 @@ out <- stm::prepDocuments(
 
 ```
 
-```{r estimating-model-spectral, eval = TRUE, echo = FALSE, message=FALSE}
+```{r estimating-model-spectral, eval = TRUE, echo = TRUE, message=FALSE}
 final_model_fit <- suppressPackageStartupMessages(stm::stm(
   documents = out$documents,
   vocab = out$vocab,
@@ -61,6 +61,8 @@ prep <- stm::estimateEffect(
 ```
 
 ```{r top-topics, echo=FALSE,width=6,height=5, units='in', res=300}
+project_dir <- here::here()
+figure_dir <- paste0(project_dir,"/processed_data/figures/")
 topic_numbers <- paste0("Aihe ",seq(1:10))
 topic_names <- c(
   "varhaiskasvatus",
@@ -75,7 +77,7 @@ topic_names <- c(
   "rakenteellinen työ"
   )
 topic_labels <- paste0(topic_numbers,': ',topic_names," | ")
-png("top_topics.png", width=9,height=4, units='in', res=300)
+png(paste0(figure_dir,'top_topics.png'), width=9,height=4, units='in', res=300)
 graphics::plot(
   final_model_fit,
   type = "summary",
@@ -88,10 +90,17 @@ graphics::plot(
 dev.off()
 ```
 
+```{r echo=FALSE, out.width='70%'}
+knitr::include_graphics(paste0(figure_dir,'top_topics.png'))
+```
+
+
 ```{r covariate-comparison, echo=FALSE, fig.height=10, fig.width=15}
+project_dir <- here::here()
+figure_dir <- paste0(project_dir,"/processed_data/figures/")
 covariate_levels <- c("(kriittinen realismi vs. konstruktivismi)")
 covariate_labels <- paste0(topic_numbers,': ',topic_names, ' ',covariate_levels)
-png("topic-prevalence-vs-epistomology.png", width=7.7,height=11.1, units='in', res=300)
+png(paste0(figure_dir,'topic-prevalence-vs-epistomology.png'), width=7.7,height=11.1, units='in', res=300)
 graphics::plot(
   prep,
   covariate = "epistemology",
@@ -110,9 +119,14 @@ par(mai=c(1.02,2.2,0.82,2.2))
 dev.off()
 ```
 
+```{r echo=FALSE, out.width='70%'}
+knitr::include_graphics(paste0(figure_dir,'topic-prevalence-vs-epistomology.png'))
+```
+
+
 ## Listaus dokumenteista joissa aihe esiintyy
 
-Listauksen numero vastaa aiheen (topic) numeroa. Aihe voi esiintyä myös muissa kuin listaukseen valituissa kuudessa dokumentissa aihetta kohti.
+Listauksen numero vastaa aiheen (topic) numeroa. Aihe voi esiintyä myös muissa kuin listaukseen valituissa kymmenessä dokumentissa aihetta kohti.
 
 ```{r document-names}
 document_names <- list()
@@ -122,11 +136,9 @@ for (i in 1:10) {
 print(document_names)
 ```
 
-## Vertailumuuttuja ja aiheen esiintyvyys
+## Vertailumuuttuja ja aiheen suhteellinen esiintyvyys aineistossa
 
-Kun aineisto on näin pieni, p-lukuihin ei kannattane juuri luottaa.
-
-```{r}
+```{r, eval=FALSE, echo=FALSE}
 summary(prep)
 ```
 
@@ -160,10 +172,4 @@ for (i in 1:10) {
 }
 ```
 
-# Aiheiden laadukkuus (semantic coherence)
-
-
-```{r topic-quality}
-topicQuality(final_model_fit,documents=out$documents)
-```
 
