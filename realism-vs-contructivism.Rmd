@@ -60,15 +60,54 @@ prep <- stm::estimateEffect(
   1:10 ~ epistemology, final_model_fit, meta = out$meta, uncertainty = "Global")
 ```
 
-```{r top-topics, fig.height=5, fig.width=8, echo=FALSE}
-pdf("top_topics.pdf")
-graphics::plot(final_model_fit, type = "summary", xlim = c(0, .3))
+```{r top-topics, echo=FALSE,width=6,height=5, units='in', res=300}
+topic_numbers <- paste0("Aihe ",seq(1:10))
+topic_names <- c(
+  "varhaiskasvatus",
+  "lastensuojelu",
+  "palvelukeskus",
+  "asiakastyö",
+  "varhaiskasvatuksen johtaminen",
+  "perhetyö",
+  "lähisuhdeväkivalta",
+  "sosiaalityö",
+  "asiakasnäkökulma",
+  "rakenteellinen työ"
+  )
+topic_labels <- paste0(topic_numbers,': ',topic_names," | ")
+png("top_topics.png", width=9,height=4, units='in', res=300)
+graphics::plot(
+  final_model_fit,
+  type = "summary",
+  xlim = c(0, .3),
+  topic.names = topic_labels,
+  xlab = c("Aiheen esiintyvyys aineistossa"),
+  main = c('Aiheiden yleisyys'),
+  text.cex = 0.75
+  )
 dev.off()
 ```
 
 ```{r covariate-comparison, echo=FALSE, fig.height=10, fig.width=15}
-graphics::plot(prep, covariate = "epistemology", topics = c(1:10),model = final_model_fit, method = "difference", cov.value1 = "critical-realism",cov.value2 = "constructivist",xlim = c(-0.7,0.7))
+covariate_levels <- c("(kriittinen realismi vs. konstruktivismi)")
+covariate_labels <- paste0(topic_numbers,': ',topic_names, ' ',covariate_levels)
+png("topic-prevalence-vs-epistomology.png", width=7.7,height=11.1, units='in', res=300)
+graphics::plot(
+  prep,
+  covariate = "epistemology",
+  topics = c(1:10),
+  model = final_model_fit,
+  method = "difference",
+  cov.value1 = "critical-realism",
+  cov.value2 = "constructivist",
+  xlim = c(-0.7,0.7),
+  xlab = c("Aiheen suhteellinen esiintyvyys aineistossa"),
+  main = c("Aiheiden esiintyvyys aineistossa tarkasteltuna epistemologian suhteen"),
+  labeltype="custom",
+  custom.labels = covariate_labels,
+  verbose.labels = FALSE)
 par(mai=c(1.02,2.2,0.82,2.2))
+dev.off()
 ```
 
 ## Listaus dokumenteista joissa aihe esiintyy
@@ -78,7 +117,7 @@ Listauksen numero vastaa aiheen (topic) numeroa. Aihe voi esiintyä myös muissa
 ```{r document-names}
 document_names <- list()
 for (i in 1:10) {
-  document_names[[i]]<-findThoughts(final_model_fit, texts = combined_documents,n = 6, topics = i)$docs[[1]]
+  document_names[[i]]<-findThoughts(final_model_fit, texts = combined_documents,n = 10, topics = i)$docs[[1]]
 }
 print(document_names)
 ```
@@ -92,13 +131,36 @@ summary(prep)
 ```
 
 ```{r document-wordclouds}
+project_dir <- here::here()
+figure_dir <- paste0(project_dir,"/processed_data/figures/")
+topic_names <- c(
+  "varhaiskasvatus",
+  "lastensuojelu",
+  "palvelukeskus",
+  "asiakastyö",
+  "varhaiskasvatuksen johtaminen",
+  "perhetyö",
+  "lähisuhdeväkivalta",
+  "sosiaalityö",
+  "asiakasnäkökulma",
+  "rakenteellinen työ"
+  )
 for (i in 1:10) {
-  cloud(final_model_fit, topic = i, scale = c(2,.25))
-  title(paste0("Sanapilvi aihe ",i))
+  png(paste0(figure_dir,topic_names[i],'.png'), width=6,height=5, units='in', res=300)
+  cloud(
+    final_model_fit,
+    topic = i,
+    max.words = 55,
+    scale = c(2.5,.2),
+    mai=c(0.01,0.01,0.01,0.01),
+    cex.main=1.45)
+  title(paste0("Aihe ",i,": ",topic_names[i]))
+  dev.off()
+  
 }
 ```
 
-# Aiheiden laadukkuus (semantic coherence & exlusivity)
+# Aiheiden laadukkuus (semantic coherence)
 
 
 ```{r topic-quality}
