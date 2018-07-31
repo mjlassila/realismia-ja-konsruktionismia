@@ -11,11 +11,14 @@ let $level:=
 string-join(for $level in $item/metadata[@qualifier eq 'ontasot'][. contains text {'yamk','amk'} any word]
 return $level)
 
-group by $level
+let $institution:= data($item/metadata[@element eq "organization"][1])
 
+group by $level,$institution
+order by $institution,$level
 return
 <entry>
 <level>{$level}</level>
+<institution>{$institution}</institution>
 <count>{count($item)}</count>
 </entry>
 }</csv>

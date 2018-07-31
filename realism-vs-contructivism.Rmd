@@ -98,7 +98,8 @@ knitr::include_graphics(paste0(figure_dir,'top_topics.png'))
 ```{r covariate-comparison, echo=FALSE, fig.height=10, fig.width=15}
 project_dir <- here::here()
 figure_dir <- paste0(project_dir,"/processed_data/figures/")
-covariate_levels <- c("(kriittinen realismi vs. konstruktivismi)")
+# covariate_levels <- c("(kriittinen realismi vs. konstruktivismi)")
+covariate_levels <- c("")
 covariate_labels <- paste0(topic_numbers,': ',topic_names, ' ',covariate_levels)
 png(paste0(figure_dir,'topic-prevalence-vs-epistomology.png'), width=7.7,height=11.1, units='in', res=300)
 graphics::plot(
@@ -110,7 +111,7 @@ graphics::plot(
   cov.value1 = "critical-realism",
   cov.value2 = "constructivist",
   xlim = c(-0.7,0.7),
-  xlab = c("Aiheen suhteellinen esiintyvyys aineistossa"),
+  xlab = c("konstruktivismi — kriittinen realismi"),
   main = c("Aiheiden esiintyvyys aineistossa tarkasteltuna epistemologian suhteen"),
   labeltype="custom",
   custom.labels = covariate_labels,
@@ -138,7 +139,7 @@ print(document_names)
 
 ## Vertailumuuttuja ja aiheen suhteellinen esiintyvyys aineistossa
 
-```{r, eval=FALSE, echo=FALSE}
+```{r, eval=TRUE, echo=TRUE}
 summary(prep)
 ```
 
