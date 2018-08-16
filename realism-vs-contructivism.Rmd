@@ -111,13 +111,28 @@ graphics::plot(
   cov.value1 = "critical-realism",
   cov.value2 = "constructivist",
   xlim = c(-0.7,0.7),
-  xlab = c("konstruktivismi — kriittinen realismi"),
+  xlab = c("konstruktionismi — kriittinen realismi"),
   main = c("Aiheiden esiintyvyys aineistossa tarkasteltuna epistemologian suhteen"),
   labeltype="custom",
   custom.labels = covariate_labels,
   verbose.labels = FALSE)
 par(mai=c(1.02,2.2,0.82,2.2))
 dev.off()
+```
+```{r epistomology-effect-test}
+topic_6_effect <- t.test(
+  final_model_fit$theta[,6][out$meta$epistemology=="critical-realism"],
+  final_model_fit$theta[,6][out$meta$epistemology=="constructivist"],
+  conf.level=.9)
+topic_6_effect$estimate[1] - topic_6_effect$estimate[2]
+topic_6_effect$conf.int
+
+topic_3_effect <- t.test(
+  final_model_fit$theta[,3][out$meta$epistemology=="critical-realism"],
+  final_model_fit$theta[,3][out$meta$epistemology=="constructivist"],
+  conf.level=.9)
+topic_3_effect$estimate[1] - topic_3_effect$estimate[2]
+topic_3_effect$conf.int
 ```
 
 ```{r echo=FALSE, out.width='70%'}
@@ -171,6 +186,22 @@ for (i in 1:10) {
   dev.off()
   
 }
+```
+
+```{r document-wordcloud-topic-6}
+project_dir <- here::here()
+figure_dir <- paste0(project_dir,"/processed_data/figures/")
+
+  png(paste0(figure_dir,'perhetyo_topic_for_publication.png'), width=3.5,height=3.5, units='in', res=300)
+  cloud(
+    final_model_fit,
+    topic = 6,
+    max.words = 55,
+    scale = c(3.1,.20),
+    mai=c(0.0001,0.0001,0.0001,0.0001),
+    cex.main=1.45)
+  dev.off()
+  
 ```
 
 
